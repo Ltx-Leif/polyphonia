@@ -1,0 +1,10 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, atmospheric synth and punchy drums.",
+        "Baseline Prompt": "A recording of a smooth violin, deep bass, atmospheric synth and punchy drums.",
+        "Vocals Softmask Prompt": "a smooth violin",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "atmospheric synth"
+    }
+}
