@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Baseline Prompt": "A recording of a violin, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Vocals Softmask Prompt": "a violin",
+        "Bass Softmask Prompt": "a steady, walking bassline",
+        "Drums Softmask Prompt": "a simple, steady backbeat",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Baseline Prompt": "A recording of a cello, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Vocals Softmask Prompt": "a cello",
+        "Bass Softmask Prompt": "a steady, walking bassline",
+        "Drums Softmask Prompt": "a simple, steady backbeat",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Baseline Prompt": "A recording of a flute, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Vocals Softmask Prompt": "a flute",
+        "Bass Softmask Prompt": "a steady, walking bassline",
+        "Drums Softmask Prompt": "a simple, steady backbeat",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Baseline Prompt": "A recording of a trumpet, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Vocals Softmask Prompt": "a trumpet",
+        "Bass Softmask Prompt": "a steady, walking bassline",
+        "Drums Softmask Prompt": "a simple, steady backbeat",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Baseline Prompt": "A recording of a choir, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Vocals Softmask Prompt": "a choir",
+        "Bass Softmask Prompt": "a steady, walking bassline",
+        "Drums Softmask Prompt": "a simple, steady backbeat",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Baseline Prompt": "A recording of a saxophone, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Vocals Softmask Prompt": "a saxophone",
+        "Bass Softmask Prompt": "a steady, walking bassline",
+        "Drums Softmask Prompt": "a simple, steady backbeat",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    },
+    "vocals2harp": {
+        "Original Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Baseline Prompt": "A recording of a harp, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Vocals Softmask Prompt": "a harp",
+        "Bass Softmask Prompt": "a steady, walking bassline",
+        "Drums Softmask Prompt": "a simple, steady backbeat",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    },
+    "guitar2piano": {
+        "Original Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Baseline Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a piano and a simple, steady backbeat.",
+        "Vocals Softmask Prompt": "a soft breathy vocal",
+        "Bass Softmask Prompt": "a steady, walking bassline",
+        "Drums Softmask Prompt": "a simple, steady backbeat",
+        "Others Softmask Prompt": "a piano"
+    },
+    "guitar2organ": {
+        "Original Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Baseline Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a organ and a simple, steady backbeat.",
+        "Vocals Softmask Prompt": "a soft breathy vocal",
+        "Bass Softmask Prompt": "a steady, walking bassline",
+        "Drums Softmask Prompt": "a simple, steady backbeat",
+        "Others Softmask Prompt": "a organ"
+    },
+    "guitar2mandolin": {
+        "Original Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Baseline Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a mandolin and a simple, steady backbeat.",
+        "Vocals Softmask Prompt": "a soft breathy vocal",
+        "Bass Softmask Prompt": "a steady, walking bassline",
+        "Drums Softmask Prompt": "a simple, steady backbeat",
+        "Others Softmask Prompt": "a mandolin"
+    },
+    "guitar2sax": {
+        "Original Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Baseline Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a saxophone and a simple, steady backbeat.",
+        "Vocals Softmask Prompt": "a soft breathy vocal",
+        "Bass Softmask Prompt": "a steady, walking bassline",
+        "Drums Softmask Prompt": "a simple, steady backbeat",
+        "Others Softmask Prompt": "a saxophone"
+    },
+    "guitar2trumpet": {
+        "Original Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Baseline Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a trumpet and a simple, steady backbeat.",
+        "Vocals Softmask Prompt": "a soft breathy vocal",
+        "Bass Softmask Prompt": "a steady, walking bassline",
+        "Drums Softmask Prompt": "a simple, steady backbeat",
+        "Others Softmask Prompt": "a trumpet"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Baseline Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a arpeggiated guitar melody and a jazz drum.",
+        "Vocals Softmask Prompt": "a soft breathy vocal",
+        "Bass Softmask Prompt": "a steady, walking bassline",
+        "Drums Softmask Prompt": "a jazz drum",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Baseline Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a arpeggiated guitar melody and an electronic drum.",
+        "Vocals Softmask Prompt": "a soft breathy vocal",
+        "Bass Softmask Prompt": "a steady, walking bassline",
+        "Drums Softmask Prompt": "an electronic drum",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a soft breathy vocal, a steady, walking bassline, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Baseline Prompt": "A recording of a soft breathy vocal, an upright bass, a arpeggiated guitar melody and a simple, steady backbeat.",
+        "Vocals Softmask Prompt": "a soft breathy vocal",
+        "Bass Softmask Prompt": "an upright bass",
+        "Drums Softmask Prompt": "a simple, steady backbeat",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    }
+}

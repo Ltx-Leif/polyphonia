@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of a soulful male vocal, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Baseline Prompt": "A recording of a violin melody, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Vocals Softmask Prompt": "a violin melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a steady drum",
+        "Others Softmask Prompt": "a gentle rhythmic acoustic guitar melody"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of a soulful male vocal, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Baseline Prompt": "A recording of a cello melody, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Vocals Softmask Prompt": "a cello melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a steady drum",
+        "Others Softmask Prompt": "a gentle rhythmic acoustic guitar melody"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of a soulful male vocal, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Baseline Prompt": "A recording of a choir melody, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Vocals Softmask Prompt": "a choir melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a steady drum",
+        "Others Softmask Prompt": "a gentle rhythmic acoustic guitar melody"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of a soulful male vocal, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Baseline Prompt": "A recording of a flute melody, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Vocals Softmask Prompt": "a flute melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a steady drum",
+        "Others Softmask Prompt": "a gentle rhythmic acoustic guitar melody"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of a soulful male vocal, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Baseline Prompt": "A recording of a trumpet melody, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Vocals Softmask Prompt": "a trumpet melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a steady drum",
+        "Others Softmask Prompt": "a gentle rhythmic acoustic guitar melody"
+    },
+    "vocals2trombone": {
+        "Original Prompt": "A recording of a soulful male vocal, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Baseline Prompt": "A recording of a trombone melody, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Vocals Softmask Prompt": "a trombone melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a steady drum",
+        "Others Softmask Prompt": "a gentle rhythmic acoustic guitar melody"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of a soulful male vocal, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Baseline Prompt": "A recording of a saxophone melody, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Vocals Softmask Prompt": "a saxophone melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a steady drum",
+        "Others Softmask Prompt": "a gentle rhythmic acoustic guitar melody"
+    },
+    "acousticguitar2piano": {
+        "Original Prompt": "A recording of a soulful male vocal, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Baseline Prompt": "A recording of a soulful male vocal, a steady bass line, a piano melody and a steady drum.",
+        "Vocals Softmask Prompt": "a soulful male vocal",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a steady drum",
+        "Others Softmask Prompt": "a piano melody"
+    },
+    "acousticguitar2organ": {
+        "Original Prompt": "A recording of a soulful male vocal, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Baseline Prompt": "A recording of a soulful male vocal, a steady bass line, a organ melody and a steady drum.",
+        "Vocals Softmask Prompt": "a soulful male vocal",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a steady drum",
+        "Others Softmask Prompt": "a organ melody"
+    },
+    "acousticguitar2mandolin": {
+        "Original Prompt": "A recording of a soulful male vocal, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Baseline Prompt": "A recording of a soulful male vocal, a steady bass line, a mandolin melody and a steady drum.",
+        "Vocals Softmask Prompt": "a soulful male vocal",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a steady drum",
+        "Others Softmask Prompt": "a mandolin melody"
+    },
+    "acousticguitar2banjo": {
+        "Original Prompt": "A recording of a soulful male vocal, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Baseline Prompt": "A recording of a soulful male vocal, a steady bass line, a banjo melody and a steady drum.",
+        "Vocals Softmask Prompt": "a soulful male vocal",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a steady drum",
+        "Others Softmask Prompt": "a banjo melody"
+    },
+    "acousticguitar2harp": {
+        "Original Prompt": "A recording of a soulful male vocal, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Baseline Prompt": "A recording of a soulful male vocal, a steady bass line, a harp melody and a steady drum.",
+        "Vocals Softmask Prompt": "a soulful male vocal",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a steady drum",
+        "Others Softmask Prompt": "a harp melody"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a soulful male vocal, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Baseline Prompt": "A recording of a soulful male vocal, a steady bass line, a gentle rhythmic acoustic guitar melody and a jazz drum.",
+        "Vocals Softmask Prompt": "a soulful male vocal",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a jazz drum",
+        "Others Softmask Prompt": "a gentle rhythmic acoustic guitar melody"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a soulful male vocal, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Baseline Prompt": "A recording of a soulful male vocal, a steady bass line, a gentle rhythmic acoustic guitar melody and an electronic drum beat.",
+        "Vocals Softmask Prompt": "a soulful male vocal",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "an electronic drum beat",
+        "Others Softmask Prompt": "a gentle rhythmic acoustic guitar melody"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a soulful male vocal, a steady bass line, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Baseline Prompt": "A recording of a soulful male vocal, an upright bass, a gentle rhythmic acoustic guitar melody and a steady drum.",
+        "Vocals Softmask Prompt": "a soulful male vocal",
+        "Bass Softmask Prompt": "an upright bass",
+        "Drums Softmask Prompt": "a steady drum",
+        "Others Softmask Prompt": "a gentle rhythmic acoustic guitar melody"
+    }
+}

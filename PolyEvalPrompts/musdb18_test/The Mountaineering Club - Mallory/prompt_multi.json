@@ -1,0 +1,122 @@
+{
+    "piano2orchestra": {
+        "Original Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a lush orchestra, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a steady bass guitar",
+        "Drums Softmask Prompt": "simple drums",
+        "Others Softmask Prompt": "a lush orchestra"
+    },
+    "piano2choir": {
+        "Original Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a warm choir, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a steady bass guitar",
+        "Drums Softmask Prompt": "simple drums",
+        "Others Softmask Prompt": "a warm choir"
+    },
+    "piano2flute": {
+        "Original Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a soft flute, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a steady bass guitar",
+        "Drums Softmask Prompt": "simple drums",
+        "Others Softmask Prompt": "a soft flute"
+    },
+    "piano2cello": {
+        "Original Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a rich cello, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a steady bass guitar",
+        "Drums Softmask Prompt": "simple drums",
+        "Others Softmask Prompt": "a rich cello"
+    },
+    "piano2harp": {
+        "Original Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a delicate harp, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a steady bass guitar",
+        "Drums Softmask Prompt": "simple drums",
+        "Others Softmask Prompt": "a delicate harp"
+    },
+    "piano2vibraphone": {
+        "Original Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a mellow vibraphone, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a steady bass guitar",
+        "Drums Softmask Prompt": "simple drums",
+        "Others Softmask Prompt": "a mellow vibraphone"
+    },
+    "piano2marimba": {
+        "Original Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a warm marimba, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a steady bass guitar",
+        "Drums Softmask Prompt": "simple drums",
+        "Others Softmask Prompt": "a warm marimba"
+    },
+    "guitar2acoustic": {
+        "Original Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a bright acoustic guitar and simple drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a steady bass guitar",
+        "Drums Softmask Prompt": "simple drums",
+        "Others Softmask Prompt": "a bright acoustic guitar"
+    },
+    "guitar2mandolin": {
+        "Original Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a crisp mandolin and simple drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a steady bass guitar",
+        "Drums Softmask Prompt": "simple drums",
+        "Others Softmask Prompt": "a crisp mandolin"
+    },
+    "guitar2banjo": {
+        "Original Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a clean banjo and simple drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a steady bass guitar",
+        "Drums Softmask Prompt": "simple drums",
+        "Others Softmask Prompt": "a clean banjo"
+    },
+    "guitar2sitar": {
+        "Original Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a droning sitar and simple drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a steady bass guitar",
+        "Drums Softmask Prompt": "simple drums",
+        "Others Softmask Prompt": "a droning sitar"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a gentle piano, a warm upright bass, a clean electric guitar and simple drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a warm upright bass",
+        "Drums Softmask Prompt": "simple drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "bass2synth": {
+        "Original Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a gentle piano, a pulsing synth bass, a clean electric guitar and simple drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a pulsing synth bass",
+        "Drums Softmask Prompt": "simple drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a clean electric guitar and swinging jazz drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a steady bass guitar",
+        "Drums Softmask Prompt": "swinging jazz drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a clean electric guitar and simple drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a gentle piano, a steady bass guitar, a clean electric guitar and electronic drum machine.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a steady bass guitar",
+        "Drums Softmask Prompt": "electronic drum machine",
+        "Others Softmask Prompt": "a clean electric guitar"
+    }
+}

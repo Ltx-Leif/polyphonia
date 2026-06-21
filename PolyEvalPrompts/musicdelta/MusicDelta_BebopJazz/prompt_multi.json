@@ -1,0 +1,122 @@
+{
+    "trumpet2piano": {
+        "Original Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a steady melodic piano and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a gentle piano melody, a walking double bass line and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking double bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a gentle piano melody"
+    },
+    "trumpet2violin": {
+        "Original Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a steady melodic piano and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a warm violin melody, a walking double bass line and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking double bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a warm violin melody"
+    },
+    "trumpet2cello": {
+        "Original Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a steady melodic piano and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a warm cello melody, a walking double bass line and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking double bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a warm cello melody"
+    },
+    "trumpet2flute": {
+        "Original Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a steady melodic piano and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a flute melody, a walking double bass line and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking double bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a warm flute melody"
+    },
+    "trumpet2clarinet": {
+        "Original Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a steady melodic piano and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a warm clarinet melody, a walking double bass line and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking double bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a warm clarinet melody"
+    },
+    "trumpet2saxophone": {
+        "Original Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a steady melodic piano and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a warm saxophone melody, a walking double bass line and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking double bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a warm saxophone melody"
+    },
+    "trumpet2trombone": {
+        "Original Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a steady melodic piano and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a warm trombone melody, a walking double bass line and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking double bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a warm trombone melody"
+    },
+    "piano2guitar": {
+        "Original Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a steady melodic piano and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a warm guitar melody and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking double bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a warm guitar melody"
+    },
+    "piano2organ": {
+        "Original Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a steady melodic piano and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a Hammond organ melody and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking double bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a Hammond organ melody"
+    },
+    "piano2vibraphone": {
+        "Original Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a steady melodic piano and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a warm vibraphone melody and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking double bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a warm vibraphone melody"
+    },
+    "piano2marimba": {
+        "Original Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a steady melodic piano and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a warm marimba melody and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking double bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a warm marimba melody"
+    },
+    "piano2harp": {
+        "Original Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a steady melodic piano and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a warm harp melody and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking double bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a warm harp melody"
+    },
+    "drums2jazzbrush": {
+        "Original Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a steady melodic piano and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line and a jazz brush.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking double bass line",
+        "Drums Softmask Prompt": "a jazz brush",
+        "Others Softmask Prompt": "a bright trumpet melody"
+    },
+    "drums2swingkit": {
+        "Original Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a steady melodic piano and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line and a swing kit.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking double bass line",
+        "Drums Softmask Prompt": "a swing kit",
+        "Others Softmask Prompt": "a bright trumpet melody"
+    },
+    "bass2upright": {
+        "Original Prompt": "A Jazz recording of a bright trumpet melody, a walking double bass line, a steady melodic piano and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a bright trumpet melody, an upright bass and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "an upright bass",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a bright trumpet melody"
+    }
+}

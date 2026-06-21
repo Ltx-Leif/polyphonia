@@ -1,0 +1,122 @@
+{
+    "guitar2violin": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass guitar line, and driving drum kit percussion.",
+        "Baseline Prompt": "A recording of a fast violin, a solid bass guitar line, and driving drum kit percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass guitar line",
+        "Drums Softmask Prompt": "driving drum kit percussion",
+        "Others Softmask Prompt": "a fast violin"
+    },
+    "guitar2cello": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass guitar line, and driving drum kit percussion.",
+        "Baseline Prompt": "A recording of an intense cello, a solid bass guitar line, and driving drum kit percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass guitar line",
+        "Drums Softmask Prompt": "driving drum kit percussion",
+        "Others Softmask Prompt": "an intense cello"
+    },
+    "guitar2saxophone": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass guitar line, and driving drum kit percussion.",
+        "Baseline Prompt": "A recording of a fiery saxophone, a solid bass guitar line, and driving drum kit percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass guitar line",
+        "Drums Softmask Prompt": "driving drum kit percussion",
+        "Others Softmask Prompt": "a fiery saxophone"
+    },
+    "guitar2flute": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass guitar line, and driving drum kit percussion.",
+        "Baseline Prompt": "A recording of a swift flute, a solid bass guitar line, and driving drum kit percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass guitar line",
+        "Drums Softmask Prompt": "driving drum kit percussion",
+        "Others Softmask Prompt": "a swift flute"
+    },
+    "guitar2trumpet": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass guitar line, and driving drum kit percussion.",
+        "Baseline Prompt": "A recording of a bold trumpet, a solid bass guitar line, and driving drum kit percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass guitar line",
+        "Drums Softmask Prompt": "driving drum kit percussion",
+        "Others Softmask Prompt": "a bold trumpet"
+    },
+    "guitar2piano": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass guitar line, and driving drum kit percussion.",
+        "Baseline Prompt": "A recording of a rapid piano, a solid bass guitar line, and driving drum kit percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass guitar line",
+        "Drums Softmask Prompt": "driving drum kit percussion",
+        "Others Softmask Prompt": "a rapid piano"
+    },
+    "guitar2synthlead": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass guitar line, and driving drum kit percussion.",
+        "Baseline Prompt": "A recording of a searing synth, a solid bass guitar line, and driving drum kit percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass guitar line",
+        "Drums Softmask Prompt": "driving drum kit percussion",
+        "Others Softmask Prompt": "a searing synth"
+    },
+    "guitar2choir": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass guitar line, and driving drum kit percussion.",
+        "Baseline Prompt": "A recording of a powerful choir, a solid bass guitar line, and driving drum kit percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass guitar line",
+        "Drums Softmask Prompt": "driving drum kit percussion",
+        "Others Softmask Prompt": "a powerful choir"
+    },
+    "guitar2banjo": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass guitar line, and driving drum kit percussion.",
+        "Baseline Prompt": "A recording of a fast banjo, a solid bass guitar line, and driving drum kit percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass guitar line",
+        "Drums Softmask Prompt": "driving drum kit percussion",
+        "Others Softmask Prompt": "a fast banjo"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass guitar line, and driving drum kit percussion.",
+        "Baseline Prompt": "A recording of a distorted electric guitar melody, a solid bass guitar line, and a jazz drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass guitar line",
+        "Drums Softmask Prompt": "a jazz drum",
+        "Others Softmask Prompt": "a distorted electric guitar melody"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass guitar line, and driving drum kit percussion.",
+        "Baseline Prompt": "A recording of a distorted electric guitar melody, a solid bass guitar line, and an electronic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass guitar line",
+        "Drums Softmask Prompt": "an electronic drum",
+        "Others Softmask Prompt": "a distorted electric guitar melody"
+    },
+    "drums2orchestral": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass guitar line, and driving drum kit percussion.",
+        "Baseline Prompt": "A recording of a distorted electric guitar melody, a solid bass guitar line, and an orchestral percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass guitar line",
+        "Drums Softmask Prompt": "an orchestral percussion",
+        "Others Softmask Prompt": "a distorted electric guitar melody"
+    },
+    "drums2acoustic": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass guitar line, and driving drum kit percussion.",
+        "Baseline Prompt": "A recording of a distorted electric guitar melody, a solid bass guitar line, and an acoustic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass guitar line",
+        "Drums Softmask Prompt": "an acoustic drum",
+        "Others Softmask Prompt": "a distorted electric guitar melody"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass guitar line, and driving drum kit percussion.",
+        "Baseline Prompt": "A recording of a distorted electric guitar melody, a deep upright bass, and driving drum kit percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep upright bass",
+        "Drums Softmask Prompt": "driving drum kit percussion",
+        "Others Softmask Prompt": "a distorted electric guitar melody"
+    },
+    "bass2synth": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass guitar line, and driving drum kit percussion.",
+        "Baseline Prompt": "A recording of a distorted electric guitar melody, a buzzing synth bass, and driving drum kit percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a buzzing synth bass",
+        "Drums Softmask Prompt": "driving drum kit percussion",
+        "Others Softmask Prompt": "a distorted electric guitar melody"
+    }
+}

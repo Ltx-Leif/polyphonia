@@ -1,0 +1,122 @@
+{
+    "vocals2viola": {
+        "Original Prompt": "A recording of robotic vocal samples, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a haunting viola, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a haunting viola",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    },
+    "vocals2violin": {
+        "Original Prompt": "A recording of robotic vocal samples, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a melancholic violin, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a melancholic violin",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of robotic vocal samples, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a bright trumpet, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a bright trumpet",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of robotic vocal samples, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a warm cello, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a warm cello",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of robotic vocal samples, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a soft flute, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a soft flute",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    },
+    "vocals2clarinet": {
+        "Original Prompt": "A recording of robotic vocal samples, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a bold clarinet, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a bold clarinet",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of robotic vocal samples, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a delicate saxophone, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a delicate saxophone",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    },
+    "others2piano": {
+        "Original Prompt": "A recording of robotic vocal samples, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Baseline Prompt": "A recording of robotic vocal samples, a gritty synth bass, a crisp piano and punchy electronic drums.",
+        "Vocals Softmask Prompt": "robotic vocal samples",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a crisp piano"
+    },
+    "others2guitar": {
+        "Original Prompt": "A recording of robotic vocal samples, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Baseline Prompt": "A recording of robotic vocal samples, a gritty synth bass, a twangy guitar and punchy electronic drums.",
+        "Vocals Softmask Prompt": "robotic vocal samples",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a twangy guitar"
+    },
+    "others2marimba": {
+        "Original Prompt": "A recording of robotic vocal samples, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Baseline Prompt": "A recording of robotic vocal samples, a gritty synth bass, a wooden marimba and punchy electronic drums.",
+        "Vocals Softmask Prompt": "robotic vocal samples",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a wooden marimba"
+    },
+    "others2clarinet": {
+        "Original Prompt": "A recording of robotic vocal samples, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Baseline Prompt": "A recording of robotic vocal samples, a gritty synth bass, a smooth clarinet and punchy electronic drums.",
+        "Vocals Softmask Prompt": "robotic vocal samples",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a smooth clarinet"
+    },
+    "others2bagpipe": {
+        "Original Prompt": "A recording of robotic vocal samples, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Baseline Prompt": "A recording of robotic vocal samples, a gritty synth bass, a droning bagpipe and punchy electronic drums.",
+        "Vocals Softmask Prompt": "robotic vocal samples",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a droning bagpipe"
+    },
+    "drums2acoustic": {
+        "Original Prompt": "A recording of robotic vocal samples, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Baseline Prompt": "A recording of robotic vocal samples, a gritty synth bass, a shimmering lead synth and loud acoustic drums.",
+        "Vocals Softmask Prompt": "robotic vocal samples",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "loud acoustic drums",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of robotic vocal samples, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Baseline Prompt": "A recording of robotic vocal samples, a gritty synth bass, a shimmering lead synth and soft jazz drums.",
+        "Vocals Softmask Prompt": "robotic vocal samples",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "soft jazz drums",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of robotic vocal samples, a gritty synth bass, a shimmering lead synth and punchy electronic drums.",
+        "Baseline Prompt": "A recording of robotic vocal samples, a deep upright bass, a shimmering lead synth and punchy electronic drums.",
+        "Vocals Softmask Prompt": "robotic vocal samples",
+        "Bass Softmask Prompt": "a deep upright bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    }
+}

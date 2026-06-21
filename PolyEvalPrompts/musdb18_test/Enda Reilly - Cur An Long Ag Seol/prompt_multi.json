@@ -1,0 +1,122 @@
+{
+    "guitar2violin": {
+        "Original Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a warm bass guitar and light percussion or brush snare.",
+        "Baseline Prompt": "A recording of a soft male vocals, a flowing violin, a warm bass guitar and light percussion or brush snare.",
+        "Vocals Softmask Prompt": "a soft male vocals",
+        "Bass Softmask Prompt": "a warm bass guitar",
+        "Drums Softmask Prompt": "light percussion or brush snare",
+        "Others Softmask Prompt": "a flowing violin"
+    },
+    "guitar2cello": {
+        "Original Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a warm bass guitar and light percussion or brush snare.",
+        "Baseline Prompt": "A recording of a soft male vocals, a resonant cello, a warm bass guitar and light percussion or brush snare.",
+        "Vocals Softmask Prompt": "a soft male vocals",
+        "Bass Softmask Prompt": "a warm bass guitar",
+        "Drums Softmask Prompt": "light percussion or brush snare",
+        "Others Softmask Prompt": "a resonant cello"
+    },
+    "guitar2flute": {
+        "Original Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a warm bass guitar and light percussion or brush snare.",
+        "Baseline Prompt": "A recording of a soft male vocals, a bright flute, a warm bass guitar and light percussion or brush snare.",
+        "Vocals Softmask Prompt": "a soft male vocals",
+        "Bass Softmask Prompt": "a warm bass guitar",
+        "Drums Softmask Prompt": "light percussion or brush snare",
+        "Others Softmask Prompt": "a bright flute"
+    },
+    "guitar2harp": {
+        "Original Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a warm bass guitar and light percussion or brush snare.",
+        "Baseline Prompt": "A recording of a soft male vocals, a shimmering harp, a warm bass guitar and light percussion or brush snare.",
+        "Vocals Softmask Prompt": "a soft male vocals",
+        "Bass Softmask Prompt": "a warm bass guitar",
+        "Drums Softmask Prompt": "light percussion or brush snare",
+        "Others Softmask Prompt": "a shimmering harp"
+    },
+    "guitar2choir": {
+        "Original Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a warm bass guitar and light percussion or brush snare.",
+        "Baseline Prompt": "A recording of a soft male vocals, a ethereal choir, a warm bass guitar and light percussion or brush snare.",
+        "Vocals Softmask Prompt": "a soft male vocals",
+        "Bass Softmask Prompt": "a warm bass guitar",
+        "Drums Softmask Prompt": "light percussion or brush snare",
+        "Others Softmask Prompt": "a ethereal choir"
+    },
+    "guitar2clarinet": {
+        "Original Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a warm bass guitar and light percussion or brush snare.",
+        "Baseline Prompt": "A recording of a soft male vocals, a mellow clarinet, a warm bass guitar and light percussion or brush snare.",
+        "Vocals Softmask Prompt": "a soft male vocals",
+        "Bass Softmask Prompt": "a warm bass guitar",
+        "Drums Softmask Prompt": "light percussion or brush snare",
+        "Others Softmask Prompt": "a mellow clarinet"
+    },
+    "guitar2trumpet": {
+        "Original Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a warm bass guitar and light percussion or brush snare.",
+        "Baseline Prompt": "A recording of a soft male vocals, a soft trumpet, a warm bass guitar and light percussion or brush snare.",
+        "Vocals Softmask Prompt": "a soft male vocals",
+        "Bass Softmask Prompt": "a warm bass guitar",
+        "Drums Softmask Prompt": "light percussion or brush snare",
+        "Others Softmask Prompt": "a soft trumpet"
+    },
+    "guitar2accordion": {
+        "Original Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a warm bass guitar and light percussion or brush snare.",
+        "Baseline Prompt": "A recording of a soft male vocals, a nostalgic accordion, a warm bass guitar and light percussion or brush snare.",
+        "Vocals Softmask Prompt": "a soft male vocals",
+        "Bass Softmask Prompt": "a warm bass guitar",
+        "Drums Softmask Prompt": "light percussion or brush snare",
+        "Others Softmask Prompt": "a nostalgic accordion"
+    },
+    "guitar2sitar": {
+        "Original Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a warm bass guitar and light percussion or brush snare.",
+        "Baseline Prompt": "A recording of a soft male vocals, a droning sitar, a warm bass guitar and light percussion or brush snare.",
+        "Vocals Softmask Prompt": "a soft male vocals",
+        "Bass Softmask Prompt": "a warm bass guitar",
+        "Drums Softmask Prompt": "light percussion or brush snare",
+        "Others Softmask Prompt": "a droning sitar"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a warm bass guitar and light percussion or brush snare.",
+        "Baseline Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a deep upright bass and light percussion or brush snare.",
+        "Vocals Softmask Prompt": "a soft male vocals",
+        "Bass Softmask Prompt": "a deep upright bass",
+        "Drums Softmask Prompt": "light percussion or brush snare",
+        "Others Softmask Prompt": "a fingerpicked acoustic guitar"
+    },
+    "bass2synth": {
+        "Original Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a warm bass guitar and light percussion or brush snare.",
+        "Baseline Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a smooth synth bass and light percussion or brush snare.",
+        "Vocals Softmask Prompt": "a soft male vocals",
+        "Bass Softmask Prompt": "a smooth synth bass",
+        "Drums Softmask Prompt": "light percussion or brush snare",
+        "Others Softmask Prompt": "a fingerpicked acoustic guitar"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a warm bass guitar and light percussion or brush snare.",
+        "Baseline Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a warm bass guitar and electronic beats.",
+        "Vocals Softmask Prompt": "a soft male vocals",
+        "Bass Softmask Prompt": "a warm bass guitar",
+        "Drums Softmask Prompt": "electronic beats",
+        "Others Softmask Prompt": "a fingerpicked acoustic guitar"
+    },
+    "drums2orchestral": {
+        "Original Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a warm bass guitar and light percussion or brush snare.",
+        "Baseline Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a warm bass guitar and orchestral percussion.",
+        "Vocals Softmask Prompt": "a soft male vocals",
+        "Bass Softmask Prompt": "a warm bass guitar",
+        "Drums Softmask Prompt": "orchestral percussion",
+        "Others Softmask Prompt": "a fingerpicked acoustic guitar"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a warm bass guitar and light percussion or brush snare.",
+        "Baseline Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a warm bass guitar and swinging jazz drums.",
+        "Vocals Softmask Prompt": "a soft male vocals",
+        "Bass Softmask Prompt": "a warm bass guitar",
+        "Drums Softmask Prompt": "swinging jazz drums",
+        "Others Softmask Prompt": "a fingerpicked acoustic guitar"
+    },
+    "drums2taiko": {
+        "Original Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a warm bass guitar and light percussion or brush snare.",
+        "Baseline Prompt": "A recording of a soft male vocals, a fingerpicked acoustic guitar, a warm bass guitar and powerful taiko drums.",
+        "Vocals Softmask Prompt": "a soft male vocals",
+        "Bass Softmask Prompt": "a warm bass guitar",
+        "Drums Softmask Prompt": "powerful taiko drums",
+        "Others Softmask Prompt": "a fingerpicked acoustic guitar"
+    }
+}

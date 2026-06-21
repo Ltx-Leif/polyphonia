@@ -1,0 +1,122 @@
+{
+    "others2flute": {
+        "Original Prompt": "A recording of a soft female vocals, a smooth synth bass, a bright electric guitar and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a soft female vocals, a smooth synth bass, a mellow flute and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a soft female vocals",
+        "Bass Softmask Prompt": "a smooth synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a mellow flute"
+    },
+    "others2choir": {
+        "Original Prompt": "A recording of a soft female vocals, a smooth synth bass, a bright electric guitar and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a soft female vocals, a smooth synth bass, a soaring choir and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a soft female vocals",
+        "Bass Softmask Prompt": "a smooth synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a soaring choir"
+    },
+    "others2trumpet": {
+        "Original Prompt": "A recording of a soft female vocals, a smooth synth bass, a bright electric guitar and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a soft female vocals, a smooth synth bass, a bold trumpet and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a soft female vocals",
+        "Bass Softmask Prompt": "a smooth synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a bold trumpet"
+    },
+    "others2cello": {
+        "Original Prompt": "A recording of a soft female vocals, a smooth synth bass, a bright electric guitar and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a soft female vocals, a smooth synth bass, a warm cello and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a soft female vocals",
+        "Bass Softmask Prompt": "a smooth synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a warm cello"
+    },
+    "others2marimba": {
+        "Original Prompt": "A recording of a soft female vocals, a smooth synth bass, a bright electric guitar and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a soft female vocals, a smooth synth bass, a resonant marimba and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a soft female vocals",
+        "Bass Softmask Prompt": "a smooth synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a resonant marimba"
+    },
+    "others2saxophone": {
+        "Original Prompt": "A recording of a soft female vocals, a smooth synth bass, a bright electric guitar and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a soft female vocals, a smooth synth bass, a sultry saxophone and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a soft female vocals",
+        "Bass Softmask Prompt": "a smooth synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a sultry saxophone"
+    },
+    "others2harp": {
+        "Original Prompt": "A recording of a soft female vocals, a smooth synth bass, a bright electric guitar and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a soft female vocals, a smooth synth bass, a delicate harp and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a soft female vocals",
+        "Bass Softmask Prompt": "a smooth synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a delicate harp"
+    },
+    "others2violin": {
+        "Original Prompt": "A recording of a soft female vocals, a smooth synth bass, a bright electric guitar and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a soft female vocals, a smooth synth bass, a smooth violin and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a soft female vocals",
+        "Bass Softmask Prompt": "a smooth synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a smooth violin"
+    },
+    "others2clarinet": {
+        "Original Prompt": "A recording of a soft female vocals, a smooth synth bass, a bright electric guitar and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a soft female vocals, a smooth synth bass, a soft clarinet and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a soft female vocals",
+        "Bass Softmask Prompt": "a smooth synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a soft clarinet"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a soft female vocals, a smooth synth bass, a bright electric guitar and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a soft female vocals, a warm upright bass, a bright electric guitar and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a soft female vocals",
+        "Bass Softmask Prompt": "a warm upright bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a bright electric guitar"
+    },
+    "bass2synthwave": {
+        "Original Prompt": "A recording of a soft female vocals, a smooth synth bass, a bright electric guitar and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a soft female vocals, a retro synthwave bass, a bright electric guitar and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a soft female vocals",
+        "Bass Softmask Prompt": "a retro synthwave bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a bright electric guitar"
+    },
+    "drums2acoustic": {
+        "Original Prompt": "A recording of a soft female vocals, a smooth synth bass, a bright electric guitar and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a soft female vocals, a smooth synth bass, a bright electric guitar and natural acoustic drums.",
+        "Vocals Softmask Prompt": "a soft female vocals",
+        "Bass Softmask Prompt": "a smooth synth bass",
+        "Drums Softmask Prompt": "natural acoustic drums",
+        "Others Softmask Prompt": "a bright electric guitar"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a soft female vocals, a smooth synth bass, a bright electric guitar and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a soft female vocals, a smooth synth bass, a bright electric guitar and loose jazz drums.",
+        "Vocals Softmask Prompt": "a soft female vocals",
+        "Bass Softmask Prompt": "a smooth synth bass",
+        "Drums Softmask Prompt": "loose jazz drums",
+        "Others Softmask Prompt": "a bright electric guitar"
+    },
+    "drums2latin": {
+        "Original Prompt": "A recording of a soft female vocals, a smooth synth bass, a bright electric guitar and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a soft female vocals, a smooth synth bass, a bright electric guitar and lively latin drums.",
+        "Vocals Softmask Prompt": "a soft female vocals",
+        "Bass Softmask Prompt": "a smooth synth bass",
+        "Drums Softmask Prompt": "lively latin drums",
+        "Others Softmask Prompt": "a bright electric guitar"
+    },
+    "drums2electronic_ambient": {
+        "Original Prompt": "A recording of a soft female vocals, a smooth synth bass, a bright electric guitar and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a soft female vocals, a smooth synth bass, a bright electric guitar and ambient electronic drums.",
+        "Vocals Softmask Prompt": "a soft female vocals",
+        "Bass Softmask Prompt": "a smooth synth bass",
+        "Drums Softmask Prompt": "ambient electronic drums",
+        "Others Softmask Prompt": "a bright electric guitar"
+    }
+}

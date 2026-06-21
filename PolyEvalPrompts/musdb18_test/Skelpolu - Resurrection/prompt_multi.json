@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of a soulful male vocal, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Baseline Prompt": "A recording of a smooth violin, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Vocals Softmask Prompt": "a smooth violin",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "crisp drum machine beats",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of a soulful male vocal, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Baseline Prompt": "A recording of a warm cello, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Vocals Softmask Prompt": "a warm cello",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "crisp drum machine beats",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of a soulful male vocal, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Baseline Prompt": "A recording of a light flute, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Vocals Softmask Prompt": "a light flute",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "crisp drum machine beats",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of a soulful male vocal, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Baseline Prompt": "A recording of a haunting choir, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Vocals Softmask Prompt": "a haunting choir",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "crisp drum machine beats",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of a soulful male vocal, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Baseline Prompt": "A recording of a bright trumpet, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Vocals Softmask Prompt": "a bright trumpet",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "crisp drum machine beats",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    },
+    "vocals2trombone": {
+        "Original Prompt": "A recording of a soulful male vocal, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Baseline Prompt": "A recording of a mellow trombone, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Vocals Softmask Prompt": "a mellow trombone",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "crisp drum machine beats",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of a soulful male vocal, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Baseline Prompt": "A recording of a sultry saxophone, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Vocals Softmask Prompt": "a sultry saxophone",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "crisp drum machine beats",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    },
+    "lead_synth2piano": {
+        "Original Prompt": "A recording of a soulful male vocal, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Baseline Prompt": "A recording of a soulful male vocal, a deep synth bass, a resonant piano and crisp drum machine beats.",
+        "Vocals Softmask Prompt": "a soulful male vocal",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "crisp drum machine beats",
+        "Others Softmask Prompt": "a resonant piano"
+    },
+    "lead_synth2guitar": {
+        "Original Prompt": "A recording of a soulful male vocal, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Baseline Prompt": "A recording of a soulful male vocal, a deep synth bass, a clean electric guitar and crisp drum machine beats.",
+        "Vocals Softmask Prompt": "a soulful male vocal",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "crisp drum machine beats",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "lead_synth2harp": {
+        "Original Prompt": "A recording of a soulful male vocal, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Baseline Prompt": "A recording of a soulful male vocal, a deep synth bass, a gliding harp and crisp drum machine beats.",
+        "Vocals Softmask Prompt": "a soulful male vocal",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "crisp drum machine beats",
+        "Others Softmask Prompt": "a gliding harp"
+    },
+    "lead_synth2marimba": {
+        "Original Prompt": "A recording of a soulful male vocal, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Baseline Prompt": "A recording of a soulful male vocal, a deep synth bass, a wooden marimba and crisp drum machine beats.",
+        "Vocals Softmask Prompt": "a soulful male vocal",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "crisp drum machine beats",
+        "Others Softmask Prompt": "a wooden marimba"
+    },
+    "lead_synth2organ": {
+        "Original Prompt": "A recording of a soulful male vocal, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Baseline Prompt": "A recording of a soulful male vocal, a deep synth bass, a vintage organ and crisp drum machine beats.",
+        "Vocals Softmask Prompt": "a soulful male vocal",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "crisp drum machine beats",
+        "Others Softmask Prompt": "a vintage organ"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a soulful male vocal, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Baseline Prompt": "A recording of a soulful male vocal, a deep synth bass, a shimmering lead synth and pulsing electronic drums.",
+        "Vocals Softmask Prompt": "a soulful male vocal",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "pulsing electronic drums",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    },
+    "drums2acoustic": {
+        "Original Prompt": "A recording of a soulful male vocal, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Baseline Prompt": "A recording of a soulful male vocal, a deep synth bass, a shimmering lead synth and natural acoustic drums.",
+        "Vocals Softmask Prompt": "a soulful male vocal",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "natural acoustic drums",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a soulful male vocal, a deep synth bass, a shimmering lead synth and crisp drum machine beats.",
+        "Baseline Prompt": "A recording of a soulful male vocal, a warm upright bass, a shimmering lead synth and crisp drum machine beats.",
+        "Vocals Softmask Prompt": "a soulful male vocal",
+        "Bass Softmask Prompt": "a warm upright bass",
+        "Drums Softmask Prompt": "crisp drum machine beats",
+        "Others Softmask Prompt": "a shimmering lead synth"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of a pulsing synth bass, a bright synth lead and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a pulsing synth bass, a smooth violin and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a smooth violin",
+        "Bass Softmask Prompt": "a pulsing synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a smooth violin"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of a pulsing synth bass, a bright synth lead and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a pulsing synth bass, a warm cello and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a warm cello",
+        "Bass Softmask Prompt": "a pulsing synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a warm cello"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of a pulsing synth bass, a bright synth lead and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a pulsing synth bass, a light flute and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a light flute",
+        "Bass Softmask Prompt": "a pulsing synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a light flute"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of a pulsing synth bass, a bright synth lead and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a pulsing synth bass, a bright trumpet and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a bright trumpet",
+        "Bass Softmask Prompt": "a pulsing synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a bright trumpet"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of a pulsing synth bass, a bright synth lead and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a pulsing synth bass, a lush choir and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a lush choir",
+        "Bass Softmask Prompt": "a pulsing synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a lush choir"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of a pulsing synth bass, a bright synth lead and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a pulsing synth bass, a smooth saxophone and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a smooth saxophone",
+        "Bass Softmask Prompt": "a pulsing synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a smooth saxophone"
+    },
+    "vocals2harp": {
+        "Original Prompt": "A recording of a pulsing synth bass, a bright synth lead and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a pulsing synth bass, a gentle harp and punchy electronic drums.",
+        "Vocals Softmask Prompt": "a gentle harp",
+        "Bass Softmask Prompt": "a pulsing synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a gentle harp"
+    },
+    "synth_lead2piano": {
+        "Original Prompt": "A recording of a pulsing synth bass, a bright synth lead and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a pulsing synth bass, a crisp piano and punchy electronic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a pulsing synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a crisp piano"
+    },
+    "synth_lead2guitar": {
+        "Original Prompt": "A recording of a pulsing synth bass, a bright synth lead and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a pulsing synth bass, a clean guitar and punchy electronic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a pulsing synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a clean guitar"
+    },
+    "synth_lead2marimba": {
+        "Original Prompt": "A recording of a pulsing synth bass, a bright synth lead and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a pulsing synth bass, a bright marimba and punchy electronic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a pulsing synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a bright marimba"
+    },
+    "synth_lead2flute": {
+        "Original Prompt": "A recording of a pulsing synth bass, a bright synth lead and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a pulsing synth bass, a light flute and punchy electronic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a pulsing synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a light flute"
+    },
+    "synth_lead2choir": {
+        "Original Prompt": "A recording of a pulsing synth bass, a bright synth lead and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a pulsing synth bass, a lush choir and punchy electronic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a pulsing synth bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a lush choir"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a pulsing synth bass, a bright synth lead and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a deep upright bass, a bright synth lead and punchy electronic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep upright bass",
+        "Drums Softmask Prompt": "punchy electronic drums",
+        "Others Softmask Prompt": "a bright synth lead"
+    },
+    "drums2acoustic": {
+        "Original Prompt": "A recording of a pulsing synth bass, a bright synth lead and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a pulsing synth bass, a bright synth lead and natural acoustic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a pulsing synth bass",
+        "Drums Softmask Prompt": "natural acoustic drums",
+        "Others Softmask Prompt": "a bright synth lead"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a pulsing synth bass, a bright synth lead and punchy electronic drums.",
+        "Baseline Prompt": "A recording of a pulsing synth bass, a bright synth lead and soft jazz drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a pulsing synth bass",
+        "Drums Softmask Prompt": "soft jazz drums",
+        "Others Softmask Prompt": "a bright synth lead"
+    }
+}

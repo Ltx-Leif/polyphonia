@@ -1,0 +1,122 @@
+{
+    "piano2harp": {
+        "Original Prompt": "A recording of ethereal vocal harmonies, a deep bass, a soft piano and gentle percussion.",
+        "Baseline Prompt": "A recording of ethereal vocal harmonies, a deep bass, a delicate harp and gentle percussion.",
+        "Vocals Softmask Prompt": "ethereal vocal harmonies",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "gentle percussion",
+        "Others Softmask Prompt": "a delicate harp"
+    },
+    "piano2cello": {
+        "Original Prompt": "A recording of ethereal vocal harmonies, a deep bass, a soft piano and gentle percussion.",
+        "Baseline Prompt": "A recording of ethereal vocal harmonies, a deep bass, a warm cello and gentle percussion.",
+        "Vocals Softmask Prompt": "ethereal vocal harmonies",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "gentle percussion",
+        "Others Softmask Prompt": "a warm cello"
+    },
+    "piano2choir": {
+        "Original Prompt": "A recording of ethereal vocal harmonies, a deep bass, a soft piano and gentle percussion.",
+        "Baseline Prompt": "A recording of ethereal vocal harmonies, a deep bass, a haunting choir and gentle percussion.",
+        "Vocals Softmask Prompt": "ethereal vocal harmonies",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "gentle percussion",
+        "Others Softmask Prompt": "a haunting choir"
+    },
+    "piano2flute": {
+        "Original Prompt": "A recording of ethereal vocal harmonies, a deep bass, a soft piano and gentle percussion.",
+        "Baseline Prompt": "A recording of ethereal vocal harmonies, a deep bass, a light flute and gentle percussion.",
+        "Vocals Softmask Prompt": "ethereal vocal harmonies",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "gentle percussion",
+        "Others Softmask Prompt": "a light flute"
+    },
+    "piano2violin": {
+        "Original Prompt": "A recording of ethereal vocal harmonies, a deep bass, a soft piano and gentle percussion.",
+        "Baseline Prompt": "A recording of ethereal vocal harmonies, a deep bass, a soaring violin and gentle percussion.",
+        "Vocals Softmask Prompt": "ethereal vocal harmonies",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "gentle percussion",
+        "Others Softmask Prompt": "a soaring violin"
+    },
+    "vocals2male": {
+        "Original Prompt": "A recording of ethereal vocal harmonies, a deep bass, a soft piano and gentle percussion.",
+        "Baseline Prompt": "A recording of breathy male vocals, a deep bass, a soft piano and gentle percussion.",
+        "Vocals Softmask Prompt": "breathy male vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "gentle percussion",
+        "Others Softmask Prompt": "a soft piano"
+    },
+    "vocals2child": {
+        "Original Prompt": "A recording of ethereal vocal harmonies, a deep bass, a soft piano and gentle percussion.",
+        "Baseline Prompt": "A recording of innocent child vocals, a deep bass, a soft piano and gentle percussion.",
+        "Vocals Softmask Prompt": "innocent child vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "gentle percussion",
+        "Others Softmask Prompt": "a soft piano"
+    },
+    "vocals2robotic": {
+        "Original Prompt": "A recording of ethereal vocal harmonies, a deep bass, a soft piano and gentle percussion.",
+        "Baseline Prompt": "A recording of robotic vocal harmonies, a deep bass, a soft piano and gentle percussion.",
+        "Vocals Softmask Prompt": "robotic vocal harmonies",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "gentle percussion",
+        "Others Softmask Prompt": "a soft piano"
+    },
+    "vocals2whisper": {
+        "Original Prompt": "A recording of ethereal vocal harmonies, a deep bass, a soft piano and gentle percussion.",
+        "Baseline Prompt": "A recording of intimate whisper vocals, a deep bass, a soft piano and gentle percussion.",
+        "Vocals Softmask Prompt": "intimate whisper vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "gentle percussion",
+        "Others Softmask Prompt": "a soft piano"
+    },
+    "vocals2opera": {
+        "Original Prompt": "A recording of ethereal vocal harmonies, a deep bass, a soft piano and gentle percussion.",
+        "Baseline Prompt": "A recording of powerful opera vocals, a deep bass, a soft piano and gentle percussion.",
+        "Vocals Softmask Prompt": "powerful opera vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "gentle percussion",
+        "Others Softmask Prompt": "a soft piano"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of ethereal vocal harmonies, a deep bass, a soft piano and gentle percussion.",
+        "Baseline Prompt": "A recording of majestic choir vocals, a deep bass, a soft piano and gentle percussion.",
+        "Vocals Softmask Prompt": "majestic choir vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "gentle percussion",
+        "Others Softmask Prompt": "a soft piano"
+    },
+    "vocals2folk": {
+        "Original Prompt": "A recording of ethereal vocal harmonies, a deep bass, a soft piano and gentle percussion.",
+        "Baseline Prompt": "A recording of warm folk vocals, a deep bass, a soft piano and gentle percussion.",
+        "Vocals Softmask Prompt": "warm folk vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "gentle percussion",
+        "Others Softmask Prompt": "a soft piano"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of ethereal vocal harmonies, a deep bass, a soft piano and gentle percussion.",
+        "Baseline Prompt": "A recording of ethereal vocal harmonies, an acoustic upright bass, a soft piano and gentle percussion.",
+        "Vocals Softmask Prompt": "ethereal vocal harmonies",
+        "Bass Softmask Prompt": "an acoustic upright bass",
+        "Drums Softmask Prompt": "gentle percussion",
+        "Others Softmask Prompt": "a soft piano"
+    },
+    "drums2tape": {
+        "Original Prompt": "A recording of ethereal vocal harmonies, a deep bass, a soft piano and gentle percussion.",
+        "Baseline Prompt": "A recording of ethereal vocal harmonies, a deep bass, a soft piano and lo-fi tape percussion.",
+        "Vocals Softmask Prompt": "ethereal vocal harmonies",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "lo-fi tape percussion",
+        "Others Softmask Prompt": "a soft piano"
+    },
+    "drums2gong": {
+        "Original Prompt": "A recording of ethereal vocal harmonies, a deep bass, a soft piano and gentle percussion.",
+        "Baseline Prompt": "A recording of ethereal vocal harmonies, a deep bass, a soft piano and resonant gong swells.",
+        "Vocals Softmask Prompt": "ethereal vocal harmonies",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "resonant gong swells",
+        "Others Softmask Prompt": "a soft piano"
+    }
+}

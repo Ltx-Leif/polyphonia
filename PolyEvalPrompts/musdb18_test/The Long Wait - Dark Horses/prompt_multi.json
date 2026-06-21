@@ -1,0 +1,122 @@
+{
+    "guitar2violin": {
+        "Original Prompt": "A recording of a clear female vocal, a gritty electric guitar, a deep bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear female vocal, a smooth violin, a deep bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear female vocal",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a smooth violin"
+    },
+    "guitar2cello": {
+        "Original Prompt": "A recording of a clear female vocal, a gritty electric guitar, a deep bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear female vocal, a rich cello, a deep bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear female vocal",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a rich cello"
+    },
+    "guitar2flute": {
+        "Original Prompt": "A recording of a clear female vocal, a gritty electric guitar, a deep bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear female vocal, a bright flute,a deep bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear female vocal",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a bright flute"
+    },
+    "guitar2trumpet": {
+        "Original Prompt": "A recording of a clear female vocal, a gritty electric guitar, a deep bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear female vocal, a bold trumpet, a deep bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear female vocal",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a bold trumpet"
+    },
+    "guitar2choir": {
+        "Original Prompt": "A recording of a clear female vocal, a gritty electric guitar, a deep bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear female vocal, a haunting choir, a deep bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear female vocal",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a haunting choir"
+    },
+    "guitar2harp": {
+        "Original Prompt": "A recording of a clear female vocal, a gritty electric guitar, a deep bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear female vocal, a delicate harp, a deep bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear female vocal",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a delicate harp"
+    },
+    "guitar2saxophone": {
+        "Original Prompt": "A recording of a clear female vocal, a gritty electric guitar, a deep bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear female vocal, a sultry saxophone, a deep bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear female vocal",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a sultry saxophone"
+    },
+    "guitar2clarinet": {
+        "Original Prompt": "A recording of a clear female vocal, a gritty electric guitar, a deep bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear female vocal, a mellow clarinet, a deep bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear female vocal",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a mellow clarinet"
+    },
+    "guitar2organ": {
+        "Original Prompt": "A recording of a clear female vocal, a gritty electric guitar, a deep bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear female vocal, a resonant organ, a deep bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear female vocal",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a resonant organ"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a clear female vocal, a gritty electric guitar, a deep bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear female vocal, a gritty electric guitar, a deep bass and synthetic electronic beats.",
+        "Vocals Softmask Prompt": "a clear female vocal",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "synthetic electronic beats",
+        "Others Softmask Prompt": "a gritty electric guitar"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a clear female vocal, a gritty electric guitar, a deep bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear female vocal, a gritty electric guitar, a deep bass and soft jazz brushes on snare.",
+        "Vocals Softmask Prompt": "a clear female vocal",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "soft jazz brushes on snare",
+        "Others Softmask Prompt": "a gritty electric guitar"
+    },
+    "drums2tribal": {
+        "Original Prompt": "A recording of a clear female vocal, a gritty electric guitar, a deep bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear female vocal, a gritty electric guitar, a deep bass and rhythmic tribal toms.",
+        "Vocals Softmask Prompt": "a clear female vocal",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "rhythmic tribal toms",
+        "Others Softmask Prompt": "a gritty electric guitar"
+    },
+    "drums2orchestral": {
+        "Original Prompt": "A recording of a clear female vocal, a gritty electric guitar, a deep bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear female vocal, a gritty electric guitar, a deep bass and cinematic orchestral percussion.",
+        "Vocals Softmask Prompt": "a clear female vocal",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "cinematic orchestral percussion",
+        "Others Softmask Prompt": "a gritty electric guitar"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a clear female vocal, a gritty electric guitar, a deep bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear female vocal, a gritty electric guitar, a woody upright bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear female vocal",
+        "Bass Softmask Prompt": "a woody upright bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a gritty electric guitar"
+    },
+    "bass2synth": {
+        "Original Prompt": "A recording of a clear female vocal, a gritty electric guitar, a deep bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear female vocal, a gritty electric guitar, a shimmering synth bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear female vocal",
+        "Bass Softmask Prompt": "a shimmering synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a gritty electric guitar"
+    }
+}

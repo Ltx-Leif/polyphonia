@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, atmospheric synth and punchy drums.",
+        "Baseline Prompt": "A recording of a smooth violin, deep bass, atmospheric synth and punchy drums.",
+        "Vocals Softmask Prompt": "a smooth violin",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "atmospheric synth"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, atmospheric synth and punchy drums.",
+        "Baseline Prompt": "A recording of a warm cello, deep bass, atmospheric synth and punchy drums.",
+        "Vocals Softmask Prompt": "a warm cello",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "atmospheric synth"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, atmospheric synth and punchy drums.",
+        "Baseline Prompt": "A recording of a bright flute, deep bass, atmospheric synth and punchy drums.",
+        "Vocals Softmask Prompt": "a bright flute",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "atmospheric synth"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, atmospheric synth and punchy drums.",
+        "Baseline Prompt": "A recording of a bold trumpet, deep bass, atmospheric synth and punchy drums.",
+        "Vocals Softmask Prompt": "a bold trumpet",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "atmospheric synth"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, atmospheric synth and punchy drums.",
+        "Baseline Prompt": "A recording of a lush choir, deep bass, atmospheric synth and punchy drums.",
+        "Vocals Softmask Prompt": "a lush choir",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "atmospheric synth"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, atmospheric synth and punchy drums.",
+        "Baseline Prompt": "A recording of a smooth saxophone, deep bass, atmospheric synth and punchy drums.",
+        "Vocals Softmask Prompt": "a smooth saxophone",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "atmospheric synth"
+    },
+    "vocals2trombone": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, atmospheric synth and punchy drums.",
+        "Baseline Prompt": "A recording of a rich trombone, deep bass, atmospheric synth and punchy drums.",
+        "Vocals Softmask Prompt": "a rich trombone",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "atmospheric synth"
+    },
+    "guitar2piano": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, atmospheric synth and punchy drums.",
+        "Baseline Prompt": "A recording of soulful male vocals, deep bass, a bright piano and punchy drums.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a bright piano"
+    },
+    "guitar2harp": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, atmospheric synth and punchy drums.",
+        "Baseline Prompt": "A recording of soulful male vocals, deep bass, a delicate harp and punchy drums.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a delicate harp"
+    },
+    "guitar2marimba": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, atmospheric synth and punchy drums.",
+        "Baseline Prompt": "A recording of soulful male vocals, deep bass, a wooden marimba and punchy drums.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a wooden marimba"
+    },
+    "guitar2banjo": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, atmospheric synth and punchy drums.",
+        "Baseline Prompt": "A recording of soulful male vocals, deep bass, a twangy banjo and punchy drums.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a twangy banjo"
+    },
+    "guitar2organ": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, atmospheric synth and punchy drums.",
+        "Baseline Prompt": "A recording of soulful male vocals, deep bass, a vintage organ and punchy drums.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a vintage organ"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, atmospheric synth and punchy drums.",
+        "Baseline Prompt": "A recording of soulful male vocals, deep bass, atmospheric synth and crisp electronic drums.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "crisp electronic drums",
+        "Others Softmask Prompt": "atmospheric synth"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, atmospheric synth and punchy drums.",
+        "Baseline Prompt": "A recording of soulful male vocals, deep bass, atmospheric synth and soft jazz drums.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "soft jazz drums",
+        "Others Softmask Prompt": "atmospheric synth"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, atmospheric synth and punchy drums.",
+        "Baseline Prompt": "A recording of soulful male vocals, an upright bass, atmospheric synth and punchy drums.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "an upright bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "atmospheric synth"
+    }
+}

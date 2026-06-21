@@ -1,0 +1,122 @@
+{
+    "others2piano": {
+        "Original Prompt": "A recording of a deep synth bass, a rhythmic synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a deep synth bass, a staccato piano and punchy drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a staccato piano"
+    },
+    "others2choir": {
+        "Original Prompt": "A recording of a deep synth bass, a rhythmic synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a deep synth bass, a haunting choir and punchy drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a haunting choir"
+    },
+    "others2flute": {
+        "Original Prompt": "A recording of a deep synth bass, a rhythmic synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a deep synth bass, a bright flute and punchy drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a bright flute"
+    },
+    "others2guitar": {
+        "Original Prompt": "A recording of a deep synth bass, a rhythmic synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a deep synth bass, a gritty electric guitar and punchy drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a gritty electric guitar"
+    },
+    "others2marimba": {
+        "Original Prompt": "A recording of a deep synth bass, a rhythmic synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a deep synth bass, a wooden marimba and punchy drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a wooden marimba"
+    },
+    "others2violin": {
+        "Original Prompt": "A recording of a deep synth bass, a rhythmic synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a deep synth bass, a sharp violin and punchy drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a sharp violin"
+    },
+    "others2trumpet": {
+        "Original Prompt": "A recording of a deep synth bass, a rhythmic synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a deep synth bass, a brassy trumpet and punchy drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a brassy trumpet"
+    },
+    "others2cello": {
+        "Original Prompt": "A recording of a deep synth bass, a rhythmic synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a deep synth bass, a dark cello and punchy drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a dark cello"
+    },
+    "others2saxophone": {
+        "Original Prompt": "A recording of a deep synth bass, a rhythmic synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a deep synth bass, a smoky saxophone and punchy drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a smoky saxophone"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a deep synth bass, a rhythmic synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a thumping upright bass, a rhythmic synthesizer and punchy drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a thumping upright bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a rhythmic synthesizer"
+    },
+    "bass2synthwave": {
+        "Original Prompt": "A recording of a deep synth bass, a rhythmic synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a retro synthwave bass, a rhythmic synthesizer and punchy drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a retro synthwave bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a rhythmic synthesizer"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a deep synth bass, a rhythmic synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a deep synth bass, a rhythmic synthesizer and loose jazz drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "loose jazz drums",
+        "Others Softmask Prompt": "a rhythmic synthesizer"
+    },
+    "drums2industrial": {
+        "Original Prompt": "A recording of a deep synth bass, a rhythmic synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a deep synth bass, a rhythmic synthesizer and clanging industrial drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "clanging industrial drums",
+        "Others Softmask Prompt": "a rhythmic synthesizer"
+    },
+    "drums2acoustic": {
+        "Original Prompt": "A recording of a deep synth bass, a rhythmic synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a deep synth bass, a rhythmic synthesizer and live acoustic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "live acoustic drums",
+        "Others Softmask Prompt": "a rhythmic synthesizer"
+    },
+    "drums2tribal": {
+        "Original Prompt": "A recording of a deep synth bass, a rhythmic synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a deep synth bass, a rhythmic synthesizer and pounding tribal drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "pounding tribal drums",
+        "Others Softmask Prompt": "a rhythmic synthesizer"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "string2violin": {
+        "Original Prompt": "A Classical recording of a lush string and a dynamic drum.",
+        "Baseline Prompt": "A Classical recording of a smooth violin melody and a dynamic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a dynamic drum",
+        "Others Softmask Prompt": "a smooth violin melody"
+    },
+    "string2cello": {
+        "Original Prompt": "A Classical recording of a lush string and a dynamic drum.",
+        "Baseline Prompt": "A Classical recording of a rich cello melody and a dynamic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a dynamic drum",
+        "Others Softmask Prompt": "a rich cello melody"
+    },
+    "string2flute": {
+        "Original Prompt": "A Classical recording of a lush string and a dynamic drum.",
+        "Baseline Prompt": "A Classical recording of a light flute melody and a dynamic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a dynamic drum",
+        "Others Softmask Prompt": "a light flute melody"
+    },
+    "string2trumpet": {
+        "Original Prompt": "A Classical recording of a lush string and a dynamic drum.",
+        "Baseline Prompt": "A Classical recording of a bright trumpet melody and a dynamic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a dynamic drum",
+        "Others Softmask Prompt": "a bright trumpet melody"
+    },
+    "string2horn": {
+        "Original Prompt": "A Classical recording of a lush string and a dynamic drum.",
+        "Baseline Prompt": "A Classical recording of a warm horn melody and a dynamic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a dynamic drum",
+        "Others Softmask Prompt": "a warm horn melody"
+    },
+    "brass2violin": {
+        "Original Prompt": "A Classical recording of a lush string and a dynamic drum.",
+        "Baseline Prompt": "A Classical recording of a smooth violin melody and a dynamic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a dynamic drum",
+        "Others Softmask Prompt": "a smooth violin melody"
+    },
+    "brass2cello": {
+        "Original Prompt": "A Classical recording of a lush string and a dynamic drum.",
+        "Baseline Prompt": "A Classical recording of a rich cello melody and a dynamic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a dynamic drum",
+        "Others Softmask Prompt": "a rich cello melody"
+    },
+    "brass2flute": {
+        "Original Prompt": "A Classical recording of a lush string and a dynamic drum.",
+        "Baseline Prompt": "A Classical recording of a light flute melody and a dynamic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a dynamic drum",
+        "Others Softmask Prompt": "a light flute melody"
+    },
+    "brass2trumpet": {
+        "Original Prompt": "A Classical recording of a lush string and a dynamic drum.",
+        "Baseline Prompt": "A Classical recording of a bright trumpet melody and a dynamic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a dynamic drum",
+        "Others Softmask Prompt": "a bright trumpet melody"
+    },
+    "drums2timpani": {
+        "Original Prompt": "A Classical recording of a lush string and a dynamic drum.",
+        "Baseline Prompt": "A Classical recording of a lush string and a resonant timpani rhythm.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a resonant timpani rhythm",
+        "Others Softmask Prompt": "a lush string"
+    },
+    "drums2bassdrum": {
+        "Original Prompt": "A Classical recording of a lush string and a dynamic drum.",
+        "Baseline Prompt": "A Classical recording of a lush string and a deep bass drum pulse.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a deep bass drum pulse",
+        "Others Softmask Prompt": "a lush string"
+    },
+    "string2doublebass": {
+        "Original Prompt": "A Classical recording of a lush string and a dynamic drum.",
+        "Baseline Prompt": "A Classical recording of a deep double bass line and a dynamic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a dynamic drum",
+        "Others Softmask Prompt": "a deep double bass line"
+    },
+    "string2cello_2": {
+        "Original Prompt": "A Classical recording of a lush string and a dynamic drum.",
+        "Baseline Prompt": "A Classical recording of a rich cello bass line and a dynamic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a dynamic drum",
+        "Others Softmask Prompt": "a rich cello bass line"
+    },
+    "string2oboe": {
+        "Original Prompt": "A Classical recording of a lush string and a dynamic drum.",
+        "Baseline Prompt": "A Classical recording of a mellow oboe melody and a dynamic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a dynamic drum",
+        "Others Softmask Prompt": "a mellow oboe melody"
+    },
+    "brass2clarinet": {
+        "Original Prompt": "A Classical recording of a lush string and a dynamic drum.",
+        "Baseline Prompt": "A Classical recording of a smooth clarinet melody and a dynamic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a dynamic drum",
+        "Others Softmask Prompt": "a smooth clarinet melody"
+    }
+}

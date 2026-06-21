@@ -1,0 +1,122 @@
+{
+    "guitar2piano": {
+        "Original Prompt": "A recording of a clean arpeggiated electric guitar, a steady root note bass line and a simple steady hi-hat.",
+        "Baseline Prompt": "A recording of a gentle piano, a steady root note bass line and a simple steady hi-hat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a steady root note bass line",
+        "Drums Softmask Prompt": "a simple steady hi-hat",
+        "Others Softmask Prompt": "a gentle piano"
+    },
+    "guitar2acousticguitar": {
+        "Original Prompt": "A recording of a clean arpeggiated electric guitar, a steady root note bass line and a simple steady hi-hat.",
+        "Baseline Prompt": "A recording of a bright acoustic guitar, a steady root note bass line and a simple steady hi-hat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a steady root note bass line",
+        "Drums Softmask Prompt": "a simple steady hi-hat",
+        "Others Softmask Prompt": "a bright acoustic guitar"
+    },
+    "guitar2violin": {
+        "Original Prompt": "A recording of a clean arpeggiated electric guitar, a steady root note bass line and a simple steady hi-hat.",
+        "Baseline Prompt": "A recording of a smooth violin, a steady root note bass line and a simple steady hi-hat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a steady root note bass line",
+        "Drums Softmask Prompt": "a simple steady hi-hat",
+        "Others Softmask Prompt": "a smooth violin"
+    },
+    "guitar2cello": {
+        "Original Prompt": "A recording of a clean arpeggiated electric guitar, a steady root note bass line and a simple steady hi-hat.",
+        "Baseline Prompt": "A recording of a warm cello, a steady root note bass line and a simple steady hi-hat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a steady root note bass line",
+        "Drums Softmask Prompt": "a simple steady hi-hat",
+        "Others Softmask Prompt": "a warm cello"
+    },
+    "guitar2synthpad": {
+        "Original Prompt": "A recording of a clean arpeggiated electric guitar, a steady root note bass line and a simple steady hi-hat.",
+        "Baseline Prompt": "A recording of a soft synth pad, a steady root note bass line and a simple steady hi-hat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a steady root note bass line",
+        "Drums Softmask Prompt": "a simple steady hi-hat",
+        "Others Softmask Prompt": "a soft synth pad"
+    },
+    "guitar2harp": {
+        "Original Prompt": "A recording of a clean arpeggiated electric guitar, a steady root note bass line and a simple steady hi-hat.",
+        "Baseline Prompt": "A recording of a delicate harp, a steady root note bass line and a simple steady hi-hat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a steady root note bass line",
+        "Drums Softmask Prompt": "a simple steady hi-hat",
+        "Others Softmask Prompt": "a delicate harp"
+    },
+    "guitar2saxophone": {
+        "Original Prompt": "A recording of a clean arpeggiated electric guitar, a steady root note bass line and a simple steady hi-hat.",
+        "Baseline Prompt": "A recording of a mellow saxophone, a steady root note bass line and a simple steady hi-hat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a steady root note bass line",
+        "Drums Softmask Prompt": "a simple steady hi-hat",
+        "Others Softmask Prompt": "a mellow saxophone"
+    },
+    "guitar2trumpet": {
+        "Original Prompt": "A recording of a clean arpeggiated electric guitar, a steady root note bass line and a simple steady hi-hat.",
+        "Baseline Prompt": "A recording of a bright trumpet, a steady root note bass line and a simple steady hi-hat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a steady root note bass line",
+        "Drums Softmask Prompt": "a simple steady hi-hat",
+        "Others Softmask Prompt": "a bright trumpet"
+    },
+    "guitar2flute": {
+        "Original Prompt": "A recording of a clean arpeggiated electric guitar, a steady root note bass line and a simple steady hi-hat.",
+        "Baseline Prompt": "A recording of a light flute, a steady root note bass line and a simple steady hi-hat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a steady root note bass line",
+        "Drums Softmask Prompt": "a simple steady hi-hat",
+        "Others Softmask Prompt": "a light flute"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a clean arpeggiated electric guitar, a steady root note bass line and a simple steady hi-hat.",
+        "Baseline Prompt": "A recording of a clean arpeggiated electric guitar, a upright bass and a simple steady hi-hat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a upright bass",
+        "Drums Softmask Prompt": "a simple steady hi-hat",
+        "Others Softmask Prompt": "a clean arpeggiated electric guitar"
+    },
+    "bass2synth": {
+        "Original Prompt": "A recording of a clean arpeggiated electric guitar, a steady root note bass line and a simple steady hi-hat.",
+        "Baseline Prompt": "A recording of a clean arpeggiated electric guitar, a deep synth bass and a simple steady hi-hat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep synth bass",
+        "Drums Softmask Prompt": "a simple steady hi-hat",
+        "Others Softmask Prompt": "a clean arpeggiated electric guitar"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a clean arpeggiated electric guitar, a steady root note bass line and a simple steady hi-hat.",
+        "Baseline Prompt": "A recording of a clean arpeggiated electric guitar, a steady root note bass line and a jazz drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a steady root note bass line",
+        "Drums Softmask Prompt": "a jazz drum",
+        "Others Softmask Prompt": "a clean arpeggiated electric guitar"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a clean arpeggiated electric guitar, a steady root note bass line and a simple steady hi-hat.",
+        "Baseline Prompt": "A recording of a clean arpeggiated electric guitar, a steady root note bass line and an electronic drum beat with synthesized kick and snare and programmed hi hat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a steady root note bass line",
+        "Drums Softmask Prompt": "an electronic drum beat with synthesized kick and snare and programmed hi hat",
+        "Others Softmask Prompt": "a clean arpeggiated electric guitar"
+    },
+    "drums2dub": {
+        "Original Prompt": "A recording of a clean arpeggiated electric guitar, a steady root note bass line and a simple steady hi-hat.",
+        "Baseline Prompt": "A recording of a clean arpeggiated electric guitar, a steady root note bass line and a dub rhythm.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a steady root note bass line",
+        "Drums Softmask Prompt": "a dub rhythm",
+        "Others Softmask Prompt": "a clean arpeggiated electric guitar"
+    },
+    "drums2orchestral": {
+        "Original Prompt": "A recording of a clean arpeggiated electric guitar, a steady root note bass line and a simple steady hi-hat.",
+        "Baseline Prompt": "A recording of a clean arpeggiated electric guitar, a steady root note bass line and an orchestral percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a steady root note bass line",
+        "Drums Softmask Prompt": "an orchestral percussion",
+        "Others Softmask Prompt": "a clean arpeggiated electric guitar"
+    }
+}

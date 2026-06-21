@@ -1,0 +1,122 @@
+{
+    "ukulele2guitar": {
+        "Original Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Baseline Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a warm guitar and a continuous shaker.",
+        "Vocals Softmask Prompt": "playful vocal harmonies",
+        "Bass Softmask Prompt": "a deep bass guitar",
+        "Drums Softmask Prompt": "a continuous shaker",
+        "Others Softmask Prompt": "a warm guitar"
+    },
+    "ukulele2flute": {
+        "Original Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Baseline Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a light flute and a continuous shaker.",
+        "Vocals Softmask Prompt": "playful vocal harmonies",
+        "Bass Softmask Prompt": "a deep bass guitar",
+        "Drums Softmask Prompt": "a continuous shaker",
+        "Others Softmask Prompt": "a light flute"
+    },
+    "ukulele2trumpet": {
+        "Original Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Baseline Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a brassy trumpet and a continuous shaker.",
+        "Vocals Softmask Prompt": "playful vocal harmonies",
+        "Bass Softmask Prompt": "a deep bass guitar",
+        "Drums Softmask Prompt": "a continuous shaker",
+        "Others Softmask Prompt": "a brassy trumpet"
+    },
+    "ukulele2cello": {
+        "Original Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Baseline Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a rich cello and a continuous shaker.",
+        "Vocals Softmask Prompt": "playful vocal harmonies",
+        "Bass Softmask Prompt": "a deep bass guitar",
+        "Drums Softmask Prompt": "a continuous shaker",
+        "Others Softmask Prompt": "a rich cello"
+    },
+    "ukulele2choir": {
+        "Original Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Baseline Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a lush choir and a continuous shaker.",
+        "Vocals Softmask Prompt": "playful vocal harmonies",
+        "Bass Softmask Prompt": "a deep bass guitar",
+        "Drums Softmask Prompt": "a continuous shaker",
+        "Others Softmask Prompt": "a lush choir"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Baseline Prompt": "A recording of playful vocal harmonies, a warm upright bass, a bright ukulele and a continuous shaker.",
+        "Vocals Softmask Prompt": "playful vocal harmonies",
+        "Bass Softmask Prompt": "a warm upright bass",
+        "Drums Softmask Prompt": "a continuous shaker",
+        "Others Softmask Prompt": "a bright ukulele"
+    },
+    "vocals2violin": {
+        "Original Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Baseline Prompt": "A recording of a smooth violin, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Vocals Softmask Prompt": "a smooth violin",
+        "Bass Softmask Prompt": "a deep bass guitar",
+        "Drums Softmask Prompt": "a continuous shaker",
+        "Others Softmask Prompt": "a bright ukulele"
+    },
+    "vocals2piano": {
+        "Original Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Baseline Prompt": "A recording of a bright piano, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Vocals Softmask Prompt": "a bright piano",
+        "Bass Softmask Prompt": "a deep bass guitar",
+        "Drums Softmask Prompt": "a continuous shaker",
+        "Others Softmask Prompt": "a bright ukulele"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Baseline Prompt": "A recording of a smooth saxophone, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Vocals Softmask Prompt": "a smooth saxophone",
+        "Bass Softmask Prompt": "a deep bass guitar",
+        "Drums Softmask Prompt": "a continuous shaker",
+        "Others Softmask Prompt": "a bright ukulele"
+    },
+    "vocals2harp": {
+        "Original Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Baseline Prompt": "A recording of a gentle harp, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Vocals Softmask Prompt": "a gentle harp",
+        "Bass Softmask Prompt": "a deep bass guitar",
+        "Drums Softmask Prompt": "a continuous shaker",
+        "Others Softmask Prompt": "a bright ukulele"
+    },
+    "vocals2clarinet": {
+        "Original Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Baseline Prompt": "A recording of a mellow clarinet, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Vocals Softmask Prompt": "a mellow clarinet",
+        "Bass Softmask Prompt": "a deep bass guitar",
+        "Drums Softmask Prompt": "a continuous shaker",
+        "Others Softmask Prompt": "a bright ukulele"
+    },
+    "vocals2trombone": {
+        "Original Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Baseline Prompt": "A recording of a bold trombone, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Vocals Softmask Prompt": "a bold trombone",
+        "Bass Softmask Prompt": "a deep bass guitar",
+        "Drums Softmask Prompt": "a continuous shaker",
+        "Others Softmask Prompt": "a bright ukulele"
+    },
+    "vocals2organ": {
+        "Original Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Baseline Prompt": "A recording of a soulful organ, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Vocals Softmask Prompt": "a soulful organ",
+        "Bass Softmask Prompt": "a deep bass guitar",
+        "Drums Softmask Prompt": "a continuous shaker",
+        "Others Softmask Prompt": "a bright ukulele"
+    },
+    "drums2punchy": {
+        "Original Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Baseline Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a bright ukulele and punchy drums.",
+        "Vocals Softmask Prompt": "playful vocal harmonies",
+        "Bass Softmask Prompt": "a deep bass guitar",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a bright ukulele"
+    },
+    "drums2congas": {
+        "Original Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a bright ukulele and a continuous shaker.",
+        "Baseline Prompt": "A recording of playful vocal harmonies, a deep bass guitar, a bright ukulele and lively congas.",
+        "Vocals Softmask Prompt": "playful vocal harmonies",
+        "Bass Softmask Prompt": "a deep bass guitar",
+        "Drums Softmask Prompt": "lively congas",
+        "Others Softmask Prompt": "a bright ukulele"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "vocals2piano": {
+        "Original Prompt": "A recording of a soulful female vocals, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a smooth piano, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a smooth piano",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of a soulful female vocals, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a mellow cello, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a mellow cello",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of a soulful female vocals, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a light flute, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a light flute",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of a soulful female vocals, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a bright trumpet, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a bright trumpet",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "vocals2violin": {
+        "Original Prompt": "A recording of a soulful female vocals, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a smooth violin, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a smooth violin",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of a soulful female vocals, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a lush choir, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a lush choir",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of a soulful female vocals, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a smooth saxophone, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a smooth saxophone",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "guitar2piano": {
+        "Original Prompt": "A recording of a soulful female vocals, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a soulful female vocals, a deep bass, a melodic piano, a warm acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a soulful female vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a melodic piano"
+    },
+    "guitar2flute": {
+        "Original Prompt": "A recording of a soulful female vocals, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a soulful female vocals, a deep bass, a soft flute, a warm acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a soulful female vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a soft flute"
+    },
+    "guitar2choir": {
+        "Original Prompt": "A recording of a soulful female vocals, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a soulful female vocals, a deep bass, a lush choir, a warm acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a soulful female vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a lush choir"
+    },
+    "guitar2saxophone": {
+        "Original Prompt": "A recording of a soulful female vocals, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a soulful female vocals, a deep bass, a warm saxophone, a warm acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a soulful female vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a warm saxophone"
+    },
+    "guitar2trumpet": {
+        "Original Prompt": "A recording of a soulful female vocals, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a soulful female vocals, a deep bass, a bright trumpet, a warm acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a soulful female vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a bright trumpet"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a soulful female vocals, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a soulful female vocals, a deep bass, a clean electric guitar, a warm acoustic guitar and synthetic electronic beats.",
+        "Vocals Softmask Prompt": "a soulful female vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "synthetic electronic beats",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a soulful female vocals, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a soulful female vocals, a deep bass, a clean electric guitar, a warm acoustic guitar and swinging jazz drums.",
+        "Vocals Softmask Prompt": "a soulful female vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "swinging jazz drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a soulful female vocals, a deep bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a soulful female vocals, an upright bass, a clean electric guitar, a warm acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a soulful female vocals",
+        "Bass Softmask Prompt": "an upright bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of a soft, melodic male vocal, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Baseline Prompt": "A recording of a violin melody, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Vocals Softmask Prompt": "a violin melody",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a light drum beat",
+        "Others Softmask Prompt": "a gentle fingerpicked acoustic guitar"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of a soft, melodic male vocal, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Baseline Prompt": "A recording of a cello melody, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Vocals Softmask Prompt": "a cello melody",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a light drum beat",
+        "Others Softmask Prompt": "a gentle fingerpicked acoustic guitar"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of a soft, melodic male vocal, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Baseline Prompt": "A recording of a flute melody, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Vocals Softmask Prompt": "a flute melody",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a light drum beat",
+        "Others Softmask Prompt": "a gentle fingerpicked acoustic guitar"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of a soft, melodic male vocal, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Baseline Prompt": "A recording of a choir melody, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Vocals Softmask Prompt": "a choir melody",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a light drum beat",
+        "Others Softmask Prompt": "a gentle fingerpicked acoustic guitar"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of a soft, melodic male vocal, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Baseline Prompt": "A recording of a trumpet melody, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Vocals Softmask Prompt": "a trumpet melody",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a light drum beat",
+        "Others Softmask Prompt": "a gentle fingerpicked acoustic guitar"
+    },
+    "vocals2clarinet": {
+        "Original Prompt": "A recording of a soft, melodic male vocal, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Baseline Prompt": "A recording of a clarinet melody, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Vocals Softmask Prompt": "a clarinet melody",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a light drum beat",
+        "Others Softmask Prompt": "a gentle fingerpicked acoustic guitar"
+    },
+    "vocals2trombone": {
+        "Original Prompt": "A recording of a soft, melodic male vocal, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Baseline Prompt": "A recording of a trombone melody, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Vocals Softmask Prompt": "a trombone melody",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a light drum beat",
+        "Others Softmask Prompt": "a gentle fingerpicked acoustic guitar"
+    },
+    "acousticguitar2piano": {
+        "Original Prompt": "A recording of a soft, melodic male vocal, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Baseline Prompt": "A recording of a soft, melodic male vocal, a piano melody, and a light drum beat.",
+        "Vocals Softmask Prompt": "a soft, melodic male vocal",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a light drum beat",
+        "Others Softmask Prompt": "a piano melody"
+    },
+    "acousticguitar2strings": {
+        "Original Prompt": "A recording of a soft, melodic male vocal, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Baseline Prompt": "A recording of a soft, melodic male vocal, a strings melody, and a light drum beat.",
+        "Vocals Softmask Prompt": "a soft, melodic male vocal",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a light drum beat",
+        "Others Softmask Prompt": "a strings melody"
+    },
+    "acousticguitar2mandolin": {
+        "Original Prompt": "A recording of a soft, melodic male vocal, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Baseline Prompt": "A recording of a soft, melodic male vocal, a mandolin melody, and a light drum beat.",
+        "Vocals Softmask Prompt": "a soft, melodic male vocal",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a light drum beat",
+        "Others Softmask Prompt": "a mandolin melody"
+    },
+    "acousticguitar2saxophone": {
+        "Original Prompt": "A recording of a soft, melodic male vocal, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Baseline Prompt": "A recording of a soft, melodic male vocal, a saxophone melody, and a light drum beat.",
+        "Vocals Softmask Prompt": "a soft, melodic male vocal",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a light drum beat",
+        "Others Softmask Prompt": "a saxophone melody"
+    },
+    "acousticguitar2harp": {
+        "Original Prompt": "A recording of a soft, melodic male vocal, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Baseline Prompt": "A recording of a soft, melodic male vocal, a harp melody, and a light drum beat.",
+        "Vocals Softmask Prompt": "a soft, melodic male vocal",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a light drum beat",
+        "Others Softmask Prompt": "a harp melody"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a soft, melodic male vocal, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Baseline Prompt": "A recording of a soft, melodic male vocal, a gentle fingerpicked acoustic guitar, and a jazz drum.",
+        "Vocals Softmask Prompt": "a soft, melodic male vocal",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a jazz drum",
+        "Others Softmask Prompt": "a gentle fingerpicked acoustic guitar"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a soft, melodic male vocal, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Baseline Prompt": "A recording of a soft, melodic male vocal, a gentle fingerpicked acoustic guitar, and an electronic drum beat.",
+        "Vocals Softmask Prompt": "a soft, melodic male vocal",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "an electronic drum beat",
+        "Others Softmask Prompt": "a gentle fingerpicked acoustic guitar"
+    },
+    "acousticguitar2upright": {
+        "Original Prompt": "A recording of a soft, melodic male vocal, a gentle fingerpicked acoustic guitar, and a light drum beat.",
+        "Baseline Prompt": "A recording of a soft, melodic male vocal, an upright bass, and a light drum beat.",
+        "Vocals Softmask Prompt": "a soft, melodic male vocal",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a light drum beat",
+        "Others Softmask Prompt": "an upright bass"
+    }
+}

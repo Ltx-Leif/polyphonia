@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of smooth, melodic male, walking bassline, rhythmic strumming and steady backbeat.",
+        "Baseline Prompt": "A recording of a violin, rhythmic strumming, walking bassline and steady backbeat.",
+        "Vocals Softmask Prompt": "a violin",
+        "Bass Softmask Prompt": "walking bassline",
+        "Drums Softmask Prompt": "steady backbeat",
+        "Others Softmask Prompt": "rhythmic strumming"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of smooth, melodic male, walking bassline, rhythmic strumming and steady backbeat.",
+        "Baseline Prompt": "A recording of a cello, rhythmic strumming, walking bassline and steady backbeat.",
+        "Vocals Softmask Prompt": "a cello",
+        "Bass Softmask Prompt": "walking bassline",
+        "Drums Softmask Prompt": "steady backbeat",
+        "Others Softmask Prompt": "rhythmic strumming"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of smooth, melodic male, walking bassline, rhythmic strumming and steady backbeat.",
+        "Baseline Prompt": "A recording of a trumpet, rhythmic strumming, walking bassline and steady backbeat.",
+        "Vocals Softmask Prompt": "a trumpet",
+        "Bass Softmask Prompt": "walking bassline",
+        "Drums Softmask Prompt": "steady backbeat",
+        "Others Softmask Prompt": "rhythmic strumming"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of smooth, melodic male, walking bassline, rhythmic strumming and steady backbeat.",
+        "Baseline Prompt": "A recording of a flute, rhythmic strumming, walking bassline and steady backbeat.",
+        "Vocals Softmask Prompt": "a flute",
+        "Bass Softmask Prompt": "walking bassline",
+        "Drums Softmask Prompt": "steady backbeat",
+        "Others Softmask Prompt": "rhythmic strumming"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of smooth, melodic male, walking bassline, rhythmic strumming and steady backbeat.",
+        "Baseline Prompt": "A recording of a choir, rhythmic strumming, walking bassline and steady backbeat.",
+        "Vocals Softmask Prompt": "a choir",
+        "Bass Softmask Prompt": "walking bassline",
+        "Drums Softmask Prompt": "steady backbeat",
+        "Others Softmask Prompt": "rhythmic strumming"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of smooth, melodic male, walking bassline, rhythmic strumming and steady backbeat.",
+        "Baseline Prompt": "A recording of a saxophone, rhythmic strumming, walking bassline and steady backbeat.",
+        "Vocals Softmask Prompt": "a saxophone",
+        "Bass Softmask Prompt": "walking bassline",
+        "Drums Softmask Prompt": "steady backbeat",
+        "Others Softmask Prompt": "rhythmic strumming"
+    },
+    "vocals2trombone": {
+        "Original Prompt": "A recording of smooth, melodic male, walking bassline, rhythmic strumming and steady backbeat.",
+        "Baseline Prompt": "A recording of a trombone, rhythmic strumming, walking bassline and steady backbeat.",
+        "Vocals Softmask Prompt": "a trombone",
+        "Bass Softmask Prompt": "walking bassline",
+        "Drums Softmask Prompt": "steady backbeat",
+        "Others Softmask Prompt": "rhythmic strumming"
+    },
+    "electricguitar2acousticguitar": {
+        "Original Prompt": "A recording of smooth, melodic male, walking bassline, rhythmic strumming and steady backbeat.",
+        "Baseline Prompt": "A recording of smooth, melodic male, walking bassline, a acoustic guitar and steady backbeat.",
+        "Vocals Softmask Prompt": "smooth, melodic male",
+        "Bass Softmask Prompt": "walking bassline",
+        "Drums Softmask Prompt": "steady backbeat",
+        "Others Softmask Prompt": "a acoustic guitar"
+    },
+    "electricguitar2piano": {
+        "Original Prompt": "A recording of smooth, melodic male, walking bassline, rhythmic strumming and steady backbeat.",
+        "Baseline Prompt": "A recording of smooth, melodic male, walking bassline, a piano and steady backbeat.",
+        "Vocals Softmask Prompt": "smooth, melodic male",
+        "Bass Softmask Prompt": "walking bassline",
+        "Drums Softmask Prompt": "steady backbeat",
+        "Others Softmask Prompt": "a piano"
+    },
+    "electricguitar2organ": {
+        "Original Prompt": "A recording of smooth, melodic male, walking bassline, rhythmic strumming and steady backbeat.",
+        "Baseline Prompt": "A recording of smooth, melodic male, walking bassline, a organ and steady backbeat.",
+        "Vocals Softmask Prompt": "smooth, melodic male",
+        "Bass Softmask Prompt": "walking bassline",
+        "Drums Softmask Prompt": "steady backbeat",
+        "Others Softmask Prompt": "a organ"
+    },
+    "electricguitar2sitar": {
+        "Original Prompt": "A recording of smooth, melodic male, walking bassline, rhythmic strumming and steady backbeat.",
+        "Baseline Prompt": "A recording of smooth, melodic male, walking bassline, a sitar and steady backbeat.",
+        "Vocals Softmask Prompt": "smooth, melodic male",
+        "Bass Softmask Prompt": "walking bassline",
+        "Drums Softmask Prompt": "steady backbeat",
+        "Others Softmask Prompt": "a sitar"
+    },
+    "electricguitar2marimba": {
+        "Original Prompt": "A recording of smooth, melodic male, walking bassline, rhythmic strumming and steady backbeat.",
+        "Baseline Prompt": "A recording of smooth, melodic male, walking bassline, a marimba and steady backbeat.",
+        "Vocals Softmask Prompt": "smooth, melodic male",
+        "Bass Softmask Prompt": "walking bassline",
+        "Drums Softmask Prompt": "steady backbeat",
+        "Others Softmask Prompt": "a marimba"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of smooth, melodic male, walking bassline, rhythmic strumming and steady backbeat.",
+        "Baseline Prompt": "A recording of smooth, melodic male, walking bassline, rhythmic strumming and an electronic drum.",
+        "Vocals Softmask Prompt": "smooth, melodic male",
+        "Bass Softmask Prompt": "walking bassline",
+        "Drums Softmask Prompt": "an electronic drum",
+        "Others Softmask Prompt": "rhythmic strumming"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of smooth, melodic male, walking bassline, rhythmic strumming and steady backbeat.",
+        "Baseline Prompt": "A recording of smooth, melodic male, walking bassline, rhythmic strumming and a jazz drum.",
+        "Vocals Softmask Prompt": "smooth, melodic male",
+        "Bass Softmask Prompt": "walking bassline",
+        "Drums Softmask Prompt": "a jazz drum",
+        "Others Softmask Prompt": "rhythmic strumming"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of smooth, melodic male, walking bassline, rhythmic strumming and steady backbeat.",
+        "Baseline Prompt": "A recording of smooth, melodic male, an upright bass, rhythmic strumming and steady backbeat.",
+        "Vocals Softmask Prompt": "smooth, melodic male",
+        "Bass Softmask Prompt": "an upright bass",
+        "Drums Softmask Prompt": "steady backbeat",
+        "Others Softmask Prompt": "rhythmic strumming"
+    }
+}

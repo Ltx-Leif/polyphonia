@@ -1,0 +1,122 @@
+{
+    "piano2guitar": {
+        "Original Prompt": "A Jazz recording of a gentle melodic piano, a smooth bass line and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a guitar melody, a smooth bass line and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a smooth bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a guitar melody"
+    },
+    "piano2sax": {
+        "Original Prompt": "A Jazz recording of a gentle melodic piano, a smooth bass line and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a saxophone melody, a smooth bass line and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a smooth bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a saxophone melody"
+    },
+    "piano2trumpet": {
+        "Original Prompt": "A Jazz recording of a gentle melodic piano, a smooth bass line and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a trumpet melody, a smooth bass line and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a smooth bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a trumpet melody"
+    },
+    "piano2violin": {
+        "Original Prompt": "A Jazz recording of a gentle melodic piano, a smooth bass line and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a violin melody, a smooth bass line and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a smooth bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a violin melody"
+    },
+    "piano2cello": {
+        "Original Prompt": "A Jazz recording of a gentle melodic piano, a smooth bass line and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a cello melody, a smooth bass line and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a smooth bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a cello melody"
+    },
+    "piano2flute": {
+        "Original Prompt": "A Jazz recording of a gentle melodic piano, a smooth bass line and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a flute melody, a smooth bass line and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a smooth bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a flute melody"
+    },
+    "piano2clarinet": {
+        "Original Prompt": "A Jazz recording of a gentle melodic piano, a smooth bass line and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a clarinet melody, a smooth bass line and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a smooth bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a clarinet melody"
+    },
+    "piano2organ": {
+        "Original Prompt": "A Jazz recording of a gentle melodic piano, a smooth bass line and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a organ melody, a smooth bass line and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a smooth bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a organ melody"
+    },
+    "piano2vibraphone": {
+        "Original Prompt": "A Jazz recording of a gentle melodic piano, a smooth bass line and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a vibraphone melody, a smooth bass line and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a smooth bass line",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a vibraphone melody"
+    },
+    "drums2jazzbrush": {
+        "Original Prompt": "A Jazz recording of a gentle melodic piano, a smooth bass line and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a gentle melodic piano, a smooth bass line and a jazz brush.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a smooth bass line",
+        "Drums Softmask Prompt": "a jazz brush",
+        "Others Softmask Prompt": "a gentle melodic piano"
+    },
+    "drums2acoustic": {
+        "Original Prompt": "A Jazz recording of a gentle melodic piano, a smooth bass line and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a gentle melodic piano, a smooth bass line and a acoustic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a smooth bass line",
+        "Drums Softmask Prompt": "a acoustic drum",
+        "Others Softmask Prompt": "a gentle melodic piano"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A Jazz recording of a gentle melodic piano, a smooth bass line and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a gentle melodic piano, a smooth bass line and an electronic drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a smooth bass line",
+        "Drums Softmask Prompt": "an electronic drum beat",
+        "Others Softmask Prompt": "a gentle melodic piano"
+    },
+    "drums2latin": {
+        "Original Prompt": "A Jazz recording of a gentle melodic piano, a smooth bass line and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a gentle melodic piano, a smooth bass line and Latin percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a smooth bass line",
+        "Drums Softmask Prompt": "Latin percussion",
+        "Others Softmask Prompt": "a gentle melodic piano"
+    },
+    "bass2upright": {
+        "Original Prompt": "A Jazz recording of a gentle melodic piano, a smooth bass line and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a gentle melodic piano, an upright bass and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "an upright bass",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a gentle melodic piano"
+    },
+    "bass2synth": {
+        "Original Prompt": "A Jazz recording of a gentle melodic piano, a smooth bass line and a steady drum beat.",
+        "Baseline Prompt": "A Jazz recording of a gentle melodic piano, a synth bass and a steady drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a synth bass",
+        "Drums Softmask Prompt": "a steady drum beat",
+        "Others Softmask Prompt": "a gentle melodic piano"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of soulful male vocals, a deep bass, a soft piano and ambient synth pad.",
+        "Baseline Prompt": "A recording of a smooth violin, a deep bass, a soft piano and ambient synth pad.",
+        "Vocals Softmask Prompt": "a smooth violin",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "ambient synth pad"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of soulful male vocals, a deep bass, a soft piano and ambient synth pad.",
+        "Baseline Prompt": "A recording of a warm cello, a deep bass, a soft piano and ambient synth pad.",
+        "Vocals Softmask Prompt": "a warm cello",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "ambient synth pad"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of soulful male vocals, a deep bass, a soft piano and ambient synth pad.",
+        "Baseline Prompt": "A recording of a light flute, a deep bass, a soft piano and ambient synth pad.",
+        "Vocals Softmask Prompt": "a light flute",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "ambient synth pad"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of soulful male vocals, a deep bass, a soft piano and ambient synth pad.",
+        "Baseline Prompt": "A recording of a ethereal choir, a deep bass, a soft piano and ambient synth pad.",
+        "Vocals Softmask Prompt": "a ethereal choir",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "ambient synth pad"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of soulful male vocals, a deep bass, a soft piano and ambient synth pad.",
+        "Baseline Prompt": "A recording of a mellow trumpet, a deep bass, a soft piano and ambient synth pad.",
+        "Vocals Softmask Prompt": "a mellow trumpet",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "ambient synth pad"
+    },
+    "vocals2clarinet": {
+        "Original Prompt": "A recording of soulful male vocals, a deep bass, a soft piano and ambient synth pad.",
+        "Baseline Prompt": "A recording of a smooth clarinet, a deep bass, a soft piano and ambient synth pad.",
+        "Vocals Softmask Prompt": "a smooth clarinet",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "ambient synth pad"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of soulful male vocals, a deep bass, a soft piano and ambient synth pad.",
+        "Baseline Prompt": "A recording of a warm saxophone, a deep bass, a soft piano and ambient synth pad.",
+        "Vocals Softmask Prompt": "a warm saxophone",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "ambient synth pad"
+    },
+    "piano2guitar": {
+        "Original Prompt": "A recording of soulful male vocals, a deep bass, a soft piano and ambient synth pad.",
+        "Baseline Prompt": "A recording of soulful male vocals, a deep bass, a gentle guitar and ambient synth pad.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a gentle guitar"
+    },
+    "piano2harp": {
+        "Original Prompt": "A recording of soulful male vocals, a deep bass, a soft piano and ambient synth pad.",
+        "Baseline Prompt": "A recording of soulful male vocals, a deep bass, a delicate harp and ambient synth pad.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a delicate harp"
+    },
+    "piano2vibraphone": {
+        "Original Prompt": "A recording of soulful male vocals, a deep bass, a soft piano and ambient synth pad.",
+        "Baseline Prompt": "A recording of soulful male vocals, a deep bass, a shimmering vibraphone and ambient synth pad.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a shimmering vibraphone"
+    },
+    "piano2organ": {
+        "Original Prompt": "A recording of soulful male vocals, a deep bass, a soft piano and ambient synth pad.",
+        "Baseline Prompt": "A recording of soulful male vocals, a deep bass, a warm organ and ambient synth pad.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a warm organ"
+    },
+    "piano2marimba": {
+        "Original Prompt": "A recording of soulful male vocals, a deep bass, a soft piano and ambient synth pad.",
+        "Baseline Prompt": "A recording of soulful male vocals, a deep bass, a resonant marimba and ambient synth pad.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a resonant marimba"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of soulful male vocals, a deep bass, a soft piano and ambient synth pad.",
+        "Baseline Prompt": "A recording of soulful male vocals, an acoustic upright bass, a soft piano and ambient synth pad.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "an acoustic upright bass",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a soft piano"
+    },
+    "synthpad2strings": {
+        "Original Prompt": "A recording of soulful male vocals, a deep bass, a soft piano and ambient synth pad.",
+        "Baseline Prompt": "A recording of soulful male vocals, a deep bass, a soft piano and lush strings.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "lush strings"
+    },
+    "synthpad2choir": {
+        "Original Prompt": "A recording of soulful male vocals, a deep bass, a soft piano and ambient synth pad.",
+        "Baseline Prompt": "A recording of soulful male vocals, a deep bass, a soft piano and ethereal choir pads.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "ethereal choir pads"
+    }
+}

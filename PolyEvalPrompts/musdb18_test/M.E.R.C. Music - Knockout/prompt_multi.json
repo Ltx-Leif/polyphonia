@@ -1,0 +1,122 @@
+{
+    "piano2guitar": {
+        "Original Prompt": "A recording of soulful male rap vocals, a deep bass, a soft piano and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of soulful male rap vocals, a deep bass, a smooth guitar and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "soulful male rap vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a smooth guitar"
+    },
+    "piano2strings": {
+        "Original Prompt": "A recording of soulful male rap vocals, a deep bass, a soft piano and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of soulful male rap vocals, a deep bass, a soaring string section and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "soulful male rap vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a soaring string section"
+    },
+    "piano2choir": {
+        "Original Prompt": "A recording of soulful male rap vocals, a deep bass, a soft piano and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of soulful male rap vocals, a deep bass, a haunting choir and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "soulful male rap vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a haunting choir"
+    },
+    "piano2flute": {
+        "Original Prompt": "A recording of soulful male rap vocals, a deep bass, a soft piano and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of soulful male rap vocals, a deep bass, a light flute and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "soulful male rap vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a light flute"
+    },
+    "piano2horn": {
+        "Original Prompt": "A recording of soulful male rap vocals, a deep bass, a soft piano and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of soulful male rap vocals, a deep bass, a brassy horn section and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "soulful male rap vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a brassy horn section"
+    },
+    "synthesizer2organ": {
+        "Original Prompt": "A recording of soulful male rap vocals, a deep bass, a soft piano and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of soulful male rap vocals, a deep bass, a warm organ and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "soulful male rap vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a warm organ"
+    },
+    "synthesizer2marimba": {
+        "Original Prompt": "A recording of soulful male rap vocals, a deep bass, a soft piano and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of soulful male rap vocals, a deep bass, a bright marimba and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "soulful male rap vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a bright marimba"
+    },
+    "drum_machine2acoustic": {
+        "Original Prompt": "A recording of soulful male rap vocals, a deep bass, a soft piano and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of soulful male rap vocals, a deep bass, a soft piano and live acoustic drums.",
+        "Vocals Softmask Prompt": "soulful male rap vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "live acoustic drums",
+        "Others Softmask Prompt": "a soft piano"
+    },
+    "drum_machine2jazz": {
+        "Original Prompt": "A recording of soulful male rap vocals, a deep bass, a soft piano and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of soulful male rap vocals, a deep bass, a soft piano and swinging jazz drums.",
+        "Vocals Softmask Prompt": "soulful male rap vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "swinging jazz drums",
+        "Others Softmask Prompt": "a soft piano"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of soulful male rap vocals, a deep bass, a soft piano and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of soulful male rap vocals, a resonant upright bass and a soft piano with punchy drum machine beats.",
+        "Vocals Softmask Prompt": "soulful male rap vocals",
+        "Bass Softmask Prompt": "a resonant upright bass",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a soft piano"
+    },
+    "vocals2female": {
+        "Original Prompt": "A recording of soulful male rap vocals, a deep bass, a soft piano and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of sultry female rap vocals, a deep bass, a soft piano and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "sultry female rap vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a soft piano"
+    },
+    "vocals2singing": {
+        "Original Prompt": "A recording of soulful male rap vocals, a deep bass, a soft piano and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of smooth male singing vocals, a deep bass, a soft piano and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "smooth male singing vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a soft piano"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of soulful male rap vocals, a deep bass, a soft piano and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of powerful vocal choir with rhythmic delivery, a deep bass, a soft piano and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "powerful vocal choir with rhythmic delivery",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a soft piano"
+    },
+    "vocals2robot": {
+        "Original Prompt": "A recording of soulful male rap vocals, a deep bass, a soft piano and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of robotic rap vocals with echo effects, a deep bass, a soft piano and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "robotic rap vocals with echo effects",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a soft piano"
+    },
+    "vocals2folk": {
+        "Original Prompt": "A recording of soulful male rap vocals, a deep bass, a soft piano and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of raw folk singing vocals with reverb, a deep bass, a soft piano and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "raw folk singing vocals with reverb",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a soft piano"
+    }
+}

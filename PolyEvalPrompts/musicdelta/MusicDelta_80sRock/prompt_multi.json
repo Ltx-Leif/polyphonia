@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of soft breathy vocals, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Baseline Prompt": "A recording of a smooth violin, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Vocals Softmask Prompt": "a smooth violin",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a driving rock beat",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of soft breathy vocals, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Baseline Prompt": "A recording of a harmonized choir, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Vocals Softmask Prompt": "a harmonized choir",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a driving rock beat",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of soft breathy vocals, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Baseline Prompt": "A recording of a light flute, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Vocals Softmask Prompt": "a light flute",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a driving rock beat",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of soft breathy vocals, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Baseline Prompt": "A recording of a emotional cello, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Vocals Softmask Prompt": "a emotional cello",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a driving rock beat",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of soft breathy vocals, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Baseline Prompt": "A recording of a bright trumpet, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Vocals Softmask Prompt": "a bright trumpet",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a driving rock beat",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of soft breathy vocals, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Baseline Prompt": "A recording of a smooth saxphone, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Vocals Softmask Prompt": "a smooth saxphone",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a driving rock beat",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    },
+    "vocals2harp": {
+        "Original Prompt": "A recording of soft breathy vocals, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Baseline Prompt": "A recording of a harp, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Vocals Softmask Prompt": "a harp",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a driving rock beat",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    },
+    "electricguitar2piano": {
+        "Original Prompt": "A recording of soft breathy vocals, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Baseline Prompt": "A recording of soft breathy vocals, a steady bass line, a soft piano and a driving rock beat.",
+        "Vocals Softmask Prompt": "soft breathy vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a driving rock beat",
+        "Others Softmask Prompt": "a soft piano"
+    },
+    "electricguitar2acousticguitar": {
+        "Original Prompt": "A recording of soft breathy vocals, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Baseline Prompt": "A recording of soft breathy vocals, a steady bass line, a acoustic guitar and a driving rock beat.",
+        "Vocals Softmask Prompt": "soft breathy vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a driving rock beat",
+        "Others Softmask Prompt": "a acoustic guitar"
+    },
+    "electricguitar2organ": {
+        "Original Prompt": "A recording of soft breathy vocals, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Baseline Prompt": "A recording of soft breathy vocals, a steady bass line, a warm organ and a driving rock beat.",
+        "Vocals Softmask Prompt": "soft breathy vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a driving rock beat",
+        "Others Softmask Prompt": "a warm organ"
+    },
+    "electricguitar2synthlead": {
+        "Original Prompt": "A recording of soft breathy vocals, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Baseline Prompt": "A recording of soft breathy vocals, a steady bass line, a shimmering synth and a driving rock beat.",
+        "Vocals Softmask Prompt": "soft breathy vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a driving rock beat",
+        "Others Softmask Prompt": "a shimmering synth"
+    },
+    "electricguitar2marimba": {
+        "Original Prompt": "A recording of soft breathy vocals, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Baseline Prompt": "A recording of soft breathy vocals, a steady bass line, a bright marimba and a driving rock beat.",
+        "Vocals Softmask Prompt": "soft breathy vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a driving rock beat",
+        "Others Softmask Prompt": "a bright marimba"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of soft breathy vocals, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Baseline Prompt": "A recording of soft breathy vocals, a steady bass line, a arpeggiated guitar melody and an electronic drum beat.",
+        "Vocals Softmask Prompt": "soft breathy vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "an electronic drum beat",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of soft breathy vocals, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Baseline Prompt": "A recording of soft breathy vocals, a steady bass line, a arpeggiated guitar melody and a jazz drum.",
+        "Vocals Softmask Prompt": "soft breathy vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a jazz drum",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of soft breathy vocals, a steady bass line, a arpeggiated guitar melody and a driving rock beat.",
+        "Baseline Prompt": "A recording of soft breathy vocals, a upright bass, a arpeggiated guitar melody and a driving rock beat.",
+        "Vocals Softmask Prompt": "soft breathy vocals",
+        "Bass Softmask Prompt": "a upright bass",
+        "Drums Softmask Prompt": "a driving rock beat",
+        "Others Softmask Prompt": "a arpeggiated guitar melody"
+    }
+}

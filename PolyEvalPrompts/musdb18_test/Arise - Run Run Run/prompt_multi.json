@@ -1,0 +1,122 @@
+{
+    "vocals2trombone": {
+        "Original Prompt": "A recording of smooth male vocals, a deep bass, a clean electric guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a soulful trombone, a deep bass, a clean electric guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a soulful trombone",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "vocals2violin": {
+        "Original Prompt": "A recording of smooth male vocals, a deep bass, a clean electric guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a melodic violin, a deep bass, a clean electric guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a melodic violin",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of smooth male vocals, a deep bass, a clean electric guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a rhythmic cello, a deep bass, a clean electric guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a rhythmic cello",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "vocals2doublebass": {
+        "Original Prompt": "A recording of smooth male vocals, a deep bass, a clean electric guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a calm double bass, a deep bass, a clean electric guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a calm double bass",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "vocals2piccolo": {
+        "Original Prompt": "A recording of smooth male vocals, a deep bass, a clean electric guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a bright piccolo, a deep bass, a clean electric guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a bright piccolo",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "vocals2electricguitar": {
+        "Original Prompt": "A recording of smooth male vocals, a deep bass, a clean electric guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a gritty electric guitar, a deep bass, a clean electric guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a gritty electric guitar",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "vocals2accordion": {
+        "Original Prompt": "A recording of smooth male vocals, a deep bass, a clean electric guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a soft accordion, a deep bass, a clean electric guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a soft accordion",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "guitar2organ": {
+        "Original Prompt": "A recording of smooth male vocals, a deep bass, a clean electric guitar and punchy drums.",
+        "Baseline Prompt": "A recording of smooth male vocals, a deep bass, a warm organ and punchy drums.",
+        "Vocals Softmask Prompt": "smooth male vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a warm organ"
+    },
+    "guitar2piano": {
+        "Original Prompt": "A recording of smooth male vocals, a deep bass, a clean electric guitar and punchy drums.",
+        "Baseline Prompt": "A recording of smooth male vocals, a deep bass, a bright piano and punchy drums.",
+        "Vocals Softmask Prompt": "smooth male vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a bright piano"
+    },
+    "guitar2synth": {
+        "Original Prompt": "A recording of smooth male vocals, a deep bass, a clean electric guitar and punchy drums.",
+        "Baseline Prompt": "A recording of smooth male vocals, a deep bass, a shimmering synth and punchy drums.",
+        "Vocals Softmask Prompt": "smooth male vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a shimmering synth"
+    },
+    "guitar2harp": {
+        "Original Prompt": "A recording of smooth male vocals, a deep bass, a clean electric guitar and punchy drums.",
+        "Baseline Prompt": "A recording of smooth male vocals, a deep bass, a delicate harp and punchy drums.",
+        "Vocals Softmask Prompt": "smooth male vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a delicate harp"
+    },
+    "guitar2choir": {
+        "Original Prompt": "A recording of smooth male vocals, a deep bass, a clean electric guitar and punchy drums.",
+        "Baseline Prompt": "A recording of smooth male vocals, a deep bass, a lush choir and punchy drums.",
+        "Vocals Softmask Prompt": "smooth male vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a lush choir"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of smooth male vocals, a deep bass, a clean electric guitar and punchy drums.",
+        "Baseline Prompt": "A recording of smooth male vocals, a deep bass, a clean electric guitar and crisp electronic drums.",
+        "Vocals Softmask Prompt": "smooth male vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "crisp electronic drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "drums2acoustic": {
+        "Original Prompt": "A recording of smooth male vocals, a deep bass, a clean electric guitar and punchy drums.",
+        "Baseline Prompt": "A recording of smooth male vocals, a deep bass, a clean electric guitar and natural acoustic drums.",
+        "Vocals Softmask Prompt": "smooth male vocals",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "natural acoustic drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of smooth male vocals, a deep bass, a clean electric guitar and punchy drums.",
+        "Baseline Prompt": "A recording of smooth male vocals, a warm upright bass, a clean electric guitar and punchy drums.",
+        "Vocals Softmask Prompt": "smooth male vocals",
+        "Bass Softmask Prompt": "a warm upright bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    }
+}

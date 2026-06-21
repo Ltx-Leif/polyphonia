@@ -1,0 +1,122 @@
+{
+    "guitar2violin": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass line and driving energetic drums.",
+        "Baseline Prompt": "A recording of a fast expressive violin, a solid bass line and driving energetic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass line",
+        "Drums Softmask Prompt": "driving energetic drums",
+        "Others Softmask Prompt": "a fast expressive violin"
+    },
+    "guitar2cello": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass line and driving energetic drums.",
+        "Baseline Prompt": "A recording of a powerful cello, a solid bass line and driving energetic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass line",
+        "Drums Softmask Prompt": "driving energetic drums",
+        "Others Softmask Prompt": "a powerful cello"
+    },
+    "guitar2saxophone": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass line and driving energetic drums.",
+        "Baseline Prompt": "A recording of a fiery saxophone, a solid bass line and driving energetic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass line",
+        "Drums Softmask Prompt": "driving energetic drums",
+        "Others Softmask Prompt": "a fiery saxophone"
+    },
+    "guitar2flute": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass line and driving energetic drums.",
+        "Baseline Prompt": "A recording of a sharp agile flute, a solid bass line and driving energetic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass line",
+        "Drums Softmask Prompt": "driving energetic drums",
+        "Others Softmask Prompt": "a sharp agile flute"
+    },
+    "guitar2trumpet": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass line and driving energetic drums.",
+        "Baseline Prompt": "A recording of a bold trumpet, a solid bass line and driving energetic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass line",
+        "Drums Softmask Prompt": "driving energetic drums",
+        "Others Softmask Prompt": "a bold trumpet"
+    },
+    "guitar2clarinet": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass line and driving energetic drums.",
+        "Baseline Prompt": "A recording of a crisp clarinet, a solid bass line and driving energetic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass line",
+        "Drums Softmask Prompt": "driving energetic drums",
+        "Others Softmask Prompt": "a crisp clarinet"
+    },
+    "guitar2harp": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass line and driving energetic drums.",
+        "Baseline Prompt": "A recording of a shimmering harp, a solid bass line and driving energetic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass line",
+        "Drums Softmask Prompt": "driving energetic drums",
+        "Others Softmask Prompt": "a shimmering harp"
+    },
+    "guitar2piano": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass line and driving energetic drums.",
+        "Baseline Prompt": "A recording of a rapid piano, a solid bass line and driving energetic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass line",
+        "Drums Softmask Prompt": "driving energetic drums",
+        "Others Softmask Prompt": "a rapid piano"
+    },
+    "guitar2organ": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass line and driving energetic drums.",
+        "Baseline Prompt": "A recording of a swirling organ, a solid bass line and driving energetic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass line",
+        "Drums Softmask Prompt": "driving energetic drums",
+        "Others Softmask Prompt": "a swirling organ"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass line and driving energetic drums.",
+        "Baseline Prompt": "A recording of a distorted electric guitar melody, a solid bass line and swinging jazz drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass line",
+        "Drums Softmask Prompt": "swinging jazz drums",
+        "Others Softmask Prompt": "a distorted electric guitar melody"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass line and driving energetic drums.",
+        "Baseline Prompt": "A recording of a distorted electric guitar melody, a solid bass line and pulsing electronic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass line",
+        "Drums Softmask Prompt": "pulsing electronic drums",
+        "Others Softmask Prompt": "a distorted electric guitar melody"
+    },
+    "drums2tribal": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass line and driving energetic drums.",
+        "Baseline Prompt": "A recording of a distorted electric guitar melody, a solid bass line and rhythmic tribal drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass line",
+        "Drums Softmask Prompt": "rhythmic tribal drums",
+        "Others Softmask Prompt": "a distorted electric guitar melody"
+    },
+    "drums2orchestral": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass line and driving energetic drums.",
+        "Baseline Prompt": "A recording of a distorted electric guitar melody, a solid bass line and dramatic orchestral drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a solid bass line",
+        "Drums Softmask Prompt": "dramatic orchestral drums",
+        "Others Softmask Prompt": "a distorted electric guitar melody"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass line and driving energetic drums.",
+        "Baseline Prompt": "A recording of a distorted electric guitar melody, a deep upright bass and driving energetic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep upright bass",
+        "Drums Softmask Prompt": "driving energetic drums",
+        "Others Softmask Prompt": "a distorted electric guitar melody"
+    },
+    "bass2synth": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a solid bass line and driving energetic drums.",
+        "Baseline Prompt": "A recording of a distorted electric guitar melody, a buzzing synth bass and driving energetic drums.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a buzzing synth bass",
+        "Drums Softmask Prompt": "driving energetic drums",
+        "Others Softmask Prompt": "a distorted electric guitar melody"
+    }
+}

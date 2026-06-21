@@ -1,0 +1,122 @@
+{
+    "piano2guitar": {
+        "Original Prompt": "A recording of a melodic piano, a walking bass line and a soft brushed drum beat.",
+        "Baseline Prompt": "A recording of a melodic guitar, a walking bass line and a soft brushed drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking bass line",
+        "Drums Softmask Prompt": "a soft brushed drum beat",
+        "Others Softmask Prompt": "a melodic guitar"
+    },
+    "piano2violin": {
+        "Original Prompt": "A recording of a melodic piano, a walking bass line and a soft brushed drum beat.",
+        "Baseline Prompt": "A recording of a melodic violin, a walking bass line and a soft brushed drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking bass line",
+        "Drums Softmask Prompt": "a soft brushed drum beat",
+        "Others Softmask Prompt": "a melodic violin"
+    },
+    "piano2cello": {
+        "Original Prompt": "A recording of a melodic piano, a walking bass line and a soft brushed drum beat.",
+        "Baseline Prompt": "A recording of a melodic cello, a walking bass line and a soft brushed drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking bass line",
+        "Drums Softmask Prompt": "a soft brushed drum beat",
+        "Others Softmask Prompt": "a melodic cello"
+    },
+    "piano2flute": {
+        "Original Prompt": "A recording of a melodic piano, a walking bass line and a soft brushed drum beat.",
+        "Baseline Prompt": "A recording of a melodic flute, a walking bass line and a soft brushed drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking bass line",
+        "Drums Softmask Prompt": "a soft brushed drum beat",
+        "Others Softmask Prompt": "a melodic flute"
+    },
+    "piano2trumpet": {
+        "Original Prompt": "A recording of a melodic piano, a walking bass line and a soft brushed drum beat.",
+        "Baseline Prompt": "A recording of a melodic trumpet, a walking bass line and a soft brushed drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking bass line",
+        "Drums Softmask Prompt": "a soft brushed drum beat",
+        "Others Softmask Prompt": "a melodic trumpet"
+    },
+    "piano2saxophone": {
+        "Original Prompt": "A recording of a melodic piano, a walking bass line and a soft brushed drum beat.",
+        "Baseline Prompt": "A recording of a melodic saxophone, a walking bass line and a soft brushed drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking bass line",
+        "Drums Softmask Prompt": "a soft brushed drum beat",
+        "Others Softmask Prompt": "a melodic saxophone"
+    },
+    "piano2harp": {
+        "Original Prompt": "A recording of a melodic piano, a walking bass line and a soft brushed drum beat.",
+        "Baseline Prompt": "A recording of a melodic harp, a walking bass line and a soft brushed drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking bass line",
+        "Drums Softmask Prompt": "a soft brushed drum beat",
+        "Others Softmask Prompt": "a melodic harp"
+    },
+    "piano2clarinet": {
+        "Original Prompt": "A recording of a melodic piano, a walking bass line and a soft brushed drum beat.",
+        "Baseline Prompt": "A recording of a melodic clarinet, a walking bass line and a soft brushed drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking bass line",
+        "Drums Softmask Prompt": "a soft brushed drum beat",
+        "Others Softmask Prompt": "a melodic clarinet"
+    },
+    "piano2vibraphone": {
+        "Original Prompt": "A recording of a melodic piano, a walking bass line and a soft brushed drum beat.",
+        "Baseline Prompt": "A recording of a melodic vibraphone, a walking bass line and a soft brushed drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking bass line",
+        "Drums Softmask Prompt": "a soft brushed drum beat",
+        "Others Softmask Prompt": "a melodic vibraphone"
+    },
+    "drums2jazzbrushed": {
+        "Original Prompt": "A recording of a melodic piano, a walking bass line and a soft brushed drum beat.",
+        "Baseline Prompt": "A recording of a melodic piano, a walking bass line and a gentle brushed drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking bass line",
+        "Drums Softmask Prompt": "a gentle brushed drum beat",
+        "Others Softmask Prompt": "a melodic piano"
+    },
+    "drums2swingbigband": {
+        "Original Prompt": "A recording of a melodic piano, a walking bass line and a soft brushed drum beat.",
+        "Baseline Prompt": "A recording of a melodic piano, a walking bass line and a swinging big band style drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking bass line",
+        "Drums Softmask Prompt": "a swinging big band style drum beat",
+        "Others Softmask Prompt": "a melodic piano"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a melodic piano, a walking bass line and a soft brushed drum beat.",
+        "Baseline Prompt": "A recording of a melodic piano, a walking bass line and an electronic drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking bass line",
+        "Drums Softmask Prompt": "an electronic drum beat",
+        "Others Softmask Prompt": "a melodic piano"
+    },
+    "drums2dubstep": {
+        "Original Prompt": "A recording of a melodic piano, a walking bass line and a soft brushed drum beat.",
+        "Baseline Prompt": "A recording of a melodic piano, a walking bass line and a dubstep style drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a walking bass line",
+        "Drums Softmask Prompt": "a dubstep style drum beat",
+        "Others Softmask Prompt": "a melodic piano"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a melodic piano, a walking bass line and a soft brushed drum beat.",
+        "Baseline Prompt": "A recording of a melodic piano, an upright bass line and a soft brushed drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "an upright bass line",
+        "Drums Softmask Prompt": "a soft brushed drum beat",
+        "Others Softmask Prompt": "a melodic piano"
+    },
+    "bass2synth": {
+        "Original Prompt": "A recording of a melodic piano, a walking bass line and a soft brushed drum beat.",
+        "Baseline Prompt": "A recording of a melodic piano, a synth bass line and a soft brushed drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a synth bass line",
+        "Drums Softmask Prompt": "a soft brushed drum beat",
+        "Others Softmask Prompt": "a melodic piano"
+    }
+}

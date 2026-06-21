@@ -1,0 +1,122 @@
+{
+    "guitar2violin": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, distorted guitar and punchy drums.",
+        "Baseline Prompt": "A recording of soulful male vocals, deep bass, smooth violin and punchy drums.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "smooth violin"
+    },
+    "guitar2flute": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, distorted guitar and punchy drums.",
+        "Baseline Prompt": "A recording of soulful male vocals, deep bass, bright flute and punchy drums.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "bright flute"
+    },
+    "guitar2choir": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, distorted guitar and punchy drums.",
+        "Baseline Prompt": "A recording of soulful male vocals, deep bass, ethereal choir and punchy drums.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "ethereal choir"
+    },
+    "guitar2cello": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, distorted guitar and punchy drums.",
+        "Baseline Prompt": "A recording of soulful male vocals, deep bass, warm cello and punchy drums.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "warm cello"
+    },
+    "guitar2trumpet": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, distorted guitar and punchy drums.",
+        "Baseline Prompt": "A recording of soulful male vocals, deep bass, brassy trumpet and punchy drums.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "brassy trumpet"
+    },
+    "vocals2viola": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, distorted guitar and punchy drums.",
+        "Baseline Prompt": "A recording of warm viola, deep bass, distorted guitar and punchy drums.",
+        "Vocals Softmask Prompt": "warm viola",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "distorted guitar"
+    },
+    "vocals2clarinet": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, distorted guitar and punchy drums.",
+        "Baseline Prompt": "A recording of smooth clarinet, deep bass, distorted guitar and punchy drums.",
+        "Vocals Softmask Prompt": "smooth clarinet",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "distorted guitar"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, distorted guitar and punchy drums.",
+        "Baseline Prompt": "A recording of bright flute, deep bass, distorted guitar and punchy drums.",
+        "Vocals Softmask Prompt": "bright flute",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "distorted guitar"
+    },
+    "vocals2oboe": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, distorted guitar and punchy drums.",
+        "Baseline Prompt": "A recording of mellow oboe, deep bass, distorted guitar and punchy drums.",
+        "Vocals Softmask Prompt": "mellow oboe",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "distorted guitar"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, distorted guitar and punchy drums.",
+        "Baseline Prompt": "A recording of soulful saxophone, deep bass, distorted guitar and punchy drums.",
+        "Vocals Softmask Prompt": "soulful saxophone",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "distorted guitar"
+    },
+    "vocals2englishhorn": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, distorted guitar and punchy drums.",
+        "Baseline Prompt": "A recording of haunting english horn, deep bass, distorted guitar and punchy drums.",
+        "Vocals Softmask Prompt": "haunting english horn",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "distorted guitar"
+    },
+    "vocals2frenchhorn": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, distorted guitar and punchy drums.",
+        "Baseline Prompt": "A recording of majestic french horn, deep bass, distorted guitar and punchy drums.",
+        "Vocals Softmask Prompt": "majestic french horn",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "distorted guitar"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, distorted guitar and punchy drums.",
+        "Baseline Prompt": "A recording of soulful male vocals, deep bass, distorted guitar and brushed jazz drums.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "brushed jazz drums",
+        "Others Softmask Prompt": "distorted guitar"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, distorted guitar and punchy drums.",
+        "Baseline Prompt": "A recording of soulful male vocals, deep bass, distorted guitar and synthetic electronic drums.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "deep bass",
+        "Drums Softmask Prompt": "synthetic electronic drums",
+        "Others Softmask Prompt": "distorted guitar"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of soulful male vocals, deep bass, distorted guitar and punchy drums.",
+        "Baseline Prompt": "A recording of soulful male vocals, acoustic upright bass, distorted guitar and punchy drums.",
+        "Vocals Softmask Prompt": "soulful male vocals",
+        "Bass Softmask Prompt": "acoustic upright bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "distorted guitar"
+    }
+}

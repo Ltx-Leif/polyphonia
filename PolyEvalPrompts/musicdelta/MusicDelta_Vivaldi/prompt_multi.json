@@ -1,0 +1,122 @@
+{
+    "bass2guitar": {
+        "Original Prompt": "A recording of a deep double bass line, a flowing cello melody, a smooth viola harmony and a lively violin lead.",
+        "Baseline Prompt": "A recording of an acoustic guitar, a flowing cello melody, a smooth viola harmony and a lively violin lead.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "an acoustic guitar",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a flowing cello melody, a smooth viola harmony and a lively violin lead"
+    },
+    "bass2piano": {
+        "Original Prompt": "A recording of a deep double bass line, a flowing cello melody, a smooth viola harmony and a lively violin lead.",
+        "Baseline Prompt": "A recording of a resonant piano, a flowing cello melody, a smooth viola harmony and a lively violin lead.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a resonant piano",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a flowing cello melody, a smooth viola harmony and a lively violin lead"
+    },
+    "bass2synth": {
+        "Original Prompt": "A recording of a deep double bass line, a flowing cello melody, a smooth viola harmony and a lively violin lead.",
+        "Baseline Prompt": "A recording of a warm analog synth, a flowing cello melody, a smooth viola harmony and a lively violin lead.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a warm analog synth",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a flowing cello melody, a smooth viola harmony and a lively violin lead"
+    },
+    "cello2guitar": {
+        "Original Prompt": "A recording of a deep double bass line, a flowing cello melody, a smooth viola harmony and a lively violin lead.",
+        "Baseline Prompt": "A recording of a deep double bass line, an acoustic guitar, a smooth viola and a lively violin.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep double bass line",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "an acoustic guitar, a smooth viola and a lively violin"
+    },
+    "cello2piano": {
+        "Original Prompt": "A recording of a deep double bass line, a flowing cello melody, a smooth viola harmony and a lively violin lead.",
+        "Baseline Prompt": "A recording of a deep double bass line, a lyrical piano, a smooth viola and a lively violin.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep double bass line",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a lyrical piano, a smooth viola and a lively violin"
+    },
+    "cello2violin": {
+        "Original Prompt": "A recording of a deep double bass line, a flowing cello melody, a smooth viola harmony and a lively violin lead.",
+        "Baseline Prompt": "A recording of a deep double bass line, a bright violin, a smooth viola and a lively violin.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep double bass line",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a bright violin, a smooth viola and a lively violin"
+    },
+    "cello2flute": {
+        "Original Prompt": "A recording of a deep double bass line, a flowing cello melody, a smooth viola harmony and a lively violin lead.",
+        "Baseline Prompt": "A recording of a deep double bass line, a gentle flute, a smooth viola and a lively violin.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep double bass line",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a gentle flute, a smooth viola and a lively violin"
+    },
+    "cello2sax": {
+        "Original Prompt": "A recording of a deep double bass line, a flowing cello melody, a smooth viola harmony and a lively violin lead.",
+        "Baseline Prompt": "A recording of a deep double bass line, a smooth jazz saxophone, a smooth viola and a lively violin.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep double bass line",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a smooth jazz saxophone, a smooth viola and a lively violin"
+    },
+    "viola2guitar": {
+        "Original Prompt": "A recording of a deep double bass line, a flowing cello melody, a smooth viola harmony and a lively violin lead.",
+        "Baseline Prompt": "A recording of a deep double bass line, a flowing cello, an acoustic guitar and a lively violin.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep double bass line",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a flowing cello, an acoustic guitar and a lively violin"
+    },
+    "viola2piano": {
+        "Original Prompt": "A recording of a deep double bass line, a flowing cello melody, a smooth viola harmony and a lively violin lead.",
+        "Baseline Prompt": "A recording of a deep double bass line, a flowing cello, a soft piano and a lively violin.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep double bass line",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a flowing cello, a soft piano and a lively violin"
+    },
+    "viola2violin": {
+        "Original Prompt": "A recording of a deep double bass line, a flowing cello melody, a smooth viola harmony and a lively violin lead.",
+        "Baseline Prompt": "A recording of a deep double bass line, a flowing cello, a shimmering violin.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep double bass line",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a flowing cello, a shimmering violin"
+    },
+    "viola2flute": {
+        "Original Prompt": "A recording of a deep double bass line, a flowing cello melody, a smooth viola harmony and a lively violin lead.",
+        "Baseline Prompt": "A recording of a deep double bass line, a flowing cello, a light flute and a lively violin.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep double bass line",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a flowing cello, a light flute and a lively violin"
+    },
+    "viola2sax": {
+        "Original Prompt": "A recording of a deep double bass line, a flowing cello melody, a smooth viola harmony and a lively violin lead.",
+        "Baseline Prompt": "A recording of a deep double bass line, a flowing cello, a mellow saxophone and a lively violin.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep double bass line",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a flowing cello, a mellow saxophone and a lively violin"
+    },
+    "violin2guitar": {
+        "Original Prompt": "A recording of a deep double bass line, a flowing cello melody, a smooth viola harmony and a lively violin lead.",
+        "Baseline Prompt": "A recording of a deep double bass line, a flowing cello, a smooth viola and an energetic acoustic guitar.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep double bass line",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a flowing cello, a smooth viola and an energetic acoustic guitar"
+    },
+    "violin2piano": {
+        "Original Prompt": "A recording of a deep double bass line, a flowing cello melody, a smooth viola harmony and a lively violin lead.",
+        "Baseline Prompt": "A recording of a deep double bass line, a flowing cello, a smooth viola and a bright piano.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a deep double bass line",
+        "Drums Softmask Prompt": "",
+        "Others Softmask Prompt": "a flowing cello, a smooth viola and a bright piano"
+    }
+}

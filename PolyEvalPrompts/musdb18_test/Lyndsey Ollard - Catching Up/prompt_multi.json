@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of soft, emotive female vocals, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Baseline Prompt": "A recording of a smooth violin, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Vocals Softmask Prompt": "a smooth violin",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "gentle drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of soft, emotive female vocals, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Baseline Prompt": "A recording of a warm cello, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Vocals Softmask Prompt": "a warm cello",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "gentle drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of soft, emotive female vocals, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Baseline Prompt": "A recording of a light flute, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Vocals Softmask Prompt": "a light flute",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "gentle drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of soft, emotive female vocals, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Baseline Prompt": "A recording of a mellow trumpet, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Vocals Softmask Prompt": "a mellow trumpet",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "gentle drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of soft, emotive female vocals, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Baseline Prompt": "A recording of a serene choir, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Vocals Softmask Prompt": "a serene choir",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "gentle drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of soft, emotive female vocals, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Baseline Prompt": "A recording of a smooth saxophone, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Vocals Softmask Prompt": "a smooth saxophone",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "gentle drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "vocals2harp": {
+        "Original Prompt": "A recording of soft, emotive female vocals, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Baseline Prompt": "A recording of a delicate harp, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Vocals Softmask Prompt": "a delicate harp",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "gentle drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "electric_guitar2acoustic_piano": {
+        "Original Prompt": "A recording of soft, emotive female vocals, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Baseline Prompt": "A recording of soft, emotive female vocals, an articulate acoustic piano, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Vocals Softmask Prompt": "soft, emotive female vocals",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "gentle drums",
+        "Others Softmask Prompt": "an articulate acoustic piano"
+    },
+    "electric_guitar2vibraphone": {
+        "Original Prompt": "A recording of soft, emotive female vocals, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Baseline Prompt": "A recording of soft, emotive female vocals, a shimmering vibraphone, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Vocals Softmask Prompt": "soft, emotive female vocals",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "gentle drums",
+        "Others Softmask Prompt": "a shimmering vibraphone"
+    },
+    "electric_guitar2synth_lead": {
+        "Original Prompt": "A recording of soft, emotive female vocals, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Baseline Prompt": "A recording of soft, emotive female vocals, a glowing synth lead, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Vocals Softmask Prompt": "soft, emotive female vocals",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "gentle drums",
+        "Others Softmask Prompt": "a glowing synth lead"
+    },
+    "electric_guitar2banjo": {
+        "Original Prompt": "A recording of soft, emotive female vocals, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Baseline Prompt": "A recording of soft, emotive female vocals, a bright banjo, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Vocals Softmask Prompt": "soft, emotive female vocals",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "gentle drums",
+        "Others Softmask Prompt": "a bright banjo"
+    },
+    "electric_guitar2mandolin": {
+        "Original Prompt": "A recording of soft, emotive female vocals, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Baseline Prompt": "A recording of soft, emotive female vocals, a crisp mandolin, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Vocals Softmask Prompt": "soft, emotive female vocals",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "gentle drums",
+        "Others Softmask Prompt": "a crisp mandolin"
+    },
+    "drums2brushed_snare": {
+        "Original Prompt": "A recording of soft, emotive female vocals, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Baseline Prompt": "A recording of soft, emotive female vocals, a clean electric guitar, a soft fingerpicked acoustic guitar and soft brushed snare hits.",
+        "Vocals Softmask Prompt": "soft, emotive female vocals",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "soft brushed snare hits",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "drums2handpan": {
+        "Original Prompt": "A recording of soft, emotive female vocals, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Baseline Prompt": "A recording of soft, emotive female vocals, a clean electric guitar, a soft fingerpicked acoustic guitar and resonant handpan strikes.",
+        "Vocals Softmask Prompt": "soft, emotive female vocals",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "resonant handpan strikes",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of soft, emotive female vocals, a clean electric guitar, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Baseline Prompt": "A recording of soft, emotive female vocals, a deep upright bass, a soft fingerpicked acoustic guitar and gentle drums.",
+        "Vocals Softmask Prompt": "soft, emotive female vocals",
+        "Bass Softmask Prompt": "a deep upright bass",
+        "Drums Softmask Prompt": "gentle drums",
+        "Others Softmask Prompt": "a clean electric guitar"
+    }
+}

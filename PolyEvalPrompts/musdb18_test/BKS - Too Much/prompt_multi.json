@@ -1,0 +1,122 @@
+{
+    "guitar2violin": {
+        "Original Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a smooth violin, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a melodic bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a smooth violin"
+    },
+    "guitar2cello": {
+        "Original Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a warm cello, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a melodic bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a warm cello"
+    },
+    "guitar2flute": {
+        "Original Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a bright flute, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a melodic bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a bright flute"
+    },
+    "guitar2trumpet": {
+        "Original Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a bold trumpet, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a melodic bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a bold trumpet"
+    },
+    "guitar2choir": {
+        "Original Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a soaring choir, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a melodic bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a soaring choir"
+    },
+    "guitar2saxophone": {
+        "Original Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a sultry saxophone, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a melodic bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a sultry saxophone"
+    },
+    "guitar2harp": {
+        "Original Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a delicate harp, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a melodic bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a delicate harp"
+    },
+    "guitar2oboe": {
+        "Original Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a reedy oboe, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a melodic bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a reedy oboe"
+    },
+    "guitar2trombone": {
+        "Original Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a brassy trombone, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a melodic bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a brassy trombone"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a melodic bass and synthetic electronic beats.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a melodic bass",
+        "Drums Softmask Prompt": "synthetic electronic beats",
+        "Others Softmask Prompt": "a distorted lead guitar"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a melodic bass and soft jazz brushes.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a melodic bass",
+        "Drums Softmask Prompt": "soft jazz brushes",
+        "Others Softmask Prompt": "a distorted lead guitar"
+    },
+    "drums2tribal": {
+        "Original Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a melodic bass and primal tribal toms.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a melodic bass",
+        "Drums Softmask Prompt": "primal tribal toms",
+        "Others Softmask Prompt": "a distorted lead guitar"
+    },
+    "drums2orchestral": {
+        "Original Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a melodic bass and grand orchestral percussion.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a melodic bass",
+        "Drums Softmask Prompt": "grand orchestral percussion",
+        "Others Softmask Prompt": "a distorted lead guitar"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, an acoustic upright bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "an acoustic upright bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a distorted lead guitar"
+    },
+    "bass2synth": {
+        "Original Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a melodic bass and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a distorted lead guitar, a clean rhythm guitar, a pulsing synth bass and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a pulsing synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a distorted lead guitar"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "guitar2piano": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a driving bassline and an energetic and punchy drum beat.",
+        "Baseline Prompt": "A recording of a piano, a driving bassline and an energetic and punchy drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a driving bassline",
+        "Drums Softmask Prompt": "an energetic and punchy drum beat",
+        "Others Softmask Prompt": "a piano"
+    },
+    "guitar2violin": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a driving bassline and an energetic and punchy drum beat.",
+        "Baseline Prompt": "A recording of a violin, a driving bassline and an energetic and punchy drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a driving bassline",
+        "Drums Softmask Prompt": "an energetic and punchy drum beat",
+        "Others Softmask Prompt": "a violin"
+    },
+    "guitar2cello": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a driving bassline and an energetic and punchy drum beat.",
+        "Baseline Prompt": "A recording of a cello, a driving bassline and an energetic and punchy drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a driving bassline",
+        "Drums Softmask Prompt": "an energetic and punchy drum beat",
+        "Others Softmask Prompt": "a cello"
+    },
+    "guitar2saxophone": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a driving bassline and an energetic and punchy drum beat.",
+        "Baseline Prompt": "A recording of a saxophone, a driving bassline and an energetic and punchy drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a driving bassline",
+        "Drums Softmask Prompt": "an energetic and punchy drum beat",
+        "Others Softmask Prompt": "a saxophone"
+    },
+    "guitar2flute": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a driving bassline and an energetic and punchy drum beat.",
+        "Baseline Prompt": "A recording of a flute, a driving bassline and an energetic and punchy drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a driving bassline",
+        "Drums Softmask Prompt": "an energetic and punchy drum beat",
+        "Others Softmask Prompt": "a flute"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a driving bassline and an energetic and punchy drum beat.",
+        "Baseline Prompt": "A recording of a distorted electric guitar melody, an upright bass and an energetic and punchy drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "an upright bass",
+        "Drums Softmask Prompt": "an energetic and punchy drum beat",
+        "Others Softmask Prompt": "a distorted electric guitar melody"
+    },
+    "bass2synth": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a driving bassline and an energetic and punchy drum beat.",
+        "Baseline Prompt": "A recording of a distorted electric guitar melody, a synth bass and an energetic and punchy drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a synth bass",
+        "Drums Softmask Prompt": "an energetic and punchy drum beat",
+        "Others Softmask Prompt": "a distorted electric guitar melody"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a driving bassline and an energetic and punchy drum beat.",
+        "Baseline Prompt": "A recording of a distorted electric guitar melody, a driving bassline and a jazz drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a driving bassline",
+        "Drums Softmask Prompt": "a jazz drum",
+        "Others Softmask Prompt": "a distorted electric guitar melody"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a driving bassline and an energetic and punchy drum beat.",
+        "Baseline Prompt": "A recording of a distorted electric guitar melody, a driving bassline and an electronic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a driving bassline",
+        "Drums Softmask Prompt": "an electronic drum",
+        "Others Softmask Prompt": "a distorted electric guitar melody"
+    },
+    "drums2dubstep": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a driving bassline and an energetic and punchy drum beat.",
+        "Baseline Prompt": "A recording of a distorted electric guitar melody, a driving bassline and a dubstep drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a driving bassline",
+        "Drums Softmask Prompt": "a dubstep drum",
+        "Others Softmask Prompt": "a distorted electric guitar melody"
+    },
+    "drums2orchestral": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a driving bassline and an energetic and punchy drum beat.",
+        "Baseline Prompt": "A recording of a distorted electric guitar melody, a driving bassline and orchestral percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a driving bassline",
+        "Drums Softmask Prompt": "orchestral percussion",
+        "Others Softmask Prompt": "a distorted electric guitar melody"
+    },
+    "guitar2trumpet": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a driving bassline and an energetic and punchy drum beat.",
+        "Baseline Prompt": "A recording of a trumpet, a driving bassline and an energetic and punchy drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a driving bassline",
+        "Drums Softmask Prompt": "an energetic and punchy drum beat",
+        "Others Softmask Prompt": "a trumpet"
+    },
+    "guitar2harp": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a driving bassline and an energetic and punchy drum beat.",
+        "Baseline Prompt": "A recording of a harp, a driving bassline and an energetic and punchy drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a driving bassline",
+        "Drums Softmask Prompt": "an energetic and punchy drum beat",
+        "Others Softmask Prompt": "a harp"
+    },
+    "guitar2organ": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a driving bassline and an energetic and punchy drum beat.",
+        "Baseline Prompt": "A recording of a organ, a driving bassline and an energetic and punchy drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a driving bassline",
+        "Drums Softmask Prompt": "an energetic and punchy drum beat",
+        "Others Softmask Prompt": "a organ"
+    },
+    "guitar2choir": {
+        "Original Prompt": "A recording of a distorted electric guitar melody, a driving bassline and an energetic and punchy drum beat.",
+        "Baseline Prompt": "A recording of a choir, a driving bassline and an energetic and punchy drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a driving bassline",
+        "Drums Softmask Prompt": "an energetic and punchy drum beat",
+        "Others Softmask Prompt": "a choir"
+    }
+}

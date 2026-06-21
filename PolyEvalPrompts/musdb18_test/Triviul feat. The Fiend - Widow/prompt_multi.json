@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of smooth female vocals, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of a lyrical violin, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "a lyrical violin",
+        "Bass Softmask Prompt": "a groovy bass guitar",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of smooth female vocals, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of a warm cello, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "a warm cello",
+        "Bass Softmask Prompt": "a groovy bass guitar",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of smooth female vocals, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of a light flute, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "a light flute",
+        "Bass Softmask Prompt": "a groovy bass guitar",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of smooth female vocals, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of a bright trumpet, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "a bright trumpet",
+        "Bass Softmask Prompt": "a groovy bass guitar",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of smooth female vocals, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of a lush choir, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "a lush choir",
+        "Bass Softmask Prompt": "a groovy bass guitar",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of smooth female vocals, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of a smooth saxophone, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "a smooth saxophone",
+        "Bass Softmask Prompt": "a groovy bass guitar",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    },
+    "vocals2harp": {
+        "Original Prompt": "A recording of smooth female vocals, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of a delicate harp, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "a delicate harp",
+        "Bass Softmask Prompt": "a groovy bass guitar",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    },
+    "synthesizer2piano": {
+        "Original Prompt": "A recording of smooth female vocals, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of smooth female vocals, a groovy bass guitar, a crisp piano and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "smooth female vocals",
+        "Bass Softmask Prompt": "a groovy bass guitar",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a crisp piano"
+    },
+    "synthesizer2guitar": {
+        "Original Prompt": "A recording of smooth female vocals, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of smooth female vocals, a groovy bass guitar, a clean electric guitar and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "smooth female vocals",
+        "Bass Softmask Prompt": "a groovy bass guitar",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a clean electric guitar"
+    },
+    "synthesizer2organ": {
+        "Original Prompt": "A recording of smooth female vocals, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of smooth female vocals, a groovy bass guitar, a swirling organ and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "smooth female vocals",
+        "Bass Softmask Prompt": "a groovy bass guitar",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a swirling organ"
+    },
+    "synthesizer2marimba": {
+        "Original Prompt": "A recording of smooth female vocals, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of smooth female vocals, a groovy bass guitar, a resonant marimba and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "smooth female vocals",
+        "Bass Softmask Prompt": "a groovy bass guitar",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a resonant marimba"
+    },
+    "synthesizer2choir": {
+        "Original Prompt": "A recording of smooth female vocals, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of smooth female vocals, a groovy bass guitar, a celestial choir and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "smooth female vocals",
+        "Bass Softmask Prompt": "a groovy bass guitar",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a celestial choir"
+    },
+    "drums2acoustic": {
+        "Original Prompt": "A recording of smooth female vocals, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of smooth female vocals, a groovy bass guitar, a shimmering synthesizer and dynamic acoustic drums.",
+        "Vocals Softmask Prompt": "smooth female vocals",
+        "Bass Softmask Prompt": "a groovy bass guitar",
+        "Drums Softmask Prompt": "dynamic acoustic drums",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of smooth female vocals, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of smooth female vocals, a groovy bass guitar, a shimmering synthesizer and glitchy electronic beats.",
+        "Vocals Softmask Prompt": "smooth female vocals",
+        "Bass Softmask Prompt": "a groovy bass guitar",
+        "Drums Softmask Prompt": "glitchy electronic beats",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of smooth female vocals, a groovy bass guitar, a shimmering synthesizer and punchy drum machine beats.",
+        "Baseline Prompt": "A recording of smooth female vocals, an upright bass, a shimmering synthesizer and punchy drum machine beats.",
+        "Vocals Softmask Prompt": "smooth female vocals",
+        "Bass Softmask Prompt": "an upright bass",
+        "Drums Softmask Prompt": "punchy drum machine beats",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    }
+}

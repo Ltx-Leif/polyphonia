@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Baseline Prompt": "A recording of a violin, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Vocals Softmask Prompt": "a violin",
+        "Bass Softmask Prompt": "a punchy, rhythmic groove bass guitar",
+        "Drums Softmask Prompt": "a fast-paced drumming",
+        "Others Softmask Prompt": "an aggressive electric guitar riffs"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Baseline Prompt": "A recording of a choir, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Vocals Softmask Prompt": "a choir",
+        "Bass Softmask Prompt": "a punchy, rhythmic groove bass guitar",
+        "Drums Softmask Prompt": "a fast-paced drumming",
+        "Others Softmask Prompt": "an aggressive electric guitar riffs"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Baseline Prompt": "A recording of a trumpet, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Vocals Softmask Prompt": "a trumpet",
+        "Bass Softmask Prompt": "a punchy, rhythmic groove bass guitar",
+        "Drums Softmask Prompt": "a fast-paced drumming",
+        "Others Softmask Prompt": "an aggressive electric guitar riffs"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Baseline Prompt": "A recording of a cello, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Vocals Softmask Prompt": "a cello",
+        "Bass Softmask Prompt": "a punchy, rhythmic groove bass guitar",
+        "Drums Softmask Prompt": "a fast-paced drumming",
+        "Others Softmask Prompt": "an aggressive electric guitar riffs"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Baseline Prompt": "A recording of a flute, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Vocals Softmask Prompt": "a flute",
+        "Bass Softmask Prompt": "a punchy, rhythmic groove bass guitar",
+        "Drums Softmask Prompt": "a fast-paced drumming",
+        "Others Softmask Prompt": "an aggressive electric guitar riffs"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Baseline Prompt": "A recording of a saxophone, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Vocals Softmask Prompt": "a saxophone",
+        "Bass Softmask Prompt": "a punchy, rhythmic groove bass guitar",
+        "Drums Softmask Prompt": "a fast-paced drumming",
+        "Others Softmask Prompt": "an aggressive electric guitar riffs"
+    },
+    "vocals2trombone": {
+        "Original Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Baseline Prompt": "A recording of a trombone, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Vocals Softmask Prompt": "a trombone",
+        "Bass Softmask Prompt": "a punchy, rhythmic groove bass guitar",
+        "Drums Softmask Prompt": "a fast-paced drumning",
+        "Others Softmask Prompt": "an aggressive electric guitar riffs"
+    },
+    "guitar2piano": {
+        "Original Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Baseline Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, a piano, and a fast-paced drumming.",
+        "Vocals Softmask Prompt": "a high-energy vocals",
+        "Bass Softmask Prompt": "a punchy, rhythmic groove bass guitar",
+        "Drums Softmask Prompt": "a fast-paced drumming",
+        "Others Softmask Prompt": "a piano"
+    },
+    "guitar2acousticguitar": {
+        "Original Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Baseline Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, a acoustic guitar, and a fast-paced drumming.",
+        "Vocals Softmask Prompt": "a high-energy vocals",
+        "Bass Softmask Prompt": "a punchy, rhythmic groove bass guitar",
+        "Drums Softmask Prompt": "a fast-paced drumming",
+        "Others Softmask Prompt": "a acoustic guitar"
+    },
+    "guitar2synthlead": {
+        "Original Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Baseline Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, a synth, and a fast-paced drumming.",
+        "Vocals Softmask Prompt": "a high-energy vocals",
+        "Bass Softmask Prompt": "a punchy, rhythmic groove bass guitar",
+        "Drums Softmask Prompt": "a fast-paced drumming",
+        "Others Softmask Prompt": "a synth"
+    },
+    "guitar2strings": {
+        "Original Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Baseline Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, a strings, and a fast-paced drumming.",
+        "Vocals Softmask Prompt": "a high-energy vocals",
+        "Bass Softmask Prompt": "a punchy, rhythmic groove bass guitar",
+        "Drums Softmask Prompt": "a fast-paced drumming",
+        "Others Softmask Prompt": "a strings"
+    },
+    "guitar2organ": {
+        "Original Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Baseline Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, a organ, and a fast-paced drumming.",
+        "Vocals Softmask Prompt": "a high-energy vocals",
+        "Bass Softmask Prompt": "a punchy, rhythmic groove bass guitar",
+        "Drums Softmask Prompt": "a fast-paced drumming",
+        "Others Softmask Prompt": "a organ"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Baseline Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a jazz drum.",
+        "Vocals Softmask Prompt": "a high-energy vocals",
+        "Bass Softmask Prompt": "a punchy, rhythmic groove bass guitar",
+        "Drums Softmask Prompt": "a jazz drum",
+        "Others Softmask Prompt": "an aggressive electric guitar riffs"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Baseline Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and an electronic drum.",
+        "Vocals Softmask Prompt": "a high-energy vocals",
+        "Bass Softmask Prompt": "a punchy, rhythmic groove bass guitar",
+        "Drums Softmask Prompt": "an electronic drum",
+        "Others Softmask Prompt": "an aggressive electric guitar riffs"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a high-energy vocals, a punchy, rhythmic groove bass guitar, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Baseline Prompt": "A recording of a high-energy vocals, an upright bass, an aggressive electric guitar riffs, and a fast-paced drumming.",
+        "Vocals Softmask Prompt": "a high-energy vocals",
+        "Bass Softmask Prompt": "an upright bass",
+        "Drums Softmask Prompt": "a fast-paced drumming",
+        "Others Softmask Prompt": "an aggressive electric guitar riffs"
+    }
+}

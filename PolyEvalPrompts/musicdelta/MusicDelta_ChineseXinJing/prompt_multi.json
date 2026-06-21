@@ -1,0 +1,122 @@
+{
+    "sitar2violin": {
+        "Original Prompt": "A recording of a fingered sitar, a fingered sarangi and percussive rhythmic tabla.",
+        "Baseline Prompt": "A recording of a violin melody, a fingered sarangi and percussive rhythmic tabla.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered sarangi",
+        "Drums Softmask Prompt": "percussive rhythmic tabla",
+        "Others Softmask Prompt": "a violin melody"
+    },
+    "sitar2bansuri": {
+        "Original Prompt": "A recording of a fingered sitar, a fingered sarangi and percussive rhythmic tabla.",
+        "Baseline Prompt": "A recording of a bansuri melody, a fingered sarangi and percussive rhythmic tabla.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered sarangi",
+        "Drums Softmask Prompt": "percussive rhythmic tabla",
+        "Others Softmask Prompt": "a bansuri melody"
+    },
+    "sitar2mandolin": {
+        "Original Prompt": "A recording of a fingered sitar, a fingered sarangi and percussive rhythmic tabla.",
+        "Baseline Prompt": "A recording of a mandolin melody, a fingered sarangi and percussive rhythmic tabla.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered sarangi",
+        "Drums Softmask Prompt": "percussive rhythmic tabla",
+        "Others Softmask Prompt": "a mandolin melody"
+    },
+    "sitar2piano": {
+        "Original Prompt": "A recording of a fingered sitar, a fingered sarangi and percussive rhythmic tabla.",
+        "Baseline Prompt": "A recording of a piano melody, a fingered sarangi and percussive rhythmic tabla.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered sarangi",
+        "Drums Softmask Prompt": "percussive rhythmic tabla",
+        "Others Softmask Prompt": "a piano melody"
+    },
+    "sitar2guitar": {
+        "Original Prompt": "A recording of a fingered sitar, a fingered sarangi and percussive rhythmic tabla.",
+        "Baseline Prompt": "A recording of a guitar melody, a fingered sarangi and percussive rhythmic tabla.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered sarangi",
+        "Drums Softmask Prompt": "percussive rhythmic tabla",
+        "Others Softmask Prompt": "a guitar melody"
+    },
+    "sitar2violin_2": {
+        "Original Prompt": "A recording of a fingered sitar, a fingered sarangi and percussive rhythmic tabla.",
+        "Baseline Prompt": "A recording of a violin melody, a fingered sarangi and percussive rhythmic tabla.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered sarangi",
+        "Drums Softmask Prompt": "percussive rhythmic tabla",
+        "Others Softmask Prompt": "a violin melody"
+    },
+    "sitar2flute": {
+        "Original Prompt": "A recording of a fingered sitar, a fingered sarangi and percussive rhythmic tabla.",
+        "Baseline Prompt": "A recording of a flute melody, a fingered sarangi and percussive rhythmic tabla.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered sarangi",
+        "Drums Softmask Prompt": "percussive rhythmic tabla",
+        "Others Softmask Prompt": "a flute melody"
+    },
+    "sitar2cello": {
+        "Original Prompt": "A recording of a fingered sitar, a fingered sarangi and percussive rhythmic tabla.",
+        "Baseline Prompt": "A recording of a cello melody, a fingered sarangi and percussive rhythmic tabla.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered sarangi",
+        "Drums Softmask Prompt": "percussive rhythmic tabla",
+        "Others Softmask Prompt": "a cello melody"
+    },
+    "sitar2harp": {
+        "Original Prompt": "A recording of a fingered sitar, a fingered sarangi and percussive rhythmic tabla.",
+        "Baseline Prompt": "A recording of a harp melody, a fingered sarangi and percussive rhythmic tabla.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered sarangi",
+        "Drums Softmask Prompt": "percussive rhythmic tabla",
+        "Others Softmask Prompt": "a harp melody"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a fingered sitar, a fingered sarangi and percussive rhythmic tabla.",
+        "Baseline Prompt": "A recording of a fingered sitar melody, a fingered sarangi and a jazz drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered sarangi",
+        "Drums Softmask Prompt": "a jazz drum",
+        "Others Softmask Prompt": "a fingered sitar melody"
+    },
+    "drums2rock": {
+        "Original Prompt": "A recording of a fingered sitar, a fingered sarangi and percussive rhythmic tabla.",
+        "Baseline Prompt": "A recording of a fingered sitar melody, a fingered sarangi and a rock drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered sarangi",
+        "Drums Softmask Prompt": "a rock drum",
+        "Others Softmask Prompt": "a fingered sitar melody"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a fingered sitar, a fingered sarangi and percussive rhythmic tabla.",
+        "Baseline Prompt": "A recording of a fingered sitar melody, a fingered sarangi and an electronic drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered sarangi",
+        "Drums Softmask Prompt": "an electronic drum beat",
+        "Others Softmask Prompt": "a fingered sitar melody"
+    },
+    "drums2orchestral": {
+        "Original Prompt": "A recording of a fingered sitar, a fingered sarangi and percussive rhythmic tabla.",
+        "Baseline Prompt": "A recording of a fingered sitar melody, a fingered sarangi and orchestral percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered sarangi",
+        "Drums Softmask Prompt": "orchestral percussion",
+        "Others Softmask Prompt": "a fingered sitar melody"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a fingered sitar, a fingered sarangi and percussive rhythmic tabla.",
+        "Baseline Prompt": "A recording of a fingered sitar melody, an upright bass and percussive rhythmic tabla.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "an upright bass",
+        "Drums Softmask Prompt": "percussive rhythmic tabla",
+        "Others Softmask Prompt": "a fingered sitar melody"
+    },
+    "bass2synth": {
+        "Original Prompt": "A recording of a fingered sitar, a fingered sarangi and percussive rhythmic tabla.",
+        "Baseline Prompt": "A recording of a fingered sitar melody, a synth bass and percussive rhythmic tabla.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a synth bass",
+        "Drums Softmask Prompt": "percussive rhythmic tabla",
+        "Others Softmask Prompt": "a fingered sitar melody"
+    }
+}

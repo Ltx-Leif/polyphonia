@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Baseline Prompt": "A recording of a violin, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Vocals Softmask Prompt": "a violin",
+        "Bass Softmask Prompt": "a driving rhythmic bassline",
+        "Drums Softmask Prompt": "a steady upbeat drum",
+        "Others Softmask Prompt": "a clean electric guitarand arpeggiated"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Baseline Prompt": "A recording of a choir, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Vocals Softmask Prompt": "a choir",
+        "Bass Softmask Prompt": "a driving rhythmic bassline",
+        "Drums Softmask Prompt": "a steady upbeat drum",
+        "Others Softmask Prompt": "a clean electric guitarand arpeggiated"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Baseline Prompt": "A recording of a trumpet, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Vocals Softmask Prompt": "a trumpet",
+        "Bass Softmask Prompt": "a driving rhythmic bassline",
+        "Drums Softmask Prompt": "a steady upbeat drum",
+        "Others Softmask Prompt": "a clean electric guitarand arpeggiated"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Baseline Prompt": "A recording of a cello, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Vocals Softmask Prompt": "a cello",
+        "Bass Softmask Prompt": "a driving rhythmic bassline",
+        "Drums Softmask Prompt": "a steady upbeat drum",
+        "Others Softmask Prompt": "a clean electric guitarand arpeggiated"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Baseline Prompt": "A recording of a flute, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Vocals Softmask Prompt": "a flute",
+        "Bass Softmask Prompt": "a driving rhythmic bassline",
+        "Drums Softmask Prompt": "a steady upbeat drum",
+        "Others Softmask Prompt": "a clean electric guitarand arpeggiated"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Baseline Prompt": "A recording of a saxophone, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Vocals Softmask Prompt": "a saxophone",
+        "Bass Softmask Prompt": "a driving rhythmic bassline",
+        "Drums Softmask Prompt": "a steady upbeat drum",
+        "Others Softmask Prompt": "a clean electric guitarand arpeggiated"
+    },
+    "vocals2trombone": {
+        "Original Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Baseline Prompt": "A recording of a trombone, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Vocals Softmask Prompt": "a trombone",
+        "Bass Softmask Prompt": "a driving rhythmic bassline",
+        "Drums Softmask Prompt": "a steady upbeat drum",
+        "Others Softmask Prompt": "a clean electric guitarand arpeggiated"
+    },
+    "guitar2piano": {
+        "Original Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Baseline Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a piano and a steady upbeat drum.",
+        "Vocals Softmask Prompt": "an emotive male vocals",
+        "Bass Softmask Prompt": "a driving rhythmic bassline",
+        "Drums Softmask Prompt": "a steady upbeat drum",
+        "Others Softmask Prompt": "a piano"
+    },
+    "guitar2acousticguitar": {
+        "Original Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Baseline Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a acoustic guitar and a steady upbeat drum.",
+        "Vocals Softmask Prompt": "an emotive male vocals",
+        "Bass Softmask Prompt": "a driving rhythmic bassline",
+        "Drums Softmask Prompt": "a steady upbeat drum",
+        "Others Softmask Prompt": "a acoustic guitar"
+    },
+    "guitar2organ": {
+        "Original Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Baseline Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a organ and a steady upbeat drum.",
+        "Vocals Softmask Prompt": "an emotive male vocals",
+        "Bass Softmask Prompt": "a driving rhythmic bassline",
+        "Drums Softmask Prompt": "a steady upbeat drum",
+        "Others Softmask Prompt": "a organ"
+    },
+    "guitar2saxophone": {
+        "Original Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Baseline Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a saxophone and a steady upbeat drum.",
+        "Vocals Softmask Prompt": "an emotive male vocals",
+        "Bass Softmask Prompt": "a driving rhythmic bassline",
+        "Drums Softmask Prompt": "a steady upbeat drum",
+        "Others Softmask Prompt": "a saxophone"
+    },
+    "guitar2trumpet": {
+        "Original Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Baseline Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a trumpet and a steady upbeat drum.",
+        "Vocals Softmask Prompt": "an emotive male vocals",
+        "Bass Softmask Prompt": "a driving rhythmic bassline",
+        "Drums Softmask Prompt": "a steady upbeat drum",
+        "Others Softmask Prompt": "a trumpet"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Baseline Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a jazz drum.",
+        "Vocals Softmask Prompt": "an emotive male vocals",
+        "Bass Softmask Prompt": "a driving rhythmic bassline",
+        "Drums Softmask Prompt": "a jazz drum",
+        "Others Softmask Prompt": "a clean electric guitarand arpeggiated"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Baseline Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a clean electric guitarand arpeggiated and an electronic drum.",
+        "Vocals Softmask Prompt": "an emotive male vocals",
+        "Bass Softmask Prompt": "a driving rhythmic bassline",
+        "Drums Softmask Prompt": "an electronic drum",
+        "Others Softmask Prompt": "a clean electric guitarand arpeggiated"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of an emotive male vocals, a driving rhythmic bassline, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Baseline Prompt": "A recording of an emotive male vocals, an upright bass, a clean electric guitarand arpeggiated and a steady upbeat drum.",
+        "Vocals Softmask Prompt": "an emotive male vocals",
+        "Bass Softmask Prompt": "an upright bass",
+        "Drums Softmask Prompt": "a steady upbeat drum",
+        "Others Softmask Prompt": "a clean electric guitarand arpeggiated"
+    }
+}

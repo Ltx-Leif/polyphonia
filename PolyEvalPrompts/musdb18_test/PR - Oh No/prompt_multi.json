@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of soulful vocal samples, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a smooth violin, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Vocals Softmask Prompt": "a smooth violin",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of soulful vocal samples, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a warm cello, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Vocals Softmask Prompt": "a warm cello",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of soulful vocal samples, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a bright flute, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Vocals Softmask Prompt": "a bright flute",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of soulful vocal samples, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a bold trumpet, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Vocals Softmask Prompt": "a bold trumpet",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of soulful vocal samples, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a haunting choir, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Vocals Softmask Prompt": "a haunting choir",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of soulful vocal samples, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a sultry saxophone, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Vocals Softmask Prompt": "a sultry saxophone",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    },
+    "vocals2tambourine": {
+        "Original Prompt": "A recording of soulful vocal samples, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of a lively tambourine, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Vocals Softmask Prompt": "a lively tambourine",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    },
+    "synth2piano": {
+        "Original Prompt": "A recording of soulful vocal samples, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of soulful vocal samples, a gritty synth bass, a mellow piano and punchy drums.",
+        "Vocals Softmask Prompt": "soulful vocal samples",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a mellow piano"
+    },
+    "synth2guitar": {
+        "Original Prompt": "A recording of soulful vocal samples, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of soulful vocal samples, a gritty synth bass, a clean guitar and punchy drums.",
+        "Vocals Softmask Prompt": "soulful vocal samples",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a clean guitar"
+    },
+    "synth2harp": {
+        "Original Prompt": "A recording of soulful vocal samples, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of soulful vocal samples, a gritty synth bass, a delicate harp and punchy drums.",
+        "Vocals Softmask Prompt": "soulful vocal samples",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a delicate harp"
+    },
+    "synth2organ": {
+        "Original Prompt": "A recording of soulful vocal samples, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of soulful vocal samples, a gritty synth bass, a rich organ and punchy drums.",
+        "Vocals Softmask Prompt": "soulful vocal samples",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a rich organ"
+    },
+    "synth2marimba": {
+        "Original Prompt": "A recording of soulful vocal samples, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of soulful vocal samples, a gritty synth bass, a soft marimba and punchy drums.",
+        "Vocals Softmask Prompt": "soulful vocal samples",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a soft marimba"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of soulful vocal samples, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of soulful vocal samples, a gritty synth bass, a shimmering synthesizer and analog electronic drums.",
+        "Vocals Softmask Prompt": "soulful vocal samples",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "analog electronic drums",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    },
+    "drums2acoustic": {
+        "Original Prompt": "A recording of soulful vocal samples, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of soulful vocal samples, a gritty synth bass, a shimmering synthesizer and natural acoustic drums.",
+        "Vocals Softmask Prompt": "soulful vocal samples",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "natural acoustic drums",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of soulful vocal samples, a gritty synth bass, a shimmering synthesizer and punchy drums.",
+        "Baseline Prompt": "A recording of soulful vocal samples, a deep upright bass, a shimmering synthesizer and punchy drums.",
+        "Vocals Softmask Prompt": "soulful vocal samples",
+        "Bass Softmask Prompt": "a deep upright bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a shimmering synthesizer"
+    }
+}

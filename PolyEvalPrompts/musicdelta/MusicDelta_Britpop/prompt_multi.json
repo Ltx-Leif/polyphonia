@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of a emotive vocals, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Baseline Prompt": "A recording of a violin melody, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Vocals Softmask Prompt": "a violin melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "standard rock drum beat",
+        "Others Softmask Prompt": "an energetic guitar hit"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of a emotive vocals, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Baseline Prompt": "A recording of a choir melody, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Vocals Softmask Prompt": "a choir melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "standard rock drum beat",
+        "Others Softmask Prompt": "an energetic guitar hit"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of a emotive vocals, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Baseline Prompt": "A recording of a trumpet melody, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Vocals Softmask Prompt": "a trumpet melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "standard rock drum beat",
+        "Others Softmask Prompt": "an energetic guitar hit"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of a emotive vocals, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Baseline Prompt": "A recording of a cello melody, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Vocals Softmask Prompt": "a cello melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "standard rock drum beat",
+        "Others Softmask Prompt": "an energetic guitar hit"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of a emotive vocals, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Baseline Prompt": "A recording of a flute melody, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Vocals Softmask Prompt": "a flute melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "standard rock drum beat",
+        "Others Softmask Prompt": "an energetic guitar hit"
+    },
+    "vocals2synthlead": {
+        "Original Prompt": "A recording of a emotive vocals, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Baseline Prompt": "A recording of a synth lead melody, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Vocals Softmask Prompt": "a synth lead melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "standard rock drum beat",
+        "Others Softmask Prompt": "an energetic guitar hit"
+    },
+    "vocals2trombone": {
+        "Original Prompt": "A recording of a emotive vocals, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Baseline Prompt": "A recording of a warm trombone melody, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Vocals Softmask Prompt": "a warm trombone melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "standard rock drum beat",
+        "Others Softmask Prompt": "an energetic guitar hit"
+    },
+    "guitar2piano": {
+        "Original Prompt": "A recording of a emotive vocals, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Baseline Prompt": "A recording of a emotive vocals, a steady bass line, a piano melody and standard rock drum beat.",
+        "Vocals Softmask Prompt": "a emotive vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "standard rock drum beat",
+        "Others Softmask Prompt": "a piano melody"
+    },
+    "guitar2acousticguitar": {
+        "Original Prompt": "A recording of a emotive vocals, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Baseline Prompt": "A recording of a emotive vocals, a steady bass line, a acoustic guitar melody and standard rock drum beat.",
+        "Vocals Softmask Prompt": "a emotive vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "standard rock drum beat",
+        "Others Softmask Prompt": "a acoustic guitar melody"
+    },
+    "guitar2saxophone": {
+        "Original Prompt": "A recording of a emotive vocals, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Baseline Prompt": "A recording of a emotive vocals, a steady bass line, a saxophone melody and standard rock drum beat.",
+        "Vocals Softmask Prompt": "a emotive vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "standard rock drum beat",
+        "Others Softmask Prompt": "a saxophone melody"
+    },
+    "guitar2organ": {
+        "Original Prompt": "A recording of a emotive vocals, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Baseline Prompt": "A recording of a emotive vocals, a steady bass line, a warm organ melody and standard rock drum beat.",
+        "Vocals Softmask Prompt": "a emotive vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "standard rock drum beat",
+        "Others Softmask Prompt": "a warm organ melody"
+    },
+    "guitar2harp": {
+        "Original Prompt": "A recording of a emotive vocals, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Baseline Prompt": "A recording of a emotive vocals, a steady bass line, a warm harp melody and standard rock drum beat.",
+        "Vocals Softmask Prompt": "a emotive vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "standard rock drum beat",
+        "Others Softmask Prompt": "a warm harp melody"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a emotive vocals, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Baseline Prompt": "A recording of a emotive vocals, a steady bass line, an energetic guitar hit and a jazz drum.",
+        "Vocals Softmask Prompt": "a emotive vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a jazz drum",
+        "Others Softmask Prompt": "an energetic guitar hit"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a emotive vocals, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Baseline Prompt": "A recording of a emotive vocals, a steady bass line, an energetic guitar hit and an electronic drum beat.",
+        "Vocals Softmask Prompt": "a emotive vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "an electronic drum beat",
+        "Others Softmask Prompt": "an energetic guitar hit"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a emotive vocals, a steady bass line, an energetic guitar hit, standard rock drum beat.",
+        "Baseline Prompt": "A recording of a emotive vocals, an upright bass, an energetic guitar hit, standard rock drum beat.",
+        "Vocals Softmask Prompt": "a emotive vocals",
+        "Bass Softmask Prompt": "an upright bass",
+        "Drums Softmask Prompt": "standard rock drum beat",
+        "Others Softmask Prompt": "an energetic guitar hit"
+    }
+}

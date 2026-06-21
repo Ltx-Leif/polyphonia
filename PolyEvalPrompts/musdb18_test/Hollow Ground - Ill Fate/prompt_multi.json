@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of harsh, guttural growls, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Baseline Prompt": "A recording of a dark violin, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Vocals Softmask Prompt": "a dark violin",
+        "Bass Softmask Prompt": "a distorted bass",
+        "Drums Softmask Prompt": "aggressive drums",
+        "Others Softmask Prompt": "a distorted electric guitar"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of harsh, guttural growls, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Baseline Prompt": "A recording of a haunting flute, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Vocals Softmask Prompt": "a haunting flute",
+        "Bass Softmask Prompt": "a distorted bass",
+        "Drums Softmask Prompt": "aggressive drums",
+        "Others Softmask Prompt": "a distorted electric guitar"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of harsh, guttural growls, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Baseline Prompt": "A recording of a robotic trumpet, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Vocals Softmask Prompt": "a robotic trumpet",
+        "Bass Softmask Prompt": "a distorted bass",
+        "Drums Softmask Prompt": "aggressive drums",
+        "Others Softmask Prompt": "a distorted electric guitar"
+    },
+    "vocals2clarinet": {
+        "Original Prompt": "A recording of harsh, guttural growls, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Baseline Prompt": "A recording of a soft clarinet, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Vocals Softmask Prompt": "a soft clarinet",
+        "Bass Softmask Prompt": "a distorted bass",
+        "Drums Softmask Prompt": "aggressive drums",
+        "Others Softmask Prompt": "a distorted electric guitar"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of harsh, guttural growls, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Baseline Prompt": "A recording of a raspy cello, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Vocals Softmask Prompt": "a raspy cello",
+        "Bass Softmask Prompt": "a distorted bass",
+        "Drums Softmask Prompt": "aggressive drums",
+        "Others Softmask Prompt": "a distorted electric guitar"
+    },
+    "vocals2viola": {
+        "Original Prompt": "A recording of harsh, guttural growls, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Baseline Prompt": "A recording of a quiet viola, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Vocals Softmask Prompt": "a quiet viola",
+        "Bass Softmask Prompt": "a distorted bass",
+        "Drums Softmask Prompt": "aggressive drums",
+        "Others Softmask Prompt": "a distorted electric guitar"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of harsh, guttural growls, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Baseline Prompt": "A recording of a powerful saxophone, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Vocals Softmask Prompt": "a powerful saxophone",
+        "Bass Softmask Prompt": "a distorted bass",
+        "Drums Softmask Prompt": "aggressive drums",
+        "Others Softmask Prompt": "a distorted electric guitar"
+    },
+    "guitar2piano": {
+        "Original Prompt": "A recording of harsh, guttural growls, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Baseline Prompt": "A recording of harsh, guttural growls, a distorted bass, a sharp piano and aggressive drums.",
+        "Vocals Softmask Prompt": "harsh, guttural growls",
+        "Bass Softmask Prompt": "a distorted bass",
+        "Drums Softmask Prompt": "aggressive drums",
+        "Others Softmask Prompt": "a sharp piano"
+    },
+    "guitar2flute": {
+        "Original Prompt": "A recording of harsh, guttural growls, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Baseline Prompt": "A recording of harsh, guttural growls, a distorted bass, a breathy flute and aggressive drums.",
+        "Vocals Softmask Prompt": "harsh, guttural growls",
+        "Bass Softmask Prompt": "a distorted bass",
+        "Drums Softmask Prompt": "aggressive drums",
+        "Others Softmask Prompt": "a breathy flute"
+    },
+    "guitar2cello": {
+        "Original Prompt": "A recording of harsh, guttural growls, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Baseline Prompt": "A recording of harsh, guttural growls, a distorted bass, a mournful cello and aggressive drums.",
+        "Vocals Softmask Prompt": "harsh, guttural growls",
+        "Bass Softmask Prompt": "a distorted bass",
+        "Drums Softmask Prompt": "aggressive drums",
+        "Others Softmask Prompt": "a mournful cello"
+    },
+    "guitar2harp": {
+        "Original Prompt": "A recording of harsh, guttural growls, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Baseline Prompt": "A recording of harsh, guttural growls, a distorted bass, a shimmering harp and aggressive drums.",
+        "Vocals Softmask Prompt": "harsh, guttural growls",
+        "Bass Softmask Prompt": "a distorted bass",
+        "Drums Softmask Prompt": "aggressive drums",
+        "Others Softmask Prompt": "a shimmering harp"
+    },
+    "guitar2trumpet": {
+        "Original Prompt": "A recording of harsh, guttural growls, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Baseline Prompt": "A recording of harsh, guttural growls, a distorted bass, a bright trumpet and aggressive drums.",
+        "Vocals Softmask Prompt": "harsh, guttural growls",
+        "Bass Softmask Prompt": "a distorted bass",
+        "Drums Softmask Prompt": "aggressive drums",
+        "Others Softmask Prompt": "a bright trumpet"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of harsh, guttural growls, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Baseline Prompt": "A recording of harsh, guttural growls, a distorted bass, a distorted electric guitar and loose jazz drums.",
+        "Vocals Softmask Prompt": "harsh, guttural growls",
+        "Bass Softmask Prompt": "a distorted bass",
+        "Drums Softmask Prompt": "loose jazz drums",
+        "Others Softmask Prompt": "a distorted electric guitar"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of harsh, guttural growls, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Baseline Prompt": "A recording of harsh, guttural growls, a distorted bass, a distorted electric guitar and synthetic electronic drums.",
+        "Vocals Softmask Prompt": "harsh, guttural growls",
+        "Bass Softmask Prompt": "a distorted bass",
+        "Drums Softmask Prompt": "synthetic electronic drums",
+        "Others Softmask Prompt": "a distorted electric guitar"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of harsh, guttural growls, a distorted bass, a distorted electric guitar and aggressive drums.",
+        "Baseline Prompt": "A recording of harsh, guttural growls, a deep upright bass, a distorted electric guitar and aggressive drums.",
+        "Vocals Softmask Prompt": "harsh, guttural growls",
+        "Bass Softmask Prompt": "a deep upright bass",
+        "Drums Softmask Prompt": "aggressive drums",
+        "Others Softmask Prompt": "a distorted electric guitar"
+    }
+}

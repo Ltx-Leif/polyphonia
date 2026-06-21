@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of a clear male melodic, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Baseline Prompt": "A recording of a smooth violin, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Vocals Softmask Prompt": "a smooth violin",
+        "Bass Softmask Prompt": "a fingered bass",
+        "Drums Softmask Prompt": "a steady rock beat",
+        "Others Softmask Prompt": "a strummed electric guitar"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of a clear male melodic, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Baseline Prompt": "A recording of a harmonized male choir, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Vocals Softmask Prompt": "a harmonized male choir",
+        "Bass Softmask Prompt": "a fingered bass",
+        "Drums Softmask Prompt": "a steady rock beat",
+        "Others Softmask Prompt": "a strummed electric guitar"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of a clear male melodic, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Baseline Prompt": "A recording of a bright trumpet, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Vocals Softmask Prompt": "a bright trumpet",
+        "Bass Softmask Prompt": "a fingered bass",
+        "Drums Softmask Prompt": "a steady rock beat",
+        "Others Softmask Prompt": "a strummed electric guitar"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of a clear male melodic, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Baseline Prompt": "A recording of a warm cello, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Vocals Softmask Prompt": "a warm cello",
+        "Bass Softmask Prompt": "a fingered bass",
+        "Drums Softmask Prompt": "a steady rock beat",
+        "Others Softmask Prompt": "a strummed electric guitar"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of a clear male melodic, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Baseline Prompt": "A recording of a light flute, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Vocals Softmask Prompt": "a light flute",
+        "Bass Softmask Prompt": "a fingered bass",
+        "Drums Softmask Prompt": "a steady rock beat",
+        "Others Softmask Prompt": "a strummed electric guitar"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of a clear male melodic, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Baseline Prompt": "A recording of a smooth saxophone, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Vocals Softmask Prompt": "a smooth saxophone",
+        "Bass Softmask Prompt": "a fingered bass",
+        "Drums Softmask Prompt": "a steady rock beat",
+        "Others Softmask Prompt": "a strummed electric guitar"
+    },
+    "vocals2trombone": {
+        "Original Prompt": "A recording of a clear male melodic, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Baseline Prompt": "A recording of a bold trombone, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Vocals Softmask Prompt": "a bold trombone",
+        "Bass Softmask Prompt": "a fingered bass",
+        "Drums Softmask Prompt": "a steady rock beat",
+        "Others Softmask Prompt": "a strummed electric guitar"
+    },
+    "guitar2piano": {
+        "Original Prompt": "A recording of a clear male melodic, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Baseline Prompt": "A recording of a clear male melodic, a fingered bass, a bright piano and a steady rock beat.",
+        "Vocals Softmask Prompt": "a clear male melodic",
+        "Bass Softmask Prompt": "a fingered bass",
+        "Drums Softmask Prompt": "a steady rock beat",
+        "Others Softmask Prompt": "a bright piano"
+    },
+    "guitar2acousticguitar": {
+        "Original Prompt": "A recording of a clear male melodic, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Baseline Prompt": "A recording of a clear male melodic, a fingered bass, a acoustic guitar and a steady rock beat.",
+        "Vocals Softmask Prompt": "a clear male melodic",
+        "Bass Softmask Prompt": "a fingered bass",
+        "Drums Softmask Prompt": "a steady rock beat",
+        "Others Softmask Prompt": "a acoustic guitar"
+    },
+    "guitar2synthlead": {
+        "Original Prompt": "A recording of a clear male melodic, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Baseline Prompt": "A recording of a clear male melodic, a fingered bass, a shimmering synth and a steady rock beat.",
+        "Vocals Softmask Prompt": "a clear male melodic",
+        "Bass Softmask Prompt": "a fingered bass",
+        "Drums Softmask Prompt": "a steady rock beat",
+        "Others Softmask Prompt": "a shimmering synth"
+    },
+    "guitar2organ": {
+        "Original Prompt": "A recording of a clear male melodic, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Baseline Prompt": "A recording of a clear male melodic, a fingered bass, a warm organ and a steady rock beat.",
+        "Vocals Softmask Prompt": "a clear male melodic",
+        "Bass Softmask Prompt": "a fingered bass",
+        "Drums Softmask Prompt": "a steady rock beat",
+        "Others Softmask Prompt": "a warm organ"
+    },
+    "guitar2sitar": {
+        "Original Prompt": "A recording of a clear male melodic, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Baseline Prompt": "A recording of a clear male melodic, a fingered bass, a sitar and a steady rock beat.",
+        "Vocals Softmask Prompt": "a clear male melodic",
+        "Bass Softmask Prompt": "a fingered bass",
+        "Drums Softmask Prompt": "a steady rock beat",
+        "Others Softmask Prompt": "a sitar"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a clear male melodic, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Baseline Prompt": "A recording of a clear male melodic, a fingered bass, a strummed electric guitar and an electronic drum beat.",
+        "Vocals Softmask Prompt": "a clear male melodic",
+        "Bass Softmask Prompt": "a fingered bass",
+        "Drums Softmask Prompt": "an electronic drum beat",
+        "Others Softmask Prompt": "a strummed electric guitar"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a clear male melodic, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Baseline Prompt": "A recording of a clear male melodic, a fingered bass, a strummed electric guitar and a jazz drum.",
+        "Vocals Softmask Prompt": "a clear male melodic",
+        "Bass Softmask Prompt": "a fingered bass",
+        "Drums Softmask Prompt": "a jazz drum",
+        "Others Softmask Prompt": "a strummed electric guitar"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a clear male melodic, a fingered bass, a strummed electric guitar and a steady rock beat.",
+        "Baseline Prompt": "A recording of a clear male melodic, a upright bass, a strummed electric guitar and a steady rock beat.",
+        "Vocals Softmask Prompt": "a clear male melodic",
+        "Bass Softmask Prompt": "a upright bass",
+        "Drums Softmask Prompt": "a steady rock beat",
+        "Others Softmask Prompt": "a strummed electric guitar"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of a clear male vocal, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Baseline Prompt": "A recording of a smooth violin, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Vocals Softmask Prompt": "a smooth violin",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a distorted electric guitar, an ambient synth pad"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of a clear male vocal, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Baseline Prompt": "A recording of a warm cello, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Vocals Softmask Prompt": "a warm cello",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a distorted electric guitar, an ambient synth pad"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of a clear male vocal, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Baseline Prompt": "A recording of a bright trumpet, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Vocals Softmask Prompt": "a bright trumpet",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a distorted electric guitar, an ambient synth pad"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of a clear male vocal, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Baseline Prompt": "A recording of a light flute, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Vocals Softmask Prompt": "a light flute",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a distorted electric guitar, an ambient synth pad"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of a clear male vocal, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Baseline Prompt": "A recording of a lush choir, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Vocals Softmask Prompt": "a lush choir",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a distorted electric guitar, an ambient synth pad"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of a clear male vocal, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Baseline Prompt": "A recording of a smooth saxophone, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Vocals Softmask Prompt": "a smooth saxophone",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a distorted electric guitar, an ambient synth pad"
+    },
+    "vocals2trombone": {
+        "Original Prompt": "A recording of a clear male vocal, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Baseline Prompt": "A recording of a rich trombone, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Vocals Softmask Prompt": "a rich trombone",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a distorted electric guitar, an ambient synth pad"
+    },
+    "guitar2piano": {
+        "Original Prompt": "A recording of a clear male vocal, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a deep bass, a bright piano, an ambient synth pad and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a deep bass",  
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a bright piano"
+    },
+    "guitar2marimba": {
+        "Original Prompt": "A recording of a clear male vocal, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a deep bass, a wooden marimba, an ambient synth pad and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a wooden marimba"
+    },
+    "guitar2harp": {
+        "Original Prompt": "A recording of a clear male vocal, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a deep bass, a delicate harp, an ambient synth pad and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a delicate harp"
+    },
+    "guitar2flute": {
+        "Original Prompt": "A recording of a clear male vocal, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a deep bass, a light flute, an ambient synth pad and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a light flute"
+    },
+    "guitar2choir": {
+        "Original Prompt": "A recording of a clear male vocal, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a deep bass, a lush choir, an ambient synth pad and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a lush choir"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a clear male vocal, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a deep bass, a distorted electric guitar, an ambient synth pad and synthetic electronic beats.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "synthetic electronic beats",
+        "Others Softmask Prompt": "a distorted electric guitar, an ambient synth pad"
+    },
+    "drums2acoustic": {
+        "Original Prompt": "A recording of a clear male vocal, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a deep bass, a distorted electric guitar, an ambient synth pad and natural acoustic drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a deep bass",
+        "Drums Softmask Prompt": "natural acoustic drums",
+        "Others Softmask Prompt": "a distorted electric guitar, an ambient synth pad"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a clear male vocal, a deep bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a warm upright bass, a distorted electric guitar, an ambient synth pad and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a warm upright bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a distorted electric guitar, an ambient synth pad"
+    }
+}

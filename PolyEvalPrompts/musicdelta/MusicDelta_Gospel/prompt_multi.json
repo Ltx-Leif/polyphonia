@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of a soft heartfelt female vocal, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Baseline Prompt": "A recording of a violin, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Vocals Softmask Prompt": "a violin",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "light rhythmic handclaps",
+        "Others Softmask Prompt": "a warm fingerpicked acoustic guitar arpeggio"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of a soft heartfelt female vocal, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Baseline Prompt": "A recording of a cello, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Vocals Softmask Prompt": "a cello",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "light rhythmic handclaps",
+        "Others Softmask Prompt": "a warm fingerpicked acoustic guitar arpeggio"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of a soft heartfelt female vocal, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Baseline Prompt": "A recording of a choir, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Vocals Softmask Prompt": "a choir",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "light rhythmic handclaps",
+        "Others Softmask Prompt": "a warm fingerpicked acoustic guitar arpeggio"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of a soft heartfelt female vocal, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Baseline Prompt": "A recording of a flute, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Vocals Softmask Prompt": "a flute",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "light rhythmic handclaps",
+        "Others Softmask Prompt": "a warm fingerpicked acoustic guitar arpeggio"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of a soft heartfelt female vocal, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Baseline Prompt": "A recording of a trumpet, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Vocals Softmask Prompt": "a trumpet",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "light rhythmic handclaps",
+        "Others Softmask Prompt": "a warm fingerpicked acoustic guitar arpeggio"
+    },
+    "vocals2trombone": {
+        "Original Prompt": "A recording of a soft heartfelt female vocal, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Baseline Prompt": "A recording of a trombone, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Vocals Softmask Prompt": "a trombone",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "light rhythmic handclaps",
+        "Others Softmask Prompt": "a warm fingerpicked acoustic guitar arpeggio"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of a soft heartfelt female vocal, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Baseline Prompt": "A recording of a saxophone, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Vocals Softmask Prompt": "a saxophone",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "light rhythmic handclaps",
+        "Others Softmask Prompt": "a warm fingerpicked acoustic guitar arpeggio"
+    },
+    "acousticguitar2piano": {
+        "Original Prompt": "A recording of a soft heartfelt female vocal, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Baseline Prompt": "A recording of a soft heartfelt female vocal, a piano and light rhythmic handclaps.",
+        "Vocals Softmask Prompt": "a soft heartfelt female vocal",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "light rhythmic handclaps",
+        "Others Softmask Prompt": "a piano"
+    },
+    "acousticguitar2organ": {
+        "Original Prompt": "A recording of a soft heartfelt female vocal, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Baseline Prompt": "A recording of a soft heartfelt female vocal, a organ and light rhythmic handclaps.",
+        "Vocals Softmask Prompt": "a soft heartfelt female vocal",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "light rhythmic handclaps",
+        "Others Softmask Prompt": "a organ"
+    },
+    "acousticguitar2harp": {
+        "Original Prompt": "A recording of a soft heartfelt female vocal, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Baseline Prompt": "A recording of a soft heartfelt female vocal, a harp and light rhythmic handclaps.",
+        "Vocals Softmask Prompt": "a soft heartfelt female vocal",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "light rhythmic handclaps",
+        "Others Softmask Prompt": "a harp"
+    },
+    "acousticguitar2strings": {
+        "Original Prompt": "A recording of a soft heartfelt female vocal, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Baseline Prompt": "A recording of a soft heartfelt female vocal, a strings and light rhythmic handclaps.",
+        "Vocals Softmask Prompt": "a soft heartfelt female vocal",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "light rhythmic handclaps",
+        "Others Softmask Prompt": "a strings"
+    },
+    "acousticguitar2mandolin": {
+        "Original Prompt": "A recording of a soft heartfelt female vocal, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Baseline Prompt": "A recording of a soft heartfelt female vocal, a mandolin and light rhythmic handclaps.",
+        "Vocals Softmask Prompt": "a soft heartfelt female vocal",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "light rhythmic handclaps",
+        "Others Softmask Prompt": "a mandolin"
+    },
+    "drums2brushedsnare": {
+        "Original Prompt": "A recording of a soft heartfelt female vocal, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Baseline Prompt": "A recording of a soft heartfelt female vocal, a warm fingerpicked acoustic guitar arpeggio and a brushed snare.",
+        "Vocals Softmask Prompt": "a soft heartfelt female vocal",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a brushed snare",
+        "Others Softmask Prompt": "a warm fingerpicked acoustic guitar arpeggio"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a soft heartfelt female vocal, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Baseline Prompt": "A recording of a soft heartfelt female vocal, a warm fingerpicked acoustic guitar arpeggio and an electronic drum.",
+        "Vocals Softmask Prompt": "a soft heartfelt female vocal",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "an electronic drum",
+        "Others Softmask Prompt": "a warm fingerpicked acoustic guitar arpeggio"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a soft heartfelt female vocal, a warm fingerpicked acoustic guitar arpeggio and light rhythmic handclaps.",
+        "Baseline Prompt": "A recording of a soft heartfelt female vocal, an upright bass and light rhythmic handclaps.",
+        "Vocals Softmask Prompt": "a soft heartfelt female vocal",
+        "Bass Softmask Prompt": "an upright bass",
+        "Drums Softmask Prompt": "light rhythmic handclaps",
+        "Others Softmask Prompt": ""
+    }
+}

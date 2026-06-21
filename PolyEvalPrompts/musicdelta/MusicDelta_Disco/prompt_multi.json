@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of smooth vocals, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Baseline Prompt": "A recording of a violin melody, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Vocals Softmask Prompt": "a violin melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a tight, driving drum beat",
+        "Others Softmask Prompt": "a clean rhythmic electric guitar melody"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of smooth vocals, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Baseline Prompt": "A recording of a cello melody, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Vocals Softmask Prompt": "a cello melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a tight, driving drum beat",
+        "Others Softmask Prompt": "a clean rhythmic electric guitar melody"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of smooth vocals, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Baseline Prompt": "A recording of a trumpet melody, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Vocals Softmask Prompt": "a trumpet melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a tight, driving drum beat",
+        "Others Softmask Prompt": "a clean rhythmic electric guitar melody"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of smooth vocals, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Baseline Prompt": "A recording of a saxophone melody, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Vocals Softmask Prompt": "a saxophone melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a tight, driving drum beat",
+        "Others Softmask Prompt": "a clean rhythmic electric guitar melody"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of smooth vocals, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Baseline Prompt": "A recording of a choir melody, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Vocals Softmask Prompt": "a choir melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a tight, driving drum beat",
+        "Others Softmask Prompt": "a clean rhythmic electric guitar melody"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of smooth vocals, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Baseline Prompt": "A recording of a flute melody, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Vocals Softmask Prompt": "a flute melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a tight, driving drum beat",
+        "Others Softmask Prompt": "a clean rhythmic electric guitar melody"
+    },
+    "vocals2trombone": {
+        "Original Prompt": "A recording of smooth vocals, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Baseline Prompt": "A recording of a trombone melody, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Vocals Softmask Prompt": "a trombone melody",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a tight, driving drum beat",
+        "Others Softmask Prompt": "a clean rhythmic electric guitar melody"
+    },
+    "electricguitar2piano": {
+        "Original Prompt": "A recording of smooth vocals, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Baseline Prompt": "A recording of smooth vocals, a steady bass line, a piano melody and a tight, driving drum beat.",
+        "Vocals Softmask Prompt": "smooth vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a tight, driving drum beat",
+        "Others Softmask Prompt": "a piano melody"
+    },
+    "electricguitar2acousticguitar": {
+        "Original Prompt": "A recording of smooth vocals, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Baseline Prompt": "A recording of smooth vocals, a steady bass line, a acoustic guitar melody and a tight, driving drum beat.",
+        "Vocals Softmask Prompt": "smooth vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a tight, driving drum beat",
+        "Others Softmask Prompt": "a acoustic guitar melody"
+    },
+    "electricguitar2organ": {
+        "Original Prompt": "A recording of smooth vocals, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Baseline Prompt": "A recording of smooth vocals, a steady bass line, a organ melody and a tight, driving drum beat.",
+        "Vocals Softmask Prompt": "smooth vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a tight, driving drum beat",
+        "Others Softmask Prompt": "a organ melody"
+    },
+    "electricguitar2saxophone": {
+        "Original Prompt": "A recording of smooth vocals, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Baseline Prompt": "A recording of smooth vocals, a steady bass line, a saxophone melody and a tight, driving drum beat.",
+        "Vocals Softmask Prompt": "smooth vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a tight, driving drum beat",
+        "Others Softmask Prompt": "a saxophone melody"
+    },
+    "electricguitar2strings": {
+        "Original Prompt": "A recording of smooth vocals, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Baseline Prompt": "A recording of smooth vocals, a steady bass line, a strings melody and a tight, driving drum beat.",
+        "Vocals Softmask Prompt": "smooth vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a tight, driving drum beat",
+        "Others Softmask Prompt": "a strings melody"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of smooth vocals, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Baseline Prompt": "A recording of smooth vocals, a steady bass line, a clean rhythmic electric guitar melody and a jazz drum.",
+        "Vocals Softmask Prompt": "smooth vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "a jazz drum",
+        "Others Softmask Prompt": "a clean rhythmic electric guitar melody"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of smooth vocals, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Baseline Prompt": "A recording of smooth vocals, a steady bass line, a clean rhythmic electric guitar melody and an electronic drum beat.",
+        "Vocals Softmask Prompt": "smooth vocals",
+        "Bass Softmask Prompt": "a steady bass line",
+        "Drums Softmask Prompt": "an electronic drum beat",
+        "Others Softmask Prompt": "a clean rhythmic electric guitar melody"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of smooth vocals, a steady bass line, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Baseline Prompt": "A recording of smooth vocals, an upright bass, a clean rhythmic electric guitar melody and a tight, driving drum beat.",
+        "Vocals Softmask Prompt": "smooth vocals",
+        "Bass Softmask Prompt": "an upright bass",
+        "Drums Softmask Prompt": "a tight, driving drum beat",
+        "Others Softmask Prompt": "a clean rhythmic electric guitar melody"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "saxophone2vocals": {
+        "Original Prompt": "A recording of a smooth and expressive saxophone melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Baseline Prompt": "A recording of a soft male vocal, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a warm and rounded walking bass line",
+        "Drums Softmask Prompt": "a soft swinging drum groove",
+        "Others Softmask Prompt": "a soft male vocal"
+    },
+    "saxophone2choir": {
+        "Original Prompt": "A recording of a smooth and expressive saxophone melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Baseline Prompt": "A recording of a choir melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a warm and rounded walking bass line",
+        "Drums Softmask Prompt": "a soft swinging drum groove",
+        "Others Softmask Prompt": "a choir melody"
+    },
+    "saxophone2flute": {
+        "Original Prompt": "A recording of a smooth and expressive saxophone melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Baseline Prompt": "A recording of a flute melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a warm and rounded walking bass line",
+        "Drums Softmask Prompt": "a soft swinging drum groove",
+        "Others Softmask Prompt": "a flute melody"
+    },
+    "saxophone2violin": {
+        "Original Prompt": "A recording of a smooth and expressive saxophone melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Baseline Prompt": "A recording of a violin melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a warm and rounded walking bass line",
+        "Drums Softmask Prompt": "a soft swinging drum groove",
+        "Others Softmask Prompt": "a violin melody"
+    },
+    "saxophone2cello": {
+        "Original Prompt": "A recording of a smooth and expressive saxophone melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Baseline Prompt": "A recording of a cello melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a warm and rounded walking bass line",
+        "Drums Softmask Prompt": "a soft swinging drum groove",
+        "Others Softmask Prompt": "a cello"
+    },
+    "saxophone2trumpet": {
+        "Original Prompt": "A recording of a smooth and expressive saxophone melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Baseline Prompt": "A recording of a trumpet melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a warm and rounded walking bass line",
+        "Drums Softmask Prompt": "a soft swinging drum groove",
+        "Others Softmask Prompt": "a trumpet melody"
+    },
+    "saxophone2trombone": {
+        "Original Prompt": "A recording of a smooth and expressive saxophone melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Baseline Prompt": "A recording of a trombone melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a warm and rounded walking bass line",
+        "Drums Softmask Prompt": "a soft swinging drum groove",
+        "Others Softmask Prompt": "a trombone melody"
+    },
+    "saxophone2clarinet": {
+        "Original Prompt": "A recording of a smooth and expressive saxophone melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Baseline Prompt": "A recording of a clarinet melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a warm and rounded walking bass line",
+        "Drums Softmask Prompt": "a soft swinging drum groove",
+        "Others Softmask Prompt": "a clarinet melody"
+    },
+    "saxophone2piano": {
+        "Original Prompt": "A recording of a smooth and expressive saxophone melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Baseline Prompt": "A recording of a piano melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a warm and rounded walking bass line",
+        "Drums Softmask Prompt": "a soft swinging drum groove",
+        "Others Softmask Prompt": "a piano melody"
+    },
+    "bass2synth": {
+        "Original Prompt": "A recording of a smooth and expressive saxophone melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Baseline Prompt": "A recording of a smooth and expressive saxophone melody, a synth bass line and a soft swinging drum groove.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a synth bass line",
+        "Drums Softmask Prompt": "a soft swinging drum groove",
+        "Others Softmask Prompt": "a smooth and expressive saxophone melody"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a smooth and expressive saxophone melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Baseline Prompt": "A recording of a smooth and expressive saxophone melody, an upright bass and a soft swinging drum groove.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "an upright bass",
+        "Drums Softmask Prompt": "a soft swinging drum groove",
+        "Others Softmask Prompt": "a smooth and expressive saxophone melody"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a smooth and expressive saxophone melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Baseline Prompt": "A recording of a smooth and expressive saxophone melody, a warm and rounded walking bass line and a jazz drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a warm and rounded walking bass line",
+        "Drums Softmask Prompt": "a jazz drum",
+        "Others Softmask Prompt": "a smooth and expressive saxophone melody"
+    },
+    "drums2brushes": {
+        "Original Prompt": "A recording of a smooth and expressive saxophone melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Baseline Prompt": "A recording of a smooth and expressive saxophone melody, a warm and rounded walking bass line and a brushes.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a warm and rounded walking bass line",
+        "Drums Softmask Prompt": "a brushes",
+        "Others Softmask Prompt": "a smooth and expressive saxophone melody"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a smooth and expressive saxophone melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Baseline Prompt": "A recording of a smooth and expressive saxophone melody, a warm and rounded walking bass line and an electronic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a warm and rounded walking bass line",
+        "Drums Softmask Prompt": "an electronic drum",
+        "Others Softmask Prompt": "a smooth and expressive saxophone melody"
+    },
+    "drums2rock": {
+        "Original Prompt": "A recording of a smooth and expressive saxophone melody, a warm and rounded walking bass line and a soft swinging drum groove.",
+        "Baseline Prompt": "A recording of a smooth and expressive saxophone melody, a warm and rounded walking bass line and a rock drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a warm and rounded walking bass line",
+        "Drums Softmask Prompt": "a rock drum",
+        "Others Softmask Prompt": "a smooth and expressive saxophone melody"
+    }
+}

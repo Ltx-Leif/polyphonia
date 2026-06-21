@@ -1,0 +1,122 @@
+{
+    "string_section2guitar": {
+        "Original Prompt": "A recording of a light bouncy string section, bright clear woodwind solos and rhythmic percussion.",
+        "Baseline Prompt": "A recording of a guitar, bright clear woodwind solos and rhythmic percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "rhythmic percussion",
+        "Others Softmask Prompt": "a guitar, bright clear woodwind solos"
+    },
+    "string_section2piano": {
+        "Original Prompt": "A recording of a light bouncy string section, bright clear woodwind solos and rhythmic percussion.",
+        "Baseline Prompt": "A recording of a piano, bright clear woodwind solos and rhythmic percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "rhythmic percussion",
+        "Others Softmask Prompt": "a piano, bright clear woodwind solos"
+    },
+    "string_section2violin": {
+        "Original Prompt": "A recording of a light bouncy string section, bright clear woodwind solos and rhythmic percussion.",
+        "Baseline Prompt": "A recording of a violin, bright clear woodwind solos and rhythmic percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "rhythmic percussion",
+        "Others Softmask Prompt": "a violin, bright clear woodwind solos"
+    },
+    "string_section2cello": {
+        "Original Prompt": "A recording of a light bouncy string section, bright clear woodwind solos and rhythmic percussion.",
+        "Baseline Prompt": "A recording of a cello, bright clear woodwind solos and rhythmic percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "rhythmic percussion",
+        "Others Softmask Prompt": "a cello, bright clear woodwind solos"
+    },
+    "string_section2harp": {
+        "Original Prompt": "A recording of a light bouncy string section, bright clear woodwind solos and rhythmic percussion.",
+        "Baseline Prompt": "A recording of a harp, bright clear woodwind solos and rhythmic percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "rhythmic percussion",
+        "Others Softmask Prompt": "a harp, bright clear woodwind solos"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a light bouncy string section, bright clear woodwind solos and rhythmic percussion.",
+        "Baseline Prompt": "A recording of a light bouncy string section, bright clear woodwind solos and a jazz drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a jazz drum",
+        "Others Softmask Prompt": "a light bouncy string section, bright clear woodwind solos"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a light bouncy string section, bright clear woodwind solos and rhythmic percussion.",
+        "Baseline Prompt": "A recording of a light bouncy string section, bright clear woodwind solos and an electronic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "an electronic drum",
+        "Others Softmask Prompt": "a light bouncy string section, bright clear woodwind solos"
+    },
+    "string_section2flute": {
+        "Original Prompt": "A recording of a light bouncy string section, bright clear woodwind solos and rhythmic percussion.",
+        "Baseline Prompt": "A recording of a flute, bright clear woodwind solos and rhythmic percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "rhythmic percussion",
+        "Others Softmask Prompt": "a flute, bright clear woodwind solos"
+    },
+    "string_section2trumpet": {
+        "Original Prompt": "A recording of a light bouncy string section, bright clear woodwind solos and rhythmic percussion.",
+        "Baseline Prompt": "A recording of a trumpet, bright clear woodwind solos and rhythmic percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "rhythmic percussion",
+        "Others Softmask Prompt": "a trumpet, bright clear woodwind solos"
+    },
+    "string_section2saxophone": {
+        "Original Prompt": "A recording of a light bouncy string section, bright clear woodwind solos and rhythmic percussion.",
+        "Baseline Prompt": "A recording of a saxophone, bright clear woodwind solos and rhythmic percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "rhythmic percussion",
+        "Others Softmask Prompt": "a saxophone, bright clear woodwind solos"
+    },
+    "drums2brushed": {
+        "Original Prompt": "A recording of a light bouncy string section, bright clear woodwind solos and rhythmic percussion.",
+        "Baseline Prompt": "A recording of a light bouncy string section, bright clear woodwind solos and a brushed drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a brushed drum",
+        "Others Softmask Prompt": "a light bouncy string section, bright clear woodwind solos"
+    },
+    "drums2snare": {
+        "Original Prompt": "A recording of a light bouncy string section, bright clear woodwind solos and rhythmic percussion.",
+        "Baseline Prompt": "A recording of a light bouncy string section, bright clear woodwind solos and a snare drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "a snare drum",
+        "Others Softmask Prompt": "a light bouncy string section, bright clear woodwind solos"
+    },
+    "woodwind2violin": {
+        "Original Prompt": "A recording of a light bouncy string section, bright clear woodwind solos and rhythmic percussion.",
+        "Baseline Prompt": "A recording of a light bouncy string section, a violin and rhythmic percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "rhythmic percussion",
+        "Others Softmask Prompt": "a light bouncy string section, a violin"
+    },
+    "string_section2organ": {
+        "Original Prompt": "A recording of a light bouncy string section, bright clear woodwind solos and rhythmic percussion.",
+        "Baseline Prompt": "A recording of a organ, bright clear woodwind solos and rhythmic percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "rhythmic percussion",
+        "Others Softmask Prompt": "a organ, bright clear woodwind solos"
+    },
+    "string_section2choir": {
+        "Original Prompt": "A recording of a light bouncy string section, bright clear woodwind solos and rhythmic percussion.",
+        "Baseline Prompt": "A recording of a choir, bright clear woodwind solos and rhythmic percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "",
+        "Drums Softmask Prompt": "rhythmic percussion",
+        "Others Softmask Prompt": "a choir, bright clear woodwind solos"
+    }
+}

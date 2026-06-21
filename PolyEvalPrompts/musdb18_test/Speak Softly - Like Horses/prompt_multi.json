@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of soulful female vocals, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Baseline Prompt": "A recording of a smooth violin, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Vocals Softmask Prompt": "a smooth violin",
+        "Bass Softmask Prompt": "a subtle bass",
+        "Others Softmask Prompt": "a shimmering synthesizer",
+        "Drums Softmask Prompt": "punchy drums"
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of soulful female vocals, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Baseline Prompt": "A recording of a warm cello, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Vocals Softmask Prompt": "a warm cello",
+        "Bass Softmask Prompt": "a subtle bass",
+        "Others Softmask Prompt": "a shimmering synthesizer",
+        "Drums Softmask Prompt": "punchy drums"
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of soulful female vocals, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Baseline Prompt": "A recording of a light flute, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Vocals Softmask Prompt": "a light flute",
+        "Bass Softmask Prompt": "a subtle bass",
+        "Others Softmask Prompt": "a shimmering synthesizer",
+        "Drums Softmask Prompt": "punchy drums"
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of soulful female vocals, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Baseline Prompt": "A recording of a bright trumpet, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Vocals Softmask Prompt": "a bright trumpet",
+        "Bass Softmask Prompt": "a subtle bass",
+        "Others Softmask Prompt": "a shimmering synthesizer",
+        "Drums Softmask Prompt": "punchy drums"
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of soulful female vocals, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Baseline Prompt": "A recording of a haunting choir, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Vocals Softmask Prompt": "a haunting choir",
+        "Bass Softmask Prompt": "a subtle bass",
+        "Others Softmask Prompt": "a shimmering synthesizer",
+        "Drums Softmask Prompt": "punchy drums"
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of soulful female vocals, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Baseline Prompt": "A recording of a mellow saxophone, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Vocals Softmask Prompt": "a mellow saxophone",
+        "Bass Softmask Prompt": "a subtle bass",
+        "Others Softmask Prompt": "a shimmering synthesizer",
+        "Drums Softmask Prompt": "punchy drums"
+    },
+    "vocals2trombone": {
+        "Original Prompt": "A recording of soulful female vocals, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Baseline Prompt": "A recording of a rich trombone, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Vocals Softmask Prompt": "a rich trombone",
+        "Bass Softmask Prompt": "a subtle bass",
+        "Others Softmask Prompt": "a shimmering synthesizer",
+        "Drums Softmask Prompt": "punchy drums"
+    },
+    "synthesizer2guitar": {
+        "Original Prompt": "A recording of soulful female vocals, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Baseline Prompt": "A recording of soulful female vocals, a subtle bass, a gritty guitar, a clean electric piano and punchy drums.",
+        "Vocals Softmask Prompt": "soulful female vocals",
+        "Bass Softmask Prompt": "a subtle bass",
+        "Others Softmask Prompt": "a gritty guitar",
+        "Drums Softmask Prompt": "punchy drums"
+    },
+    "synthesizer2harp": {
+        "Original Prompt": "A recording of soulful female vocals, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Baseline Prompt": "A recording of soulful female vocals, a subtle bass, a delicate harp, a clean electric piano and punchy drums.",
+        "Vocals Softmask Prompt": "soulful female vocals",
+        "Bass Softmask Prompt": "a subtle bass",
+        "Others Softmask Prompt": "a delicate harp",
+        "Drums Softmask Prompt": "punchy drums"
+    },
+    "synthesizer2choir": {
+        "Original Prompt": "A recording of soulful female vocals, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Baseline Prompt": "A recording of soulful female vocals, a subtle bass, a haunting choir, a clean electric piano and punchy drums.",
+        "Vocals Softmask Prompt": "soulful female vocals",
+        "Bass Softmask Prompt": "a subtle bass",
+        "Others Softmask Prompt": "a haunting choir",
+        "Drums Softmask Prompt": "punchy drums"
+    },
+    "synthesizer2piano": {
+        "Original Prompt": "A recording of soulful female vocals, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Baseline Prompt": "A recording of soulful female vocals, a subtle bass, a melodic piano, a clean electric piano and punchy drums.",
+        "Vocals Softmask Prompt": "soulful female vocals",
+        "Bass Softmask Prompt": "a subtle bass",
+        "Others Softmask Prompt": "a melodic piano",
+        "Drums Softmask Prompt": "punchy drums"
+    },
+    "synthesizer2organ": {
+        "Original Prompt": "A recording of soulful female vocals, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Baseline Prompt": "A recording of soulful female vocals, a subtle bass, a deep organ, a clean electric piano and punchy drums.",
+        "Vocals Softmask Prompt": "soulful female vocals",
+        "Bass Softmask Prompt": "a subtle bass",
+        "Others Softmask Prompt": "a deep organ",
+        "Drums Softmask Prompt": "punchy drums"
+    },
+    "drums2acoustic": {
+        "Original Prompt": "A recording of soulful female vocals, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Baseline Prompt": "A recording of soulful female vocals, a subtle bass, a shimmering synthesizer, a clean electric piano and natural acoustic drums.",
+        "Vocals Softmask Prompt": "soulful female vocals",
+        "Bass Softmask Prompt": "a subtle bass",
+        "Others Softmask Prompt": "a shimmering synthesizer",
+        "Drums Softmask Prompt": "natural acoustic drums"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of soulful female vocals, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Baseline Prompt": "A recording of soulful female vocals, a subtle bass, a shimmering synthesizer, a clean electric piano and glitchy electronic drums.",
+        "Vocals Softmask Prompt": "soulful female vocals",
+        "Bass Softmask Prompt": "a subtle bass",
+        "Others Softmask Prompt": "a shimmering synthesizer",
+        "Drums Softmask Prompt": "glitchy electronic drums"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of soulful female vocals, a subtle bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Baseline Prompt": "A recording of soulful female vocals, a warm upright bass, a shimmering synthesizer, a clean electric piano and punchy drums.",
+        "Vocals Softmask Prompt": "soulful female vocals",
+        "Bass Softmask Prompt": "a warm upright bass",
+        "Others Softmask Prompt": "a shimmering synthesizer",
+        "Drums Softmask Prompt": "punchy drums"
+    }
+}

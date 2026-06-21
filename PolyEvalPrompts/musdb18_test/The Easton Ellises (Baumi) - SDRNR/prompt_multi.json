@@ -1,0 +1,122 @@
+{
+    "vocals2violin": {
+        "Original Prompt": "A recording of a electronic male vocal, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Baseline Prompt": "A recording of a smooth violin, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Vocals Softmask Prompt": "a smooth violin",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums and syncopated cymbals and shakers",
+        "Others Softmask Prompt": ""
+    },
+    "vocals2cello": {
+        "Original Prompt": "A recording of a electronic male vocal, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Baseline Prompt": "A recording of a warm cello, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Vocals Softmask Prompt": "a warm cello",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums and syncopated cymbals and shakers",
+        "Others Softmask Prompt": ""
+    },
+    "vocals2flute": {
+        "Original Prompt": "A recording of a electronic male vocal, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Baseline Prompt": "A recording of a bright flute, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Vocals Softmask Prompt": "a bright flute",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums and syncopated cymbals and shakers",
+        "Others Softmask Prompt": ""
+    },
+    "vocals2trumpet": {
+        "Original Prompt": "A recording of a electronic male vocal, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Baseline Prompt": "A recording of a bold trumpet, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Vocals Softmask Prompt": "a bold trumpet",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums and syncopated cymbals and shakers",
+        "Others Softmask Prompt": ""
+    },
+    "vocals2choir": {
+        "Original Prompt": "A recording of a electronic male vocal, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Baseline Prompt": "A recording of a lush choir, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Vocals Softmask Prompt": "a lush choir",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums and syncopated cymbals and shakers",
+        "Others Softmask Prompt": ""
+    },
+    "vocals2saxophone": {
+        "Original Prompt": "A recording of a electronic male vocal, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Baseline Prompt": "A recording of a smooth saxophone, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Vocals Softmask Prompt": "a smooth saxophone",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums and syncopated cymbals and shakers",
+        "Others Softmask Prompt": ""
+    },
+    "vocals2harp": {
+        "Original Prompt": "A recording of a electronic male vocal, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Baseline Prompt": "A recording of a gentle harp, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Vocals Softmask Prompt": "a gentle harp",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums and syncopated cymbals and shakers",
+        "Others Softmask Prompt": ""
+    },
+    "vocals2piano": {
+        "Original Prompt": "A recording of a electronic male vocal, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Baseline Prompt": "A recording of a shimmering piano, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Vocals Softmask Prompt": "a shimmering piano",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums and syncopated cymbals and shakers",
+        "Others Softmask Prompt": ""
+    },
+    "vocals2marimba": {
+        "Original Prompt": "A recording of a electronic male vocal, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Baseline Prompt": "A recording of a resonant marimba, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Vocals Softmask Prompt": "a resonant marimba",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums and syncopated cymbals and shakers",
+        "Others Softmask Prompt": ""
+    },
+    "vocals2organ": {
+        "Original Prompt": "A recording of a electronic male vocal, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Baseline Prompt": "A recording of a rich organ, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Vocals Softmask Prompt": "a rich organ",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums and syncopated cymbals and shakers",
+        "Others Softmask Prompt": ""
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a electronic male vocal, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Baseline Prompt": "A recording of a electronic male vocal, a deep upright bass, punchy drums and syncopated cymbals and shakers.",
+        "Vocals Softmask Prompt": "a electronic male vocal",
+        "Bass Softmask Prompt": "a deep upright bass",
+        "Drums Softmask Prompt": "punchy drums and syncopated cymbals and shakers",
+        "Others Softmask Prompt": ""
+    },
+    "drums2acoustic": {
+        "Original Prompt": "A recording of a electronic male vocal, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Baseline Prompt": "A recording of a electronic male vocal, a gritty synth bass, acoustic drums and syncopated cymbals and shakers.",
+        "Vocals Softmask Prompt": "a electronic male vocal",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "acoustic drums and syncopated cymbals and shakers",
+        "Others Softmask Prompt": ""
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a electronic male vocal, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Baseline Prompt": "A recording of a electronic male vocal, a gritty synth bass, ambient electronic drums and syncopated cymbals and shakers.",
+        "Vocals Softmask Prompt": "a electronic male vocal",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "ambient electronic drums and syncopated cymbals and shakers",
+        "Others Softmask Prompt": ""
+    },
+    "vocals2flutes": {
+        "Original Prompt": "A recording of a electronic male vocal, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Baseline Prompt": "A recording of a light flute, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Vocals Softmask Prompt": "a light flute",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums and syncopated cymbals and shakers",
+        "Others Softmask Prompt": ""
+    },
+    "vocals2choirs": {
+        "Original Prompt": "A recording of a electronic male vocal, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Baseline Prompt": "A recording of a celestial choir, a gritty synth bass, punchy drums and syncopated cymbals and shakers.",
+        "Vocals Softmask Prompt": "a celestial choir",
+        "Bass Softmask Prompt": "a gritty synth bass",
+        "Drums Softmask Prompt": "punchy drums and syncopated cymbals and shakers",
+        "Others Softmask Prompt": ""
+    }
+}

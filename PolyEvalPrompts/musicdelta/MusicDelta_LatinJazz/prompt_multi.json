@@ -1,0 +1,122 @@
+{
+    "flute2violin": {
+        "Original Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Baseline Prompt": "A recording of a violin, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered walking bassline",
+        "Drums Softmask Prompt": "a steady groove-oriented drum beat",
+        "Others Softmask Prompt": "a violin"
+    },
+    "flute2cello": {
+        "Original Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Baseline Prompt": "A recording of a cello, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered walking bassline",
+        "Drums Softmask Prompt": "a steady groove-oriented drum beat",
+        "Others Softmask Prompt": "a cello"
+    },
+    "flute2trumpet": {
+        "Original Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Baseline Prompt": "A recording of a trumpet, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered walking bassline",
+        "Drums Softmask Prompt": "a steady groove-oriented drum beat",
+        "Others Softmask Prompt": "a trumpet"
+    },
+    "flute2saxophone": {
+        "Original Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Baseline Prompt": "A recording of a saxophone, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered walking bassline",
+        "Drums Softmask Prompt": "a steady groove-oriented drum beat",
+        "Others Softmask Prompt": "a saxophone"
+    },
+    "flute2clarinet": {
+        "Original Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Baseline Prompt": "A recording of a clarinet, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered walking bassline",
+        "Drums Softmask Prompt": "a steady groove-oriented drum beat",
+        "Others Softmask Prompt": "a clarinet"
+    },
+    "electricpiano2acousticpiano": {
+        "Original Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Baseline Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a piano and a steady groove-oriented drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered walking bassline",
+        "Drums Softmask Prompt": "a steady groove-oriented drum beat",
+        "Others Softmask Prompt": "a piano"
+    },
+    "electricpiano2organ": {
+        "Original Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Baseline Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a organ and a steady groove-oriented drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered walking bassline",
+        "Drums Softmask Prompt": "a steady groove-oriented drum beat",
+        "Others Softmask Prompt": "a organ"
+    },
+    "electricpiano2guitar": {
+        "Original Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Baseline Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a guitar and a steady groove-oriented drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered walking bassline",
+        "Drums Softmask Prompt": "a steady groove-oriented drum beat",
+        "Others Softmask Prompt": "a guitar"
+    },
+    "electricpiano2harp": {
+        "Original Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Baseline Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a harp and a steady groove-oriented drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered walking bassline",
+        "Drums Softmask Prompt": "a steady groove-oriented drum beat",
+        "Others Softmask Prompt": "a harp"
+    },
+    "drums2brushed": {
+        "Original Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Baseline Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a clean warm electric piano and a brushed drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered walking bassline",
+        "Drums Softmask Prompt": "a brushed drum",
+        "Others Softmask Prompt": "a clean warm electric piano"
+    },
+    "drums2latin": {
+        "Original Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Baseline Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a clean warm electric piano and a Latin percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered walking bassline",
+        "Drums Softmask Prompt": "a Latin percussion",
+        "Others Softmask Prompt": "a clean warm electric piano"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Baseline Prompt": "A recording of a smooth legato flute melody, an upright bass, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "an upright bass",
+        "Drums Softmask Prompt": "a steady groove-oriented drum beat",
+        "Others Softmask Prompt": "a clean warm electric piano"
+    },
+    "bass2synth": {
+        "Original Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Baseline Prompt": "A recording of a smooth legato flute melody, a synth bass, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a synth bass",
+        "Drums Softmask Prompt": "a steady groove-oriented drum beat",
+        "Others Softmask Prompt": "a clean warm electric piano"
+    },
+    "flute2voice": {
+        "Original Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Baseline Prompt": "A recording of a vocal, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Vocals Softmask Prompt": "a vocal",
+        "Bass Softmask Prompt": "a fingered walking bassline",
+        "Drums Softmask Prompt": "a steady groove-oriented drum beat",
+        "Others Softmask Prompt": "a clean warm electric piano"
+    },
+    "electricpiano2marimba": {
+        "Original Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a clean warm electric piano and a steady groove-oriented drum beat.",
+        "Baseline Prompt": "A recording of a smooth legato flute melody, a fingered walking bassline, a marimba and a steady groove-oriented drum beat.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered walking bassline",
+        "Drums Softmask Prompt": "a steady groove-oriented drum beat",
+        "Others Softmask Prompt": "a marimba"
+    }
+}

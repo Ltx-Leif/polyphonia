@@ -1,0 +1,122 @@
+{
+    "piano2vibraphone": {
+        "Original Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a mellow vibraphone, a gently strummed acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a smooth bass guitar",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a soulful harmonica and a mellow vibraphone"
+    },
+    "piano2cello": {
+        "Original Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a warm cello, a gently strummed acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a smooth bass guitar",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a warm cello"
+    },
+    "piano2flute": {
+        "Original Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a light flute, a gently strummed acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a smooth bass guitar",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a light flute"
+    },
+    "piano2trumpet": {
+        "Original Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a bright trumpet, a gently strummed acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a smooth bass guitar",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a bright trumpet"
+    },
+    "piano2choir": {
+        "Original Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a haunting choir, a gently strummed acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a smooth bass guitar",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a haunting choir"
+    },
+    "piano2violin": {
+        "Original Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a lyrical violin, a gently strummed acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a smooth bass guitar",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a lyrical violin"
+    },
+    "piano2saxophone": {
+        "Original Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a sultry saxophone, a gently strummed acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a smooth bass guitar",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a sultry saxophone"
+    },
+    "harmonica2oboe": {
+        "Original Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a reedy oboe, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a smooth bass guitar",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a reedy oboe"
+    },
+    "harmonica2clarinet": {
+        "Original Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a mellow clarinet, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a smooth bass guitar",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a mellow clarinet"
+    },
+    "harmonica2trombone": {
+        "Original Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a rich trombone, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a smooth bass guitar",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a rich trombone"
+    },
+    "acoustic_guitar2ukulele": {
+        "Original Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a melodic piano, a bright ukulele and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a smooth bass guitar",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a bright ukulele"
+    },
+    "acoustic_guitar2banjo": {
+        "Original Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a melodic piano, a twangy banjo and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a smooth bass guitar",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a twangy banjo"
+    },
+    "bass_guitar2upright": {
+        "Original Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a soulful harmonica, a warm upright bass, a melodic piano, a gently strummed acoustic guitar and punchy drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a warm upright bass",
+        "Drums Softmask Prompt": "punchy drums",
+        "Others Softmask Prompt": "a melodic piano"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and brushed jazz drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a smooth bass guitar",
+        "Drums Softmask Prompt": "brushed jazz drums",
+        "Others Softmask Prompt": "a melodic piano"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and punchy drums.",
+        "Baseline Prompt": "A recording of a clear male vocal, a soulful harmonica, a smooth bass guitar, a melodic piano, a gently strummed acoustic guitar and electronic drums.",
+        "Vocals Softmask Prompt": "a clear male vocal",
+        "Bass Softmask Prompt": "a smooth bass guitar",
+        "Drums Softmask Prompt": "electronic drums",
+        "Others Softmask Prompt": "a melodic piano"
+    }
+}

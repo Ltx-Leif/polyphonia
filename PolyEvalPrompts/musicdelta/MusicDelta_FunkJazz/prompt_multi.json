@@ -1,0 +1,122 @@
+{
+    "saxophone2guitar": {
+        "Original Prompt": "A recording of a smooth saxophone solo, a fingered electric bass and a standard drum kit.",
+        "Baseline Prompt": "A recording of a guitar melody, a fingered electric bass and a standard drum kit.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered electric bass",
+        "Drums Softmask Prompt": "a standard drum kit",
+        "Others Softmask Prompt": "a guitar melody"
+    },
+    "saxophone2piano": {
+        "Original Prompt": "A recording of a smooth saxophone solo, a fingered electric bass and a standard drum kit.",
+        "Baseline Prompt": "A recording of a piano melody, a fingered electric bass and a standard drum kit.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered electric bass",
+        "Drums Softmask Prompt": "a standard drum kit",
+        "Others Softmask Prompt": "a piano melody"
+    },
+    "saxophone2trumpet": {
+        "Original Prompt": "A recording of a smooth saxophone solo, a fingered electric bass and a standard drum kit.",
+        "Baseline Prompt": "A recording of a trumpet melody, a fingered electric bass and a standard drum kit.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered electric bass",
+        "Drums Softmask Prompt": "a standard drum kit",
+        "Others Softmask Prompt": "a trumpet melody"
+    },
+    "saxophone2violin": {
+        "Original Prompt": "A recording of a smooth saxophone solo, a fingered electric bass and a standard drum kit.",
+        "Baseline Prompt": "A recording of a violin melody, a fingered electric bass and a standard drum kit.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered electric bass",
+        "Drums Softmask Prompt": "a standard drum kit",
+        "Others Softmask Prompt": "a violin melody"
+    },
+    "saxophone2flute": {
+        "Original Prompt": "A recording of a smooth saxophone solo, a fingered electric bass and a standard drum kit.",
+        "Baseline Prompt": "A recording of a flute melody, a fingered electric bass and a standard drum kit.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered electric bass",
+        "Drums Softmask Prompt": "a standard drum kit",
+        "Others Softmask Prompt": "a flute"
+    },
+    "bass2upright": {
+        "Original Prompt": "A recording of a smooth saxophone solo, a fingered electric bass and a standard drum kit.",
+        "Baseline Prompt": "A recording of a smooth saxophone solo, an upright bass and a standard drum kit.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "an upright bass",
+        "Drums Softmask Prompt": "a standard drum kit",
+        "Others Softmask Prompt": "a smooth saxophone solo"
+    },
+    "bass2synth": {
+        "Original Prompt": "A recording of a smooth saxophone solo, a fingered electric bass and a standard drum kit.",
+        "Baseline Prompt": "A recording of a smooth saxophone solo, a synth bass and a standard drum kit.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a synth bass",
+        "Drums Softmask Prompt": "a standard drum kit",
+        "Others Softmask Prompt": "a smooth saxophone solo"
+    },
+    "drums2jazz": {
+        "Original Prompt": "A recording of a smooth saxophone solo, a fingered electric bass and a standard drum kit.",
+        "Baseline Prompt": "A recording of a smooth saxophone solo, a fingered electric bass and a jazz drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered electric bass",
+        "Drums Softmask Prompt": "a jazz drum",
+        "Others Softmask Prompt": "a smooth saxophone solo"
+    },
+    "drums2funk": {
+        "Original Prompt": "A recording of a smooth saxophone solo, a fingered electric bass and a standard drum kit.",
+        "Baseline Prompt": "A recording of a smooth saxophone solo, a fingered electric bass and a funk drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered electric bass",
+        "Drums Softmask Prompt": "a funk drum",
+        "Others Softmask Prompt": "a smooth saxophone solo"
+    },
+    "drums2electronic": {
+        "Original Prompt": "A recording of a smooth saxophone solo, a fingered electric bass and a standard drum kit.",
+        "Baseline Prompt": "A recording of a smooth saxophone solo, a fingered electric bass and an electronic drum.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered electric bass",
+        "Drums Softmask Prompt": "an electronic drum",
+        "Others Softmask Prompt": "a smooth saxophone solo"
+    },
+    "drums2latin": {
+        "Original Prompt": "A recording of a smooth saxophone solo, a fingered electric bass and a standard drum kit.",
+        "Baseline Prompt": "A recording of a smooth saxophone solo, a fingered electric bass and a latin percussion.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered electric bass",
+        "Drums Softmask Prompt": "a latin percussion",
+        "Others Softmask Prompt": "a smooth saxophone solo"
+    },
+    "saxophone2cello": {
+        "Original Prompt": "A recording of a smooth saxophone solo, a fingered electric bass and a standard drum kit.",
+        "Baseline Prompt": "A recording of a cello melody, a fingered electric bass and a standard drum kit.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered electric bass",
+        "Drums Softmask Prompt": "a standard drum kit",
+        "Others Softmask Prompt": "a cello melody"
+    },
+    "saxophone2clarinet": {
+        "Original Prompt": "A recording of a smooth saxophone solo, a fingered electric bass and a standard drum kit.",
+        "Baseline Prompt": "A recording of a clarinet melody, a fingered electric bass and a standard drum kit.",
+        "Vocals Softmask Prompt": "",   
+        "Bass Softmask Prompt": "a fingered electric bass",
+        "Drums Softmask Prompt": "a standard drum kit",
+        "Others Softmask Prompt": "a clarinet melody"
+    },
+    "saxophone2trombone": {
+        "Original Prompt": "A recording of a smooth saxophone solo, a fingered electric bass and a standard drum kit.",
+        "Baseline Prompt": "A recording of a trombone melody, a fingered electric bass and a standard drum kit.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered electric bass",
+        "Drums Softmask Prompt": "a standard drum kit",
+        "Others Softmask Prompt": "a trombone melody"
+    },
+    "saxophone2organ": {
+        "Original Prompt": "A recording of a smooth saxophone solo, a fingered electric bass and a standard drum kit.",
+        "Baseline Prompt": "A recording of a organ melody, a fingered electric bass and a standard drum kit.",
+        "Vocals Softmask Prompt": "",
+        "Bass Softmask Prompt": "a fingered electric bass",
+        "Drums Softmask Prompt": "a standard drum kit",
+        "Others Softmask Prompt": "a organ melody"
+    }
+}
