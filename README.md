@@ -1,6 +1,7 @@
 <div align="center">
 
-# Polyphonia 🎶  
+# Polyphonia 🎶
+
 ### Zero-Shot Timbre Transfer in Polyphonic Music with Acoustic-Informed Attention Calibration
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
@@ -54,15 +55,15 @@ The current dependency file is configured for **CUDA 12.4 PyTorch wheels**. If y
 ```text
 polyphonia/
 ├── PolyEvalPrompts/
-│   ├── musdb18_test/      
-│   └── musicdelta/    
-├── sample/                
+│   ├── musdb18_test/
+│   └── musicdelta/
+├── sample/
 ├── run_sample_exp.py      # Inference script for single-sample editing
 ├── edit.py                # Core Polyphonia editor and attention calibration mechanisms
 ├── my_audioldm2.py        # AudioLDM2 loading and attention-layer access
 ├── audio_utils.py         # Audio loading and acoustic mask generation
 ├── utils.py               # Attention calibration utilities and visualization helpers
-├── requirements.txt       
+├── requirements.txt
 └── README.md
 ```
 
@@ -107,7 +108,7 @@ For evaluation, PolyEvalPrompts is applied to the **MUSDB18-HQ test subset** and
 
 > **Note:** This repository provides the PolyEvalPrompts prompt files. The corresponding audio data should be prepared separately according to the licenses and usage terms of MUSDB18-HQ and MusicDelta.
 
------------
+---
 
 ## Quick Start
 
@@ -134,8 +135,12 @@ A `prompt_multi.json` example:
 ```json
 {
   "vocals2violin": {
-    "Baseline Prompt": "A recording of vocals with bass, drums, and accompaniment.",
-    "Vocals Softmask Prompt": "A recording of a gentle violin with bass, drums, and accompaniment."
+    "Original Prompt": "A recording of soulful male vocals, deep bass, atmospheric synth and punchy drums.",
+    "Baseline Prompt": "A recording of a smooth violin, deep bass, atmospheric synth and punchy drums.",
+    "Vocals Softmask Prompt": "a smooth violin",
+    "Bass Softmask Prompt": "deep bass",
+    "Drums Softmask Prompt": "punchy drums",
+    "Others Softmask Prompt": "atmospheric synth"
   }
 }
 ```
@@ -205,13 +210,13 @@ If you find this repository useful for your research, please cite our paper:
 
 ```bibtex
 @misc{li2026polyphoniazeroshottimbretransfer,
-      title={Polyphonia: Zero-Shot Timbre Transfer in Polyphonic Music with Acoustic-Informed Attention Calibration}, 
+      title={Polyphonia: Zero-Shot Timbre Transfer in Polyphonic Music with Acoustic-Informed Attention Calibration},
       author={Haowen Li and Tianxiang Li and Yi Yang and Boyu Cao and Qi Liu},
       year={2026},
       eprint={2605.10203},
       archivePrefix={arXiv},
       primaryClass={cs.SD},
-      url={https://arxiv.org/abs/2605.10203}, 
+      url={https://arxiv.org/abs/2605.10203},
 }
 ```
 
